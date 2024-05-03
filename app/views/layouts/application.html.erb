@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>TwitterClone</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <%= csrf_meta_tags %>
+    <%= csp_meta_tag %>
+    <%= stylesheet_link_tag "application", "data-turbo-track": "reload" %>
+    <%= javascript_importmap_tags %>
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-sm bg-dark mb-3 px-3 py-2" data-bs-theme="dark">
+      <div class="container-fluid">
+        <%= link_to 'Twitter Clone', root_path, class: "navbar-brand fs-2" %>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav ms-auto mb-2 mb-lg-0" >
+            <% if user_signed_in? %>
+              <li class="nav-item"><%= link_to 'Sign Out', destroy_user_session_path, data: { turbo_method: :delete},class: "nav-link" %></li>
+              <li class="nav-item"><%= link_to 'My Profile', user_path(current_user), class: "nav-link" %></li>
+              <li class="nav-item"><%= link_to 'Settings', settings_path, class: "nav-link" %></li>
+            <% end %>
+          </ul>
+        </div>
+      </div>
+      <div class="col-auto d-none d-sm-block">
+        <% if current_user != nil && current_user.avatar.attached? %>
+          <%= image_tag current_user.avatar.variant(resize_to_limit: [64, 64]).processed, alt: 'user_avatar', height: '50px', width: '50px', style: "object-fit: cover", class: "rounded-circle" %>
+        <% elsif current_user != nil %>
+          <%= image_tag "no_avatar.svg", alt: 'no_avatar.svg', height: '50', width: '50', style: "object-fit: cover", class: "rounded-circle" %>
+        <% end %>
+      </div>
+    </nav>
+    <div class="container col-sm-9 col-md-8 col-lg-7 col-xl-6 col-xxl-5">
+      <% if notice.present? %>
+        <div class="alert alert-primary mb-3">
+          <p class=""><%= notice %></p>
+        </div>
+      <% end %>
+      <% if alert.present? %>
+        <div class="alert alert-secondary mb-3">
+          <p class=""><%= alert %></p>
+        </div>
+      <% end %>
+      <%= yield %>
+    </div>
+  </body>
+</html>

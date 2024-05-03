@@ -1,0 +1,8 @@
+<h1>Tweet Likers</h1>
+<% unless @tweet.likers.empty? %>
+  <% @tweet.likers.each do |liker| %>
+    <%= render  partial: "users/user_card", locals: {user: liker} %>
+  <% end %>
+<% else %>
+  <h2>No one liked this tweet</h2>
+<% end %>

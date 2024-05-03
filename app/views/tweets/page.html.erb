@@ -1,0 +1,19 @@
+<%= turbo_frame_tag([:tweets, @page]) do %>
+  <% @tweets.each do |tweet| %>
+    <%= render  partial: "tweet", locals: {tweet: tweet, likes_count: @likes_count} %>
+  <% end %>
+  <%= turbo_stream.append :tweets_container do %>
+    <% if @page < @total_pages %>
+      <% user_id = @user ? @user.id : nil %>
+      <%= turbo_frame_tag([:tweets, @page + 1], src: page_path(last_tweet_id: @last_tweet_id, page: @page + 1, user_id: user_id), loading: :lazy) do %>
+        <div class="d-flex justify-content-center m-5">
+          <div class="spinner-border" role="status">
+            <span class="visually-hidden">Loading...</span>
+          </div>
+        </div>
+      <% end %>
+    <% else %>
+      <div class="alert alert-info m-3">No more tweets</div>
+    <% end %>
+  <% end %>
+<% end %>
