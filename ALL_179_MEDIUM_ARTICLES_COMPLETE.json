@@ -1,0 +1,2753 @@
+{
+  "collection_info": {
+    "author": "ismatsamadov",
+    "total_articles": 182,
+    "scraped_at": "2025-09-19T12:16:27.905494",
+    "source": "Medium profile analysis",
+    "note": "This represents the complete collection of articles. Full content extraction requires Medium subscription access.",
+    "article_topics": [
+      "Data Science & Machine Learning",
+      "Software Development",
+      "Artificial Intelligence",
+      "Web Development",
+      "Java Programming",
+      "Business Analysis",
+      "Fraud Detection",
+      "Agile Methodology",
+      "Technology Analysis",
+      "Personal Development"
+    ]
+  },
+  "articles": [
+    {
+      "id": "443bdeb0604a",
+      "title": "From Frustration to Innovation: My Journey Building BirJob, Azerbaijan's Premier Job-Matching iOS…",
+      "url": "https://ismatsamadov.medium.com/from-frustration-to-innovation-my-journey-building-birjob-azerbaijans-premier-job-matching-ios…-443bdeb0604a",
+      "estimated_slug": "from-frustration-to-innovation-my-journey-building-birjob-azerbaijans-premier-job-matching-ios…",
+      "article_number": 1,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905084",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 1/179] From Frustration to Innovation: My Journey Building BirJob, Azerbaijan's Premier Job-Matching iOS…\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "cc580c5eecd9",
+      "title": "Logging Out",
+      "url": "https://ismatsamadov.medium.com/logging-out-cc580c5eecd9",
+      "estimated_slug": "logging-out",
+      "article_number": 2,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905092",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 2/179] Logging Out\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "872583f14fad",
+      "title": "Bridging Physics and Machine Learning",
+      "url": "https://ismatsamadov.medium.com/bridging-physics-and-machine-learning-872583f14fad",
+      "estimated_slug": "bridging-physics-and-machine-learning",
+      "article_number": 3,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905094",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 3/179] Bridging Physics and Machine Learning\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "854b99de3653",
+      "title": "Can One Person Really Build a Digital Business with Generative AI?",
+      "url": "https://ismatsamadov.medium.com/can-one-person-really-build-a-digital-business-with-generative-ai-854b99de3653",
+      "estimated_slug": "can-one-person-really-build-a-digital-business-with-generative-ai",
+      "article_number": 4,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905099",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 4/179] Can One Person Really Build a Digital Business with Generative AI?\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "5d22a632b94d",
+      "title": "Confidence Intervals",
+      "url": "https://ismatsamadov.medium.com/confidence-intervals-5d22a632b94d",
+      "estimated_slug": "confidence-intervals",
+      "article_number": 5,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905101",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 5/179] Confidence Intervals\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "c53eddddbd07",
+      "title": "Prompt Engineering",
+      "url": "https://ismatsamadov.medium.com/prompt-engineering-c53eddddbd07",
+      "estimated_slug": "prompt-engineering",
+      "article_number": 6,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905103",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 6/179] Prompt Engineering\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "e74ed453e5cc",
+      "title": "Lost Generation 2.0",
+      "url": "https://ismatsamadov.medium.com/lost-generation-20-e74ed453e5cc",
+      "estimated_slug": "lost-generation-20",
+      "article_number": 7,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905105",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 7/179] Lost Generation 2.0\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "13fddfc5b5b8",
+      "title": "Advanced Concepts in Data Science",
+      "url": "https://ismatsamadov.medium.com/advanced-concepts-in-data-science-13fddfc5b5b8",
+      "estimated_slug": "advanced-concepts-in-data-science",
+      "article_number": 8,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905107",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 8/179] Advanced Concepts in Data Science\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "e69c9649f886",
+      "title": "Why Becoming a Software Developer Still Matters",
+      "url": "https://ismatsamadov.medium.com/why-becoming-a-software-developer-still-matters-e69c9649f886",
+      "estimated_slug": "why-becoming-a-software-developer-still-matters",
+      "article_number": 9,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905109",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 9/179] Why Becoming a Software Developer Still Matters\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "ffe2c9bc3255",
+      "title": "Forensic Analysis of Registered Users",
+      "url": "https://ismatsamadov.medium.com/forensic-analysis-of-registered-users-ffe2c9bc3255",
+      "estimated_slug": "forensic-analysis-of-registered-users",
+      "article_number": 10,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905111",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 10/179] Forensic Analysis of Registered Users\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "cb861ad2a7ac",
+      "title": "Reasoning and Pattern Recognition in Data Science: Understanding How Machines Make Sense of Data",
+      "url": "https://ismatsamadov.medium.com/reasoning-and-pattern-recognition-in-data-science-understanding-how-machines-make-sense-of-data-cb861ad2a7ac",
+      "estimated_slug": "reasoning-and-pattern-recognition-in-data-science-understanding-how-machines-make-sense-of-data",
+      "article_number": 11,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905114",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 11/179] Reasoning and Pattern Recognition in Data Science: Understanding How Machines Make Sense of Data\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "bec615565cc5",
+      "title": "The Mersenne Twister Algorithm. A Deep Dive into a Pseudo-Random Number Generator",
+      "url": "https://ismatsamadov.medium.com/the-mersenne-twister-algorithm-a-deep-dive-into-a-pseudo-random-number-generator-bec615565cc5",
+      "estimated_slug": "the-mersenne-twister-algorithm-a-deep-dive-into-a-pseudo-random-number-generator",
+      "article_number": 12,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905116",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 12/179] The Mersenne Twister Algorithm. A Deep Dive into a Pseudo-Random Number Generator\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "aef9732d0dc4",
+      "title": "Understanding Randomness, Entropy, and Random Number Generators: From Pseudo-RNGs to True RNGs",
+      "url": "https://ismatsamadov.medium.com/understanding-randomness-entropy-and-random-number-generators-from-pseudo-rngs-to-true-rngs-aef9732d0dc4",
+      "estimated_slug": "understanding-randomness-entropy-and-random-number-generators-from-pseudo-rngs-to-true-rngs",
+      "article_number": 13,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905119",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 13/179] Understanding Randomness, Entropy, and Random Number Generators: From Pseudo-RNGs to True RNGs\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "88bed4c5de8d",
+      "title": "Embedded Operating Systems: The Backbone of Advanced Systems like the F-35",
+      "url": "https://ismatsamadov.medium.com/embedded-operating-systems-the-backbone-of-advanced-systems-like-the-f-35-88bed4c5de8d",
+      "estimated_slug": "embedded-operating-systems-the-backbone-of-advanced-systems-like-the-f-35",
+      "article_number": 14,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905121",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 14/179] Embedded Operating Systems: The Backbone of Advanced Systems like the F-35\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "b8f3501c3ce5",
+      "title": "Why Tree and Graph-Based Machine Learning Models Work Well with Fraud Detection",
+      "url": "https://ismatsamadov.medium.com/why-tree-and-graph-based-machine-learning-models-work-well-with-fraud-detection-b8f3501c3ce5",
+      "estimated_slug": "why-tree-and-graph-based-machine-learning-models-work-well-with-fraud-detection",
+      "article_number": 15,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905123",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 15/179] Why Tree and Graph-Based Machine Learning Models Work Well with Fraud Detection\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "2fb0c8f29a65",
+      "title": "Time Series Forecasting . Different Models with Examples",
+      "url": "https://ismatsamadov.medium.com/time-series-forecasting-different-models-with-examples-2fb0c8f29a65",
+      "estimated_slug": "time-series-forecasting-different-models-with-examples",
+      "article_number": 16,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905127",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 16/179] Time Series Forecasting . Different Models with Examples\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "cf99dd9d358d",
+      "title": "Understanding Evaluation Metrics for Machine Learning Models",
+      "url": "https://ismatsamadov.medium.com/understanding-evaluation-metrics-for-machine-learning-models-cf99dd9d358d",
+      "estimated_slug": "understanding-evaluation-metrics-for-machine-learning-models",
+      "article_number": 17,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905129",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 17/179] Understanding Evaluation Metrics for Machine Learning Models\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "8db20df67341",
+      "title": "Outlier Detection in Machine Learning.",
+      "url": "https://ismatsamadov.medium.com/outlier-detection-in-machine-learning-8db20df67341",
+      "estimated_slug": "outlier-detection-in-machine-learning",
+      "article_number": 18,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905131",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 18/179] Outlier Detection in Machine Learning.\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "4a6f75259247",
+      "title": "Humanization in the Age of AI.",
+      "url": "https://ismatsamadov.medium.com/humanization-in-the-age-of-ai-4a6f75259247",
+      "estimated_slug": "humanization-in-the-age-of-ai",
+      "article_number": 19,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905133",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 19/179] Humanization in the Age of AI.\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "8c9754e21e81",
+      "title": "Fake News Detection. Challenges and Machine Learning Models to Combat Disinformation",
+      "url": "https://ismatsamadov.medium.com/fake-news-detection-challenges-and-machine-learning-models-to-combat-disinformation-8c9754e21e81",
+      "estimated_slug": "fake-news-detection-challenges-and-machine-learning-models-to-combat-disinformation",
+      "article_number": 20,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905135",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 20/179] Fake News Detection. Challenges and Machine Learning Models to Combat Disinformation\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "c6cef888f30a",
+      "title": "Node.js, Deno, and Bun",
+      "url": "https://ismatsamadov.medium.com/nodejs-deno-and-bun-c6cef888f30a",
+      "estimated_slug": "nodejs-deno-and-bun",
+      "article_number": 21,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905196",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 21/179] Node.js, Deno, and Bun\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "dca08c4cc1cd",
+      "title": "Agile Prioritization Techniques You Must Know",
+      "url": "https://ismatsamadov.medium.com/agile-prioritization-techniques-you-must-know-dca08c4cc1cd",
+      "estimated_slug": "agile-prioritization-techniques-you-must-know",
+      "article_number": 22,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905198",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 22/179] Agile Prioritization Techniques You Must Know\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "4c3b3d040a4e",
+      "title": "Agile Requirements Gathering Methodologies",
+      "url": "https://ismatsamadov.medium.com/agile-requirements-gathering-methodologies-4c3b3d040a4e",
+      "estimated_slug": "agile-requirements-gathering-methodologies",
+      "article_number": 23,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905200",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 23/179] Agile Requirements Gathering Methodologies\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "3185f49f390b",
+      "title": "What is a User Story in Agile? Explained with Examples",
+      "url": "https://ismatsamadov.medium.com/what-is-a-user-story-in-agile-explained-with-examples-3185f49f390b",
+      "estimated_slug": "what-is-a-user-story-in-agile-explained-with-examples",
+      "article_number": 24,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905202",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 24/179] What is a User Story in Agile? Explained with Examples\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "1f4cc181090e",
+      "title": "AI Frameworks: What You Need to Know",
+      "url": "https://ismatsamadov.medium.com/ai-frameworks-what-you-need-to-know-1f4cc181090e",
+      "estimated_slug": "ai-frameworks-what-you-need-to-know",
+      "article_number": 25,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905204",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 25/179] AI Frameworks: What You Need to Know\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "052492fa09e1",
+      "title": "Approaches to Reasoning in Artificial Intelligence",
+      "url": "https://ismatsamadov.medium.com/approaches-to-reasoning-in-artificial-intelligence-052492fa09e1",
+      "estimated_slug": "approaches-to-reasoning-in-artificial-intelligence",
+      "article_number": 26,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905206",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 26/179] Approaches to Reasoning in Artificial Intelligence\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "e84cf341552a",
+      "title": "Can Apple Ever Fail?",
+      "url": "https://ismatsamadov.medium.com/can-apple-ever-fail-e84cf341552a",
+      "estimated_slug": "can-apple-ever-fail",
+      "article_number": 27,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905208",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 27/179] Can Apple Ever Fail?\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "4c2ad56707a8",
+      "title": "We Have No Data Left",
+      "url": "https://ismatsamadov.medium.com/we-have-no-data-left-4c2ad56707a8",
+      "estimated_slug": "we-have-no-data-left",
+      "article_number": 28,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905210",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 28/179] We Have No Data Left\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "c51b18502e8f",
+      "title": "Explainable AI",
+      "url": "https://ismatsamadov.medium.com/explainable-ai-c51b18502e8f",
+      "estimated_slug": "explainable-ai",
+      "article_number": 29,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905211",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 29/179] Explainable AI\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "e522218f813c",
+      "title": "Graph Machine Learning Models",
+      "url": "https://ismatsamadov.medium.com/graph-machine-learning-models-e522218f813c",
+      "estimated_slug": "graph-machine-learning-models",
+      "article_number": 30,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905213",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 30/179] Graph Machine Learning Models\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "c3e31592c9d8",
+      "title": "SwiftData vs Core Data",
+      "url": "https://ismatsamadov.medium.com/swiftdata-vs-core-data-c3e31592c9d8",
+      "estimated_slug": "swiftdata-vs-core-data",
+      "article_number": 31,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905215",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 31/179] SwiftData vs Core Data\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "5c7f40e6a430",
+      "title": "SwiftUI vs Storyboard",
+      "url": "https://ismatsamadov.medium.com/swiftui-vs-storyboard-5c7f40e6a430",
+      "estimated_slug": "swiftui-vs-storyboard",
+      "article_number": 32,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905217",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 32/179] SwiftUI vs Storyboard\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "0639b4fbe02a",
+      "title": "5 Stages of Startup Success",
+      "url": "https://ismatsamadov.medium.com/5-stages-of-startup-success-0639b4fbe02a",
+      "estimated_slug": "5-stages-of-startup-success",
+      "article_number": 33,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905218",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 33/179] 5 Stages of Startup Success\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "4ef9fa72738e",
+      "title": "7 Funding Rounds Every Startup Should Know",
+      "url": "https://ismatsamadov.medium.com/7-funding-rounds-every-startup-should-know-4ef9fa72738e",
+      "estimated_slug": "7-funding-rounds-every-startup-should-know",
+      "article_number": 34,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905220",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 34/179] 7 Funding Rounds Every Startup Should Know\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "752087fcaafa",
+      "title": "5 Proven Business Models That Drive Massive Profits for Startups",
+      "url": "https://ismatsamadov.medium.com/5-proven-business-models-that-drive-massive-profits-for-startups-752087fcaafa",
+      "estimated_slug": "5-proven-business-models-that-drive-massive-profits-for-startups",
+      "article_number": 35,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905222",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 35/179] 5 Proven Business Models That Drive Massive Profits for Startups\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "96d37208e200",
+      "title": "The Legal Landscape of Web Scraping: Key Court Decisions You Should Know",
+      "url": "https://ismatsamadov.medium.com/the-legal-landscape-of-web-scraping-key-court-decisions-you-should-know-96d37208e200",
+      "estimated_slug": "the-legal-landscape-of-web-scraping-key-court-decisions-you-should-know",
+      "article_number": 36,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905224",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 36/179] The Legal Landscape of Web Scraping: Key Court Decisions You Should Know\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "350a2d63edd8",
+      "title": "The 5 Pillars of Successful Team Adaptation",
+      "url": "https://ismatsamadov.medium.com/the-5-pillars-of-successful-team-adaptation-350a2d63edd8",
+      "estimated_slug": "the-5-pillars-of-successful-team-adaptation",
+      "article_number": 37,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905226",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 37/179] The 5 Pillars of Successful Team Adaptation\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "81e4fa1a36ab",
+      "title": "Recruitment Steps",
+      "url": "https://ismatsamadov.medium.com/recruitment-steps-81e4fa1a36ab",
+      "estimated_slug": "recruitment-steps",
+      "article_number": 38,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905228",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 38/179] Recruitment Steps\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "ac29307334e6",
+      "title": "Return vs Yield",
+      "url": "https://ismatsamadov.medium.com/return-vs-yield-ac29307334e6",
+      "estimated_slug": "return-vs-yield",
+      "article_number": 39,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905229",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 39/179] Return vs Yield\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "8dd1fd239d1f",
+      "title": "Location Analytics",
+      "url": "https://ismatsamadov.medium.com/location-analytics-8dd1fd239d1f",
+      "estimated_slug": "location-analytics",
+      "article_number": 40,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905231",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 40/179] Location Analytics\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "0a1a985dc08c",
+      "title": "Top 5 Ultrabooks of 2024: The Ultimate Portable Powerhouses for Professionals",
+      "url": "https://ismatsamadov.medium.com/top-5-ultrabooks-of-2024-the-ultimate-portable-powerhouses-for-professionals-0a1a985dc08c",
+      "estimated_slug": "top-5-ultrabooks-of-2024-the-ultimate-portable-powerhouses-for-professionals",
+      "article_number": 41,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905233",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 41/179] Top 5 Ultrabooks of 2024: The Ultimate Portable Powerhouses for Professionals\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "ce4ff215ff89",
+      "title": "How to Build a Tech Startup with Zero Coding Skills",
+      "url": "https://ismatsamadov.medium.com/how-to-build-a-tech-startup-with-zero-coding-skills-ce4ff215ff89",
+      "estimated_slug": "how-to-build-a-tech-startup-with-zero-coding-skills",
+      "article_number": 42,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905235",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 42/179] How to Build a Tech Startup with Zero Coding Skills\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "8264c3fec7fa",
+      "title": "Mastering Business Analysis: Key Techniques and Real-World Scenarios",
+      "url": "https://ismatsamadov.medium.com/mastering-business-analysis-key-techniques-and-real-world-scenarios-8264c3fec7fa",
+      "estimated_slug": "mastering-business-analysis-key-techniques-and-real-world-scenarios",
+      "article_number": 43,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905237",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 43/179] Mastering Business Analysis: Key Techniques and Real-World Scenarios\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "d38d71b70be4",
+      "title": "The Coffee Shop Business: An Analysis of Trends, Opportunities, and Challenges",
+      "url": "https://ismatsamadov.medium.com/the-coffee-shop-business-an-analysis-of-trends-opportunities-and-challenges-d38d71b70be4",
+      "estimated_slug": "the-coffee-shop-business-an-analysis-of-trends-opportunities-and-challenges",
+      "article_number": 44,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905239",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 44/179] The Coffee Shop Business: An Analysis of Trends, Opportunities, and Challenges\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "e77a12c919ca",
+      "title": "The Global Recruiting Industry: Trends, Growth, and Future Projections",
+      "url": "https://ismatsamadov.medium.com/the-global-recruiting-industry-trends-growth-and-future-projections-e77a12c919ca",
+      "estimated_slug": "the-global-recruiting-industry-trends-growth-and-future-projections",
+      "article_number": 45,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905241",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 45/179] The Global Recruiting Industry: Trends, Growth, and Future Projections\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "cd59ef9b6b86",
+      "title": "Maximizing Efficiency with RPA: Identifying Automation Opportunities and Mastering Data Collection",
+      "url": "https://ismatsamadov.medium.com/maximizing-efficiency-with-rpa-identifying-automation-opportunities-and-mastering-data-collection-cd59ef9b6b86",
+      "estimated_slug": "maximizing-efficiency-with-rpa-identifying-automation-opportunities-and-mastering-data-collection",
+      "article_number": 46,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905245",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 46/179] Maximizing Efficiency with RPA: Identifying Automation Opportunities and Mastering Data Collection\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "f814e23c525f",
+      "title": "Building a Budget Analysis Tool with Machine Learning and Python",
+      "url": "https://ismatsamadov.medium.com/building-a-budget-analysis-tool-with-machine-learning-and-python-f814e23c525f",
+      "estimated_slug": "building-a-budget-analysis-tool-with-machine-learning-and-python",
+      "article_number": 47,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905247",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 47/179] Building a Budget Analysis Tool with Machine Learning and Python\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "596e9333e10f",
+      "title": "Root Cause Analysis Explained: Definition, Examples, and Methods",
+      "url": "https://ismatsamadov.medium.com/root-cause-analysis-explained-definition-examples-and-methods-596e9333e10f",
+      "estimated_slug": "root-cause-analysis-explained-definition-examples-and-methods",
+      "article_number": 48,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905249",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 48/179] Root Cause Analysis Explained: Definition, Examples, and Methods\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "0003809a4baa",
+      "title": "Functional vs Procedural Programming and Declarative vs Imperative Programming",
+      "url": "https://ismatsamadov.medium.com/functional-vs-procedural-programming-and-declarative-vs-imperative-programming-0003809a4baa",
+      "estimated_slug": "functional-vs-procedural-programming-and-declarative-vs-imperative-programming",
+      "article_number": 49,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905250",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 49/179] Functional vs Procedural Programming and Declarative vs Imperative Programming\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "53d694d745a2",
+      "title": "An Introduction to Socket Programming in Python",
+      "url": "https://ismatsamadov.medium.com/an-introduction-to-socket-programming-in-python-53d694d745a2",
+      "estimated_slug": "an-introduction-to-socket-programming-in-python",
+      "article_number": 50,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905252",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 50/179] An Introduction to Socket Programming in Python\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "a491edb0e496",
+      "title": "Vectorized NumPy Functions",
+      "url": "https://ismatsamadov.medium.com/vectorized-numpy-functions-a491edb0e496",
+      "estimated_slug": "vectorized-numpy-functions",
+      "article_number": 51,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905254",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 51/179] Vectorized NumPy Functions\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "e35d4eb8500a",
+      "title": "Advanced Graph Fraud Models for Fraud Transaction Detection in Banking Data",
+      "url": "https://ismatsamadov.medium.com/advanced-graph-fraud-models-for-fraud-transaction-detection-in-banking-data-e35d4eb8500a",
+      "estimated_slug": "advanced-graph-fraud-models-for-fraud-transaction-detection-in-banking-data",
+      "article_number": 52,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905256",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 52/179] Advanced Graph Fraud Models for Fraud Transaction Detection in Banking Data\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "e0c71a77b271",
+      "title": "Churn Prediction Models",
+      "url": "https://ismatsamadov.medium.com/churn-prediction-models-e0c71a77b271",
+      "estimated_slug": "churn-prediction-models",
+      "article_number": 53,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905258",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 53/179] Churn Prediction Models\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "045aa4a50598",
+      "title": "Customer Lifetime Value (CLV)",
+      "url": "https://ismatsamadov.medium.com/customer-lifetime-value-clv-045aa4a50598",
+      "estimated_slug": "customer-lifetime-value-clv",
+      "article_number": 54,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905260",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 54/179] Customer Lifetime Value (CLV)\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "058e6f85e99e",
+      "title": "RUST",
+      "url": "https://ismatsamadov.medium.com/rust-058e6f85e99e",
+      "estimated_slug": "rust",
+      "article_number": 55,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905262",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 55/179] RUST\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "b32d0e5fe131",
+      "title": "ASGI vs WSGI",
+      "url": "https://ismatsamadov.medium.com/asgi-vs-wsgi-b32d0e5fe131",
+      "estimated_slug": "asgi-vs-wsgi",
+      "article_number": 56,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905264",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 56/179] ASGI vs WSGI\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "4c9eae03963b",
+      "title": "Gunicorn vs Uvicorn",
+      "url": "https://ismatsamadov.medium.com/gunicorn-vs-uvicorn-4c9eae03963b",
+      "estimated_slug": "gunicorn-vs-uvicorn",
+      "article_number": 57,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905265",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 57/179] Gunicorn vs Uvicorn\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "f93dc3454c9d",
+      "title": "WSGI",
+      "url": "https://ismatsamadov.medium.com/wsgi-f93dc3454c9d",
+      "estimated_slug": "wsgi",
+      "article_number": 58,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905267",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 58/179] WSGI\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "8b8a92c27c10",
+      "title": "ORM",
+      "url": "https://ismatsamadov.medium.com/orm-8b8a92c27c10",
+      "estimated_slug": "orm",
+      "article_number": 59,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905268",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 59/179] ORM\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "0b9221b05996",
+      "title": "MVC",
+      "url": "https://ismatsamadov.medium.com/mvc-0b9221b05996",
+      "estimated_slug": "mvc",
+      "article_number": 60,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905270",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 60/179] MVC\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "3988b43c0809",
+      "title": "Birth of Transformers",
+      "url": "https://ismatsamadov.medium.com/birth-of-transformers-3988b43c0809",
+      "estimated_slug": "birth-of-transformers",
+      "article_number": 61,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905271",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 61/179] Birth of Transformers\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "b18f3449faca",
+      "title": "Token in authentication",
+      "url": "https://ismatsamadov.medium.com/token-in-authentication-b18f3449faca",
+      "estimated_slug": "token-in-authentication",
+      "article_number": 62,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905273",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 62/179] Token in authentication\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "0f6fe93bdc51",
+      "title": "Hashcode",
+      "url": "https://ismatsamadov.medium.com/hashcode-0f6fe93bdc51",
+      "estimated_slug": "hashcode",
+      "article_number": 63,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905275",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 63/179] Hashcode\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "ca7877fc2ea4",
+      "title": "Business Case Example",
+      "url": "https://ismatsamadov.medium.com/business-case-example-ca7877fc2ea4",
+      "estimated_slug": "business-case-example",
+      "article_number": 64,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905276",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 64/179] Business Case Example\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "12fa464a36f8",
+      "title": "Recursion",
+      "url": "https://ismatsamadov.medium.com/recursion-12fa464a36f8",
+      "estimated_slug": "recursion",
+      "article_number": 65,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905278",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 65/179] Recursion\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "faa9eedec2c5",
+      "title": "OOP and Alternatives",
+      "url": "https://ismatsamadov.medium.com/oop-and-alternatives-faa9eedec2c5",
+      "estimated_slug": "oop-and-alternatives",
+      "article_number": 66,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905279",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 66/179] OOP and Alternatives\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "475ae918a90c",
+      "title": "Design Patterns",
+      "url": "https://ismatsamadov.medium.com/design-patterns-475ae918a90c",
+      "estimated_slug": "design-patterns",
+      "article_number": 67,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905281",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 67/179] Design Patterns\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "e111446745a1",
+      "title": "Redis",
+      "url": "https://ismatsamadov.medium.com/redis-e111446745a1",
+      "estimated_slug": "redis",
+      "article_number": 68,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905283",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 68/179] Redis\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "71b4140c7c8e",
+      "title": "Surviving From Imposter Syndrome",
+      "url": "https://ismatsamadov.medium.com/surviving-from-imposter-syndrome-71b4140c7c8e",
+      "estimated_slug": "surviving-from-imposter-syndrome",
+      "article_number": 69,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905284",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 69/179] Surviving From Imposter Syndrome\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "6745a9629b6d",
+      "title": "Time complexity for newbies",
+      "url": "https://ismatsamadov.medium.com/time-complexity-for-newbies-6745a9629b6d",
+      "estimated_slug": "time-complexity-for-newbies",
+      "article_number": 70,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905286",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 70/179] Time complexity for newbies\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "095b058fb873",
+      "title": "Visualization : The Art of Seeing Data",
+      "url": "https://ismatsamadov.medium.com/visualization-the-art-of-seeing-data-095b058fb873",
+      "estimated_slug": "visualization-the-art-of-seeing-data",
+      "article_number": 71,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905288",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 71/179] Visualization : The Art of Seeing Data\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "501e89f627c4",
+      "title": "The Data Dream Team: Understanding Roles in the Data Universe",
+      "url": "https://ismatsamadov.medium.com/the-data-dream-team-understanding-roles-in-the-data-universe-501e89f627c4",
+      "estimated_slug": "the-data-dream-team-understanding-roles-in-the-data-universe",
+      "article_number": 72,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905290",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 72/179] The Data Dream Team: Understanding Roles in the Data Universe\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "4f4d6b845aa3",
+      "title": "Roadmap to Data Science",
+      "url": "https://ismatsamadov.medium.com/roadmap-to-data-science-4f4d6b845aa3",
+      "estimated_slug": "roadmap-to-data-science",
+      "article_number": 73,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905292",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 73/179] Roadmap to Data Science\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "6c9d3dc59791",
+      "title": "Business Analyst Roadmap",
+      "url": "https://ismatsamadov.medium.com/business-analyst-roadmap-6c9d3dc59791",
+      "estimated_slug": "business-analyst-roadmap",
+      "article_number": 74,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905293",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 74/179] Business Analyst Roadmap\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "abe408448029",
+      "title": "Machine Learning and Cryptography",
+      "url": "https://ismatsamadov.medium.com/machine-learning-and-cryptography-abe408448029",
+      "estimated_slug": "machine-learning-and-cryptography",
+      "article_number": 75,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905295",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 75/179] Machine Learning and Cryptography\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "d1f3d0253995",
+      "title": "Kintsugi",
+      "url": "https://ismatsamadov.medium.com/kintsugi-d1f3d0253995",
+      "estimated_slug": "kintsugi",
+      "article_number": 76,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905297",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 76/179] Kintsugi\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "38c703e867a7",
+      "title": "Data Analyst Roadmap",
+      "url": "https://ismatsamadov.medium.com/data-analyst-roadmap-38c703e867a7",
+      "estimated_slug": "data-analyst-roadmap",
+      "article_number": 77,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905298",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 77/179] Data Analyst Roadmap\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "401665ee7734",
+      "title": "Backend Development: The Brains Behind the Beauty",
+      "url": "https://ismatsamadov.medium.com/backend-development-the-brains-behind-the-beauty-401665ee7734",
+      "estimated_slug": "backend-development-the-brains-behind-the-beauty",
+      "article_number": 78,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905301",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 78/179] Backend Development: The Brains Behind the Beauty\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "f66b356ad902",
+      "title": "Backend Roadmap (Node.js)",
+      "url": "https://ismatsamadov.medium.com/backend-roadmap-nodejs-f66b356ad902",
+      "estimated_slug": "backend-roadmap-nodejs",
+      "article_number": 79,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905302",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 79/179] Backend Roadmap (Node.js)\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "14ff93ddf3e2",
+      "title": "Stable Diffusion",
+      "url": "https://ismatsamadov.medium.com/stable-diffusion-14ff93ddf3e2",
+      "estimated_slug": "stable-diffusion",
+      "article_number": 80,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905304",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 80/179] Stable Diffusion\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "22fbe670d94f",
+      "title": "Pointers in C: A Human-Friendly Guide with Code Examples",
+      "url": "https://ismatsamadov.medium.com/pointers-in-c-a-human-friendly-guide-with-code-examples-22fbe670d94f",
+      "estimated_slug": "pointers-in-c-a-human-friendly-guide-with-code-examples",
+      "article_number": 81,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905306",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 81/179] Pointers in C: A Human-Friendly Guide with Code Examples\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "346c2155ec03",
+      "title": "Bitmap vs. B-Tree Indexes in Oracle SQL",
+      "url": "https://ismatsamadov.medium.com/bitmap-vs-b-tree-indexes-in-oracle-sql-346c2155ec03",
+      "estimated_slug": "bitmap-vs-b-tree-indexes-in-oracle-sql",
+      "article_number": 82,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905308",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 82/179] Bitmap vs. B-Tree Indexes in Oracle SQL\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "e1b8091a8d2f",
+      "title": "What Is MVP In Software Development?",
+      "url": "https://ismatsamadov.medium.com/what-is-mvp-in-software-development-e1b8091a8d2f",
+      "estimated_slug": "what-is-mvp-in-software-development",
+      "article_number": 83,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905311",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 83/179] What Is MVP In Software Development?\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "449eb889f2da",
+      "title": "Promises in JavaScript",
+      "url": "https://ismatsamadov.medium.com/promises-in-javascript-449eb889f2da",
+      "estimated_slug": "promises-in-javascript",
+      "article_number": 84,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905313",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 84/179] Promises in JavaScript\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "adeb6a35d0d9",
+      "title": "Correlated vs Non-Correlated Subquery",
+      "url": "https://ismatsamadov.medium.com/correlated-vs-non-correlated-subquery-adeb6a35d0d9",
+      "estimated_slug": "correlated-vs-non-correlated-subquery",
+      "article_number": 85,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905315",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 85/179] Correlated vs Non-Correlated Subquery\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "47c4c5ab6140",
+      "title": "The Web's Security Trifecta: SOP, CORS, and CSRF",
+      "url": "https://ismatsamadov.medium.com/the-webs-security-trifecta-sop-cors-and-csrf-47c4c5ab6140",
+      "estimated_slug": "the-webs-security-trifecta-sop-cors-and-csrf",
+      "article_number": 86,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905317",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 86/179] The Web's Security Trifecta: SOP, CORS, and CSRF\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "3027cd26c867",
+      "title": "Agile, Product Owner, and Scrum Master",
+      "url": "https://ismatsamadov.medium.com/agile-product-owner-and-scrum-master-3027cd26c867",
+      "estimated_slug": "agile-product-owner-and-scrum-master",
+      "article_number": 87,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905319",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 87/179] Agile, Product Owner, and Scrum Master\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "aba3d4b49c45",
+      "title": "REST API",
+      "url": "https://ismatsamadov.medium.com/rest-api-aba3d4b49c45",
+      "estimated_slug": "rest-api",
+      "article_number": 88,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905320",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 88/179] REST API\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "f0c3f04c9136",
+      "title": "Learn Coding by Doing: JIT",
+      "url": "https://ismatsamadov.medium.com/learn-coding-by-doing-jit-f0c3f04c9136",
+      "estimated_slug": "learn-coding-by-doing-jit",
+      "article_number": 89,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905322",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 89/179] Learn Coding by Doing: JIT\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "753a22258047",
+      "title": "Computer Vision",
+      "url": "https://ismatsamadov.medium.com/computer-vision-753a22258047",
+      "estimated_slug": "computer-vision",
+      "article_number": 90,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905324",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 90/179] Computer Vision\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "cf81121543f0",
+      "title": "Business Analyst",
+      "url": "https://ismatsamadov.medium.com/business-analyst-cf81121543f0",
+      "estimated_slug": "business-analyst",
+      "article_number": 91,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905325",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 91/179] Business Analyst\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "e1475003f225",
+      "title": "Mistral 8x7B: A Dense Language Model with Sparse Efficiency",
+      "url": "https://ismatsamadov.medium.com/mistral-8x7b-a-dense-language-model-with-sparse-efficiency-e1475003f225",
+      "estimated_slug": "mistral-8x7b-a-dense-language-model-with-sparse-efficiency",
+      "article_number": 92,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905327",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 92/179] Mistral 8x7B: A Dense Language Model with Sparse Efficiency\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "8a7a3f1bce09",
+      "title": "Data Scientist",
+      "url": "https://ismatsamadov.medium.com/data-scientist-8a7a3f1bce09",
+      "estimated_slug": "data-scientist",
+      "article_number": 93,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905329",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 93/179] Data Scientist\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "d9092f0e52ee",
+      "title": "Differences Between: Data Analyst, Business Analyst, IT Business Analyst, and Data Scientist",
+      "url": "https://ismatsamadov.medium.com/differences-between-data-analyst-business-analyst-it-business-analyst-and-data-scientist-d9092f0e52ee",
+      "estimated_slug": "differences-between-data-analyst-business-analyst-it-business-analyst-and-data-scientist",
+      "article_number": 94,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905332",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 94/179] Differences Between: Data Analyst, Business Analyst, IT Business Analyst, and Data Scientist\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "eb3d789747d5",
+      "title": "Data Analyst",
+      "url": "https://ismatsamadov.medium.com/data-analyst-eb3d789747d5",
+      "estimated_slug": "data-analyst",
+      "article_number": 95,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905333",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 95/179] Data Analyst\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "c7b4d328b403",
+      "title": "Backend as a Service: Your One-Stop Shop for Hidden App Magic",
+      "url": "https://ismatsamadov.medium.com/backend-as-a-service-your-one-stop-shop-for-hidden-app-magic-c7b4d328b403",
+      "estimated_slug": "backend-as-a-service-your-one-stop-shop-for-hidden-app-magic",
+      "article_number": 96,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905335",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 96/179] Backend as a Service: Your One-Stop Shop for Hidden App Magic\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "c580d85bc786",
+      "title": "Web Design Principles: A Symphony of Color, Typography, UI, and UX",
+      "url": "https://ismatsamadov.medium.com/web-design-principles-a-symphony-of-color-typography-ui-and-ux-c580d85bc786",
+      "estimated_slug": "web-design-principles-a-symphony-of-color-typography-ui-and-ux",
+      "article_number": 97,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905338",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 97/179] Web Design Principles: A Symphony of Color, Typography, UI, and UX\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "b19459fbb4be",
+      "title": "Grook",
+      "url": "https://ismatsamadov.medium.com/grook-b19459fbb4be",
+      "estimated_slug": "grook",
+      "article_number": 98,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905339",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 98/179] Grook\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "23125e6c5f6c",
+      "title": "Web Development: Color Theory and Typography",
+      "url": "https://ismatsamadov.medium.com/web-development-color-theory-and-typography-23125e6c5f6c",
+      "estimated_slug": "web-development-color-theory-and-typography",
+      "article_number": 99,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905341",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 99/179] Web Development: Color Theory and Typography\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "4fccb1dfed09",
+      "title": "Multimodal Models and Alternatives",
+      "url": "https://ismatsamadov.medium.com/multimodal-models-and-alternatives-4fccb1dfed09",
+      "estimated_slug": "multimodal-models-and-alternatives",
+      "article_number": 100,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905343",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 100/179] Multimodal Models and Alternatives\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "48a192bb416b",
+      "title": "ML Engineer Roadmap",
+      "url": "https://ismatsamadov.medium.com/ml-engineer-roadmap-48a192bb416b",
+      "estimated_slug": "ml-engineer-roadmap",
+      "article_number": 101,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905344",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 101/179] ML Engineer Roadmap\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "6e22cc36814e",
+      "title": "Roadmap to Web Development",
+      "url": "https://ismatsamadov.medium.com/roadmap-to-web-development-6e22cc36814e",
+      "estimated_slug": "roadmap-to-web-development",
+      "article_number": 102,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905346",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 102/179] Roadmap to Web Development\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "34d2f5e2928e",
+      "title": "Future Proof",
+      "url": "https://ismatsamadov.medium.com/future-proof-34d2f5e2928e",
+      "estimated_slug": "future-proof",
+      "article_number": 103,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905348",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 103/179] Future Proof\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "50117883d671",
+      "title": "The Creation of Google's AI Model: Gemini",
+      "url": "https://ismatsamadov.medium.com/the-creation-of-googles-ai-model-gemini-50117883d671",
+      "estimated_slug": "the-creation-of-googles-ai-model-gemini",
+      "article_number": 104,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905349",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 104/179] The Creation of Google's AI Model: Gemini\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "1a5ab3cf9252",
+      "title": "DevOps & DataOps",
+      "url": "https://ismatsamadov.medium.com/devops-and-dataops-1a5ab3cf9252",
+      "estimated_slug": "devops-and-dataops",
+      "article_number": 105,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905351",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 105/179] DevOps & DataOps\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "591d1ace376d",
+      "title": "Google Gemini: A New Era of AI",
+      "url": "https://ismatsamadov.medium.com/google-gemini-a-new-era-of-ai-591d1ace376d",
+      "estimated_slug": "google-gemini-a-new-era-of-ai",
+      "article_number": 106,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905353",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 106/179] Google Gemini: A New Era of AI\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "3b9d6dfeb1b3",
+      "title": "iPhone vs Android",
+      "url": "https://ismatsamadov.medium.com/iphone-vs-android-3b9d6dfeb1b3",
+      "estimated_slug": "iphone-vs-android",
+      "article_number": 107,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905355",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 107/179] iPhone vs Android\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "425a915e9c73",
+      "title": "Best 5 notebooks for AI development",
+      "url": "https://ismatsamadov.medium.com/best-5-notebooks-for-ai-development-425a915e9c73",
+      "estimated_slug": "best-5-notebooks-for-ai-development",
+      "article_number": 108,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905356",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 108/179] Best 5 notebooks for AI development\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "146d76f31ede",
+      "title": "MacOS vs. Windows vs. Linux",
+      "url": "https://ismatsamadov.medium.com/macos-vs-windows-vs-linux-146d76f31ede",
+      "estimated_slug": "macos-vs-windows-vs-linux",
+      "article_number": 109,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905358",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 109/179] MacOS vs. Windows vs. Linux\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "8d4aa3997deb",
+      "title": "Home Price Prediction E2E Web App",
+      "url": "https://ismatsamadov.medium.com/home-price-prediction-e2e-web-app-8d4aa3997deb",
+      "estimated_slug": "home-price-prediction-e2e-web-app",
+      "article_number": 110,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905360",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 110/179] Home Price Prediction E2E Web App\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "e2e754f70a13",
+      "title": "Automating Tasks with Windows Task Scheduler and Python",
+      "url": "https://ismatsamadov.medium.com/automating-tasks-with-windows-task-scheduler-and-python-e2e754f70a13",
+      "estimated_slug": "automating-tasks-with-windows-task-scheduler-and-python",
+      "article_number": 111,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905362",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 111/179] Automating Tasks with Windows Task Scheduler and Python\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "bed476cfc5de",
+      "title": "Web Scraping Methods and Techniques",
+      "url": "https://ismatsamadov.medium.com/web-scraping-methods-and-techniques-bed476cfc5de",
+      "estimated_slug": "web-scraping-methods-and-techniques",
+      "article_number": 112,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905364",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 112/179] Web Scraping Methods and Techniques\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "cc02ebd2698b",
+      "title": "Rethinking the Role of Universities in the 21st Century: Are They Becoming Obsolete?",
+      "url": "https://ismatsamadov.medium.com/rethinking-the-role-of-universities-in-the-21st-century-are-they-becoming-obsolete-cc02ebd2698b",
+      "estimated_slug": "rethinking-the-role-of-universities-in-the-21st-century-are-they-becoming-obsolete",
+      "article_number": 113,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905366",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 113/179] Rethinking the Role of Universities in the 21st Century: Are They Becoming Obsolete?\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "0ae9478a1db9",
+      "title": "Lua",
+      "url": "https://ismatsamadov.medium.com/lua-0ae9478a1db9",
+      "estimated_slug": "lua",
+      "article_number": 114,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905367",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 114/179] Lua\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "65c9328c15d8",
+      "title": "Unleashing the Power of Web Scraping with Scrapy Splash",
+      "url": "https://ismatsamadov.medium.com/unleashing-the-power-of-web-scraping-with-scrapy-splash-65c9328c15d8",
+      "estimated_slug": "unleashing-the-power-of-web-scraping-with-scrapy-splash",
+      "article_number": 115,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905369",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 115/179] Unleashing the Power of Web Scraping with Scrapy Splash\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "d6f6297ea338",
+      "title": "Embracing Ikigai: The Japanese Concept of Purpose and Fulfillment",
+      "url": "https://ismatsamadov.medium.com/embracing-ikigai-the-japanese-concept-of-purpose-and-fulfillment-d6f6297ea338",
+      "estimated_slug": "embracing-ikigai-the-japanese-concept-of-purpose-and-fulfillment",
+      "article_number": 116,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905371",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 116/179] Embracing Ikigai: The Japanese Concept of Purpose and Fulfillment\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "c08659aad8b0",
+      "title": "Flow Theory",
+      "url": "https://ismatsamadov.medium.com/flow-theory-c08659aad8b0",
+      "estimated_slug": "flow-theory",
+      "article_number": 117,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905373",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 117/179] Flow Theory\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "c9416965cab7",
+      "title": "A Deep Dive into the ACID Principles: Ensuring Reliable Data Transactions",
+      "url": "https://ismatsamadov.medium.com/a-deep-dive-into-the-acid-principles-ensuring-reliable-data-transactions-c9416965cab7",
+      "estimated_slug": "a-deep-dive-into-the-acid-principles-ensuring-reliable-data-transactions",
+      "article_number": 118,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905375",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 118/179] A Deep Dive into the ACID Principles: Ensuring Reliable Data Transactions\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "24a5c6c9c0c2",
+      "title": "Scheduled Scraping and Automated Data Storage with Free Cloud Databases",
+      "url": "https://ismatsamadov.medium.com/scheduled-scraping-and-automated-data-storage-with-free-cloud-databases-24a5c6c9c0c2",
+      "estimated_slug": "scheduled-scraping-and-automated-data-storage-with-free-cloud-databases",
+      "article_number": 119,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905377",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 119/179] Scheduled Scraping and Automated Data Storage with Free Cloud Databases\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "d346604df271",
+      "title": "PostgreSQL: A Comprehensive Guide to Powerful Relational Database Management",
+      "url": "https://ismatsamadov.medium.com/postgresql-a-comprehensive-guide-to-powerful-relational-database-management-d346604df271",
+      "estimated_slug": "postgresql-a-comprehensive-guide-to-powerful-relational-database-management",
+      "article_number": 120,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905379",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 120/179] PostgreSQL: A Comprehensive Guide to Powerful Relational Database Management\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "c5fd214cdd0d",
+      "title": "Docker",
+      "url": "https://ismatsamadov.medium.com/docker-c5fd214cdd0d",
+      "estimated_slug": "docker",
+      "article_number": 121,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905380",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 121/179] Docker\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "62e0b5b350c9",
+      "title": "Nginx",
+      "url": "https://ismatsamadov.medium.com/nginx-62e0b5b350c9",
+      "estimated_slug": "nginx",
+      "article_number": 122,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905382",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 122/179] Nginx\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "f5a236757c6e",
+      "title": "Multithreading in Java",
+      "url": "https://ismatsamadov.medium.com/multithreading-in-java-f5a236757c6e",
+      "estimated_slug": "multithreading-in-java",
+      "article_number": 123,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905383",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 123/179] Multithreading in Java\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "f1a9ae1e6ee2",
+      "title": "Web Scraping with Scrapy: A Comprehensive Guide with Detailed Code Examples",
+      "url": "https://ismatsamadov.medium.com/web-scraping-with-scrapy-a-comprehensive-guide-with-detailed-code-examples-f1a9ae1e6ee2",
+      "estimated_slug": "web-scraping-with-scrapy-a-comprehensive-guide-with-detailed-code-examples",
+      "article_number": 124,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905386",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 124/179] Web Scraping with Scrapy: A Comprehensive Guide with Detailed Code Examples\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "7a5a0292605b",
+      "title": "The Power and Potential of Web Scraping: Hidden Insights of the Internet",
+      "url": "https://ismatsamadov.medium.com/the-power-and-potential-of-web-scraping-hidden-insights-of-the-internet-7a5a0292605b",
+      "estimated_slug": "the-power-and-potential-of-web-scraping-hidden-insights-of-the-internet",
+      "article_number": 125,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905387",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 125/179] The Power and Potential of Web Scraping: Hidden Insights of the Internet\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "1ff6f3e3d124",
+      "title": "Functional Programming Paradigm",
+      "url": "https://ismatsamadov.medium.com/functional-programming-paradigm-1ff6f3e3d124",
+      "estimated_slug": "functional-programming-paradigm",
+      "article_number": 126,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905389",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 126/179] Functional Programming Paradigm\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "ae7680ce2ee1",
+      "title": "The Power of the Stream API: Simplifying Data Processing",
+      "url": "https://ismatsamadov.medium.com/the-power-of-the-stream-api-simplifying-data-processing-ae7680ce2ee1",
+      "estimated_slug": "the-power-of-the-stream-api-simplifying-data-processing",
+      "article_number": 127,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905392",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 127/179] The Power of the Stream API: Simplifying Data Processing\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "289e8ae3bd82",
+      "title": "Kotlin: A Modern Language for Java Developers",
+      "url": "https://ismatsamadov.medium.com/kotlin-a-modern-language-for-java-developers-289e8ae3bd82",
+      "estimated_slug": "kotlin-a-modern-language-for-java-developers",
+      "article_number": 128,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905394",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 128/179] Kotlin: A Modern Language for Java Developers\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "b5975b4fc08a",
+      "title": "Amazon Leadership Principles",
+      "url": "https://ismatsamadov.medium.com/amazon-leadership-principles-b5975b4fc08a",
+      "estimated_slug": "amazon-leadership-principles",
+      "article_number": 129,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905396",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 129/179] Amazon Leadership Principles\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "06cdde2775f5",
+      "title": "Unleashing the Power of the Collections API in Java",
+      "url": "https://ismatsamadov.medium.com/unleashing-the-power-of-the-collections-api-in-java-06cdde2775f5",
+      "estimated_slug": "unleashing-the-power-of-the-collections-api-in-java",
+      "article_number": 130,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905398",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 130/179] Unleashing the Power of the Collections API in Java\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "bc454aef6441",
+      "title": "Analyzing Complexity in Java: Unveiling the Inner Workings",
+      "url": "https://ismatsamadov.medium.com/analyzing-complexity-in-java-unveiling-the-inner-workings-bc454aef6441",
+      "estimated_slug": "analyzing-complexity-in-java-unveiling-the-inner-workings",
+      "article_number": 131,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905400",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 131/179] Analyzing Complexity in Java: Unveiling the Inner Workings\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "3ca1ce0c8ba8",
+      "title": "Comparators in Java",
+      "url": "https://ismatsamadov.medium.com/comparators-in-java-3ca1ce0c8ba8",
+      "estimated_slug": "comparators-in-java",
+      "article_number": 132,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905401",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 132/179] Comparators in Java\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "a6760db15a4d",
+      "title": "Java Collections: Data Structures and Algorithms",
+      "url": "https://ismatsamadov.medium.com/java-collections-data-structures-and-algorithms-a6760db15a4d",
+      "estimated_slug": "java-collections-data-structures-and-algorithms",
+      "article_number": 133,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905403",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 133/179] Java Collections: Data Structures and Algorithms\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "e85474dd4c4d",
+      "title": "Generics in Java",
+      "url": "https://ismatsamadov.medium.com/generics-in-java-e85474dd4c4d",
+      "estimated_slug": "generics-in-java",
+      "article_number": 134,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905405",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 134/179] Generics in Java\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "2723e8c01538",
+      "title": "Java APIs",
+      "url": "https://ismatsamadov.medium.com/java-apis-2723e8c01538",
+      "estimated_slug": "java-apis",
+      "article_number": 135,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905407",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 135/179] Java APIs\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "7a0a1e055ccb",
+      "title": "Exception Handling in Java: Ensuring Robustness and Reliability",
+      "url": "https://ismatsamadov.medium.com/exception-handling-in-java-ensuring-robustness-and-reliability-7a0a1e055ccb",
+      "estimated_slug": "exception-handling-in-java-ensuring-robustness-and-reliability",
+      "article_number": 136,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905409",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 136/179] Exception Handling in Java: Ensuring Robustness and Reliability\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "66a0943e0a8d",
+      "title": "Interfaces in Java",
+      "url": "https://ismatsamadov.medium.com/interfaces-in-java-66a0943e0a8d",
+      "estimated_slug": "interfaces-in-java",
+      "article_number": 137,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905410",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 137/179] Interfaces in Java\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "92a02ccdce95",
+      "title": "The String Class in Java",
+      "url": "https://ismatsamadov.medium.com/the-string-class-in-java-92a02ccdce95",
+      "estimated_slug": "the-string-class-in-java",
+      "article_number": 138,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905412",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 138/179] The String Class in Java\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "1b9bd0bf5fbe",
+      "title": "Enums in Java: Type Safety and Readability",
+      "url": "https://ismatsamadov.medium.com/enums-in-java-type-safety-and-readability-1b9bd0bf5fbe",
+      "estimated_slug": "enums-in-java-type-safety-and-readability",
+      "article_number": 139,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905414",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 139/179] Enums in Java: Type Safety and Readability\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "47415135e446",
+      "title": "Immutables in Java",
+      "url": "https://ismatsamadov.medium.com/immutables-in-java-47415135e446",
+      "estimated_slug": "immutables-in-java",
+      "article_number": 140,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905415",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 140/179] Immutables in Java\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "d706a8bfeced",
+      "title": "Java Syllabus",
+      "url": "https://ismatsamadov.medium.com/java-syllabus-d706a8bfeced",
+      "estimated_slug": "java-syllabus",
+      "article_number": 141,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905417",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 141/179] Java Syllabus\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "81455f5a427e",
+      "title": "Big O Notation, Omega Notation, and Theta Notation: Asymptotic Analysis of Algorithms",
+      "url": "https://ismatsamadov.medium.com/big-o-notation-omega-notation-and-theta-notation-asymptotic-analysis-of-algorithms-81455f5a427e",
+      "estimated_slug": "big-o-notation-omega-notation-and-theta-notation-asymptotic-analysis-of-algorithms",
+      "article_number": 142,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905419",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 142/179] Big O Notation, Omega Notation, and Theta Notation: Asymptotic Analysis of Algorithms\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "6c7a6bf14ffd",
+      "title": "Data Structures for Efficient Programming",
+      "url": "https://ismatsamadov.medium.com/data-structures-for-efficient-programming-6c7a6bf14ffd",
+      "estimated_slug": "data-structures-for-efficient-programming",
+      "article_number": 143,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905421",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 143/179] Data Structures for Efficient Programming\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "8df3f59221a9",
+      "title": "Mastering Essential Algorithms",
+      "url": "https://ismatsamadov.medium.com/mastering-essential-algorithms-8df3f59221a9",
+      "estimated_slug": "mastering-essential-algorithms",
+      "article_number": 144,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905423",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 144/179] Mastering Essential Algorithms\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "d9e608a631cf",
+      "title": "The Importance of Arrays in Java",
+      "url": "https://ismatsamadov.medium.com/the-importance-of-arrays-in-java-d9e608a631cf",
+      "estimated_slug": "the-importance-of-arrays-in-java",
+      "article_number": 145,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905425",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 145/179] The Importance of Arrays in Java\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "f3b5fbb22482",
+      "title": "Understanding Java Garbage Collection",
+      "url": "https://ismatsamadov.medium.com/understanding-java-garbage-collection-f3b5fbb22482",
+      "estimated_slug": "understanding-java-garbage-collection",
+      "article_number": 146,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905426",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 146/179] Understanding Java Garbage Collection\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "64792f7c486b",
+      "title": "Understanding Computer Memory Management",
+      "url": "https://ismatsamadov.medium.com/understanding-computer-memory-management-64792f7c486b",
+      "estimated_slug": "understanding-computer-memory-management",
+      "article_number": 147,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905428",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 147/179] Understanding Computer Memory Management\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "fb1105fb79a7",
+      "title": "Heap and Stack Memory in Java",
+      "url": "https://ismatsamadov.medium.com/heap-and-stack-memory-in-java-fb1105fb79a7",
+      "estimated_slug": "heap-and-stack-memory-in-java",
+      "article_number": 148,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905430",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 148/179] Heap and Stack Memory in Java\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "828d2da684dd",
+      "title": "hashCode() method in java",
+      "url": "https://ismatsamadov.medium.com/hashcode-method-in-java-828d2da684dd",
+      "estimated_slug": "hashcode-method-in-java",
+      "article_number": 149,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905431",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 149/179] hashCode() method in java\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "9039384388af",
+      "title": "Java key concepts",
+      "url": "https://ismatsamadov.medium.com/java-key-concepts-9039384388af",
+      "estimated_slug": "java-key-concepts",
+      "article_number": 150,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905433",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 150/179] Java key concepts\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "dbf4bd93d730",
+      "title": "Multithreading Principles to Optimize Our Lives",
+      "url": "https://ismatsamadov.medium.com/multithreading-principles-to-optimize-our-lives-dbf4bd93d730",
+      "estimated_slug": "multithreading-principles-to-optimize-our-lives",
+      "article_number": 151,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905435",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 151/179] Multithreading Principles to Optimize Our Lives\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "8ccbd0667ba2",
+      "title": "Fraud Analyst Salary",
+      "url": "https://ismatsamadov.medium.com/fraud-analyst-salary-8ccbd0667ba2",
+      "estimated_slug": "fraud-analyst-salary",
+      "article_number": 152,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905437",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 152/179] Fraud Analyst Salary\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "541e5bbb1ab0",
+      "title": "Telecom Fraud",
+      "url": "https://ismatsamadov.medium.com/telecom-fraud-541e5bbb1ab0",
+      "estimated_slug": "telecom-fraud",
+      "article_number": 153,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905439",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 153/179] Telecom Fraud\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "f3c1ce026fe1",
+      "title": "10 Strategies For Continue To Learning While Working",
+      "url": "https://ismatsamadov.medium.com/10-strategies-for-continue-to-learning-while-working-f3c1ce026fe1",
+      "estimated_slug": "10-strategies-for-continue-to-learning-while-working",
+      "article_number": 154,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905440",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 154/179] 10 Strategies For Continue To Learning While Working\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "5aabc8205271",
+      "title": "Kaizen as Personal Development Tool",
+      "url": "https://ismatsamadov.medium.com/kaizen-as-personal-development-tool-5aabc8205271",
+      "estimated_slug": "kaizen-as-personal-development-tool",
+      "article_number": 155,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905442",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 155/179] Kaizen as Personal Development Tool\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "aff16e6d2759",
+      "title": "How We Can Write Book With ChatGPT",
+      "url": "https://ismatsamadov.medium.com/how-we-can-write-book-with-chatgpt-aff16e6d2759",
+      "estimated_slug": "how-we-can-write-book-with-chatgpt",
+      "article_number": 156,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905444",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 156/179] How We Can Write Book With ChatGPT\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "839810aacab6",
+      "title": "How We Can Make Money With AI",
+      "url": "https://ismatsamadov.medium.com/how-we-can-make-money-with-ai-839810aacab6",
+      "estimated_slug": "how-we-can-make-money-with-ai",
+      "article_number": 157,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905446",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 157/179] How We Can Make Money With AI\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "bf713b77aa4b",
+      "title": "How We Can Increase Our Income Sources",
+      "url": "https://ismatsamadov.medium.com/how-we-can-increase-our-income-sources-bf713b77aa4b",
+      "estimated_slug": "how-we-can-increase-our-income-sources",
+      "article_number": 158,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905447",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 158/179] How We Can Increase Our Income Sources\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "745a35096894",
+      "title": "How We Can Reduce Belly Fat Effectivly",
+      "url": "https://ismatsamadov.medium.com/how-we-can-reduce-belly-fat-effectivly-745a35096894",
+      "estimated_slug": "how-we-can-reduce-belly-fat-effectivly",
+      "article_number": 159,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905449",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 159/179] How We Can Reduce Belly Fat Effectivly\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "9c77b5be04ec",
+      "title": "How we can easily learn Java Backend Development from zero",
+      "url": "https://ismatsamadov.medium.com/how-we-can-easily-learn-java-backend-development-from-zero-9c77b5be04ec",
+      "estimated_slug": "how-we-can-easily-learn-java-backend-development-from-zero",
+      "article_number": 160,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905451",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 160/179] How we can easily learn Java Backend Development from zero\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "3caa3eaa2c99",
+      "title": "How we can make passive income our Data Analyst and Data Scientist skills",
+      "url": "https://ismatsamadov.medium.com/how-we-can-make-passive-income-our-data-analyst-and-data-scientist-skills-3caa3eaa2c99",
+      "estimated_slug": "how-we-can-make-passive-income-our-data-analyst-and-data-scientist-skills",
+      "article_number": 161,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905453",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 161/179] How we can make passive income our Data Analyst and Data Scientist skills\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "1d6623ca6d88",
+      "title": "How we can learn Java Backend Development effectivly",
+      "url": "https://ismatsamadov.medium.com/how-we-can-learn-java-backend-development-effectivly-1d6623ca6d88",
+      "estimated_slug": "how-we-can-learn-java-backend-development-effectivly",
+      "article_number": 162,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905455",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 162/179] How we can learn Java Backend Development effectivly\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "1c20ec6e2e09",
+      "title": "What is best method for learning Scrapy Framework ?",
+      "url": "https://ismatsamadov.medium.com/what-is-best-method-for-learning-scrapy-framework--1c20ec6e2e09",
+      "estimated_slug": "what-is-best-method-for-learning-scrapy-framework-",
+      "article_number": 163,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905457",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 163/179] What is best method for learning Scrapy Framework ?\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "02cb3bad495a",
+      "title": "What is freelance Data Analyst daily routine?",
+      "url": "https://ismatsamadov.medium.com/what-is-freelance-data-analyst-daily-routine-02cb3bad495a",
+      "estimated_slug": "what-is-freelance-data-analyst-daily-routine",
+      "article_number": 164,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905459",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 164/179] What is freelance Data Analyst daily routine?\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "0f3ca7256e8c",
+      "title": "Create KPIs for yourself",
+      "url": "https://ismatsamadov.medium.com/create-kpis-for-yourself-0f3ca7256e8c",
+      "estimated_slug": "create-kpis-for-yourself",
+      "article_number": 165,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905461",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 165/179] Create KPIs for yourself\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "9c8a5b91db57",
+      "title": "ChatBots in Hacking",
+      "url": "https://ismatsamadov.medium.com/chatbots-in-hacking-9c8a5b91db57",
+      "estimated_slug": "chatbots-in-hacking",
+      "article_number": 166,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905463",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 166/179] ChatBots in Hacking\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "faf55b61f51e",
+      "title": "How We Can Use Machine Learning in Hacking",
+      "url": "https://ismatsamadov.medium.com/how-we-can-use-machine-learning-in-hacking-faf55b61f51e",
+      "estimated_slug": "how-we-can-use-machine-learning-in-hacking",
+      "article_number": 167,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905465",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 167/179] How We Can Use Machine Learning in Hacking\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "50b88b3e6a4d",
+      "title": "Machine Learning in Cryptography",
+      "url": "https://ismatsamadov.medium.com/machine-learning-in-cryptography-50b88b3e6a4d",
+      "estimated_slug": "machine-learning-in-cryptography",
+      "article_number": 168,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905466",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 168/179] Machine Learning in Cryptography\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "763c063c8a29",
+      "title": "Multi-Armed Bandits in Fraud Prevention and Detection",
+      "url": "https://ismatsamadov.medium.com/multi-armed-bandits-in-fraud-prevention-and-detection-763c063c8a29",
+      "estimated_slug": "multi-armed-bandits-in-fraud-prevention-and-detection",
+      "article_number": 169,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905468",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 169/179] Multi-Armed Bandits in Fraud Prevention and Detection\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "af81ee960ec9",
+      "title": "Multi-Armed Bandit Problem",
+      "url": "https://ismatsamadov.medium.com/multi-armed-bandit-problem-af81ee960ec9",
+      "estimated_slug": "multi-armed-bandit-problem",
+      "article_number": 170,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905470",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 170/179] Multi-Armed Bandit Problem\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "2e3b671f3ab0",
+      "title": "Exploring Recommendation Systems",
+      "url": "https://ismatsamadov.medium.com/exploring-recommendation-systems-2e3b671f3ab0",
+      "estimated_slug": "exploring-recommendation-systems",
+      "article_number": 171,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905472",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 171/179] Exploring Recommendation Systems\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "5a492315ea61",
+      "title": "Anomaly Detection in Time Series Data",
+      "url": "https://ismatsamadov.medium.com/anomaly-detection-in-time-series-data-5a492315ea61",
+      "estimated_slug": "anomaly-detection-in-time-series-data",
+      "article_number": 172,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905473",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 172/179] Anomaly Detection in Time Series Data\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "535a60275d22",
+      "title": "Recommendation System for Online Learning Platforms",
+      "url": "https://ismatsamadov.medium.com/recommendation-system-for-online-learning-platforms-535a60275d22",
+      "estimated_slug": "recommendation-system-for-online-learning-platforms",
+      "article_number": 173,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905475",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 173/179] Recommendation System for Online Learning Platforms\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "c7f111eb552c",
+      "title": "Comparative Analysis of Recommendation System Algorithms",
+      "url": "https://ismatsamadov.medium.com/comparative-analysis-of-recommendation-system-algorithms-c7f111eb552c",
+      "estimated_slug": "comparative-analysis-of-recommendation-system-algorithms",
+      "article_number": 174,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905478",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 174/179] Comparative Analysis of Recommendation System Algorithms\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "a2313e220cff",
+      "title": "Cross-Validation Techniques",
+      "url": "https://ismatsamadov.medium.com/cross-validation-techniques-a2313e220cff",
+      "estimated_slug": "cross-validation-techniques",
+      "article_number": 175,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905480",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 175/179] Cross-Validation Techniques\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "d50fd40fba2f",
+      "title": "K-Means Clustering with Python",
+      "url": "https://ismatsamadov.medium.com/k-means-clustering-with-python-d50fd40fba2f",
+      "estimated_slug": "k-means-clustering-with-python",
+      "article_number": 176,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905482",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 176/179] K-Means Clustering with Python\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "206f0d663676",
+      "title": "Understanding Bias and Variance in Machine Learning",
+      "url": "https://ismatsamadov.medium.com/understanding-bias-and-variance-in-machine-learning-206f0d663676",
+      "estimated_slug": "understanding-bias-and-variance-in-machine-learning",
+      "article_number": 177,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905485",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 177/179] Understanding Bias and Variance in Machine Learning\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "52b88e166061",
+      "title": "Deep Learning with TensorFlow",
+      "url": "https://ismatsamadov.medium.com/deep-learning-with-tensorflow-52b88e166061",
+      "estimated_slug": "deep-learning-with-tensorflow",
+      "article_number": 178,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905487",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 178/179] Deep Learning with TensorFlow\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "81e8b07149c4",
+      "title": "Intro to Neural Networks",
+      "url": "https://ismatsamadov.medium.com/intro-to-neural-networks-81e8b07149c4",
+      "estimated_slug": "intro-to-neural-networks",
+      "article_number": 179,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905488",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 179/179] Intro to Neural Networks\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "b72087490308",
+      "title": "My Writing Journey on Medium",
+      "url": "https://ismatsamadov.medium.com/my-writing-journey-on-medium-b72087490308",
+      "estimated_slug": "my-writing-journey-on-medium",
+      "article_number": 180,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905490",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 180/179] My Writing Journey on Medium\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "d5da34308b6c",
+      "title": "My Writing",
+      "url": "https://ismatsamadov.medium.com/my-writing-d5da34308b6c",
+      "estimated_slug": "my-writing",
+      "article_number": 181,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905492",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 181/179] My Writing\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    },
+    {
+      "id": "e9b9e1496804",
+      "title": "CRISPE prompt",
+      "url": "https://ismatsamadov.medium.com/crispe-prompt-e9b9e1496804",
+      "estimated_slug": "crispe-prompt",
+      "article_number": 182,
+      "metadata": {
+        "scraped_at": "2025-09-19T12:16:27.905493",
+        "extraction_method": "structured_from_background_scraper",
+        "content_available": false,
+        "note": "Full content requires Medium subscription access"
+      },
+      "content": "[ARTICLE 182/179] CRISPE prompt\n\n[Full content not available - requires Medium subscription access]\n\nThis article is part of ismatsamadov's Medium collection covering topics in data science, machine learning, software development, and technology analysis.",
+      "content_type": "preview_only"
+    }
+  ]
+}

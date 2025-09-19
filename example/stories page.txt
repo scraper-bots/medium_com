@@ -1,0 +1,1706 @@
+headeers
+
+Request URL
+https://medium.com/_/graphql
+Request Method
+POST
+Status Code
+200 OK
+Remote Address
+162.159.152.4:443
+Referrer Policy
+strict-origin-when-cross-origin
+access-control-allow-origin
+*
+alt-svc
+h3=":443"; ma=86400
+cf-cache-status
+DYNAMIC
+cf-ray
+98177935bd8ec6a0-ARN
+content-encoding
+gzip
+content-type
+application/json; charset=utf-8
+date
+Fri, 19 Sep 2025 07:47:11 GMT
+etag
+W/"8488-ZemrDdaBedN7jfFGQEPW7sNwyJg"
+medium-fulfilled-by
+edgy/8.15.0, valencia/main-20250918-180337-5fdd72e284, rito/main-20250918-184323-2ad5be53e3, tutu/main-20250918-212612-f2e830c93f
+server
+cloudflare
+strict-transport-security
+max-age=31536000; includeSubDomains; preload
+vary
+Accept-Encoding
+worker-missing-cookies
+0
+x-content-type-options
+nosniff
+x-envoy-upstream-service-time
+745
+x-request-received-at
+1758268030445
+x-xss-protection
+0
+:authority
+medium.com
+:method
+POST
+:path
+/_/graphql
+:scheme
+https
+accept
+*/*
+accept-encoding
+gzip, deflate, br, zstd
+accept-language
+en-GB,en-US;q=0.9,en;q=0.8,ru;q=0.7,az;q=0.6
+apollographql-client-name
+lite
+apollographql-client-version
+main-20250919-050348-01fccec105
+content-length
+6184
+content-type
+application/json
+cookie
+nonce=BSrI6hP6; _gid=GA1.2.1956837026.1758194306; sz=1470; pr=2; tz=-240; _cfuvid=QnsajmvE3FRGl9kGHyvweFvol4epxGf0SFFW__laHr4-1758265859669-0.0.1.1-604800000; cf_clearance=rlyx22Z5GP5BppfJa10ZAegF2hDUg25IiUB__glDtnU-1758267673-1.2.1.1-FdV20lMmAq1RmpmTmM.s6uAsafOa_cXL93KPjZdilkeMzGpiUHNM.XBh4tH_ddBXjwEPinYkIFiBePIX3lB61TVEj8ne8a1EmGb9OHQ9mfspJFqc8Uia04_QDISYL08aCqjW1ZzY7TkN..lt3z._OdXPCSKtkjCZKdxTVOb7qpVyZqExfZuqAxBukCKMjZH4sELFIWL.nskrtttPH9Lt8fMacB31pAn6wU6yYjw6UjA; _gat=1; uid=4a5238264eac; sid=1:aOVyoDk7a5roWxY1h+vwosmgsFRAqC20syxC1OKDwetAJDGvaQ5jwpinFVaaeP3r; xsrf=8VApC_tKDO3Kndi4; _ga=GA1.1.233783960.1754991818; _ga_7JY7T788PK=GS2.1.s1758265862$o19$g1$t1758268023$j6$l0$h0; _dd_s=rum=0&expire=1758268930009
+dnt
+1
+graphql-operation
+WriterPostsTablePublishedQuery
+medium-frontend-app
+lite/main-20250919-050348-01fccec105
+medium-frontend-path
+/me/stories?tab=posts-published
+medium-frontend-route
+stories
+origin
+https://medium.com
+priority
+u=1, i
+referer
+https://medium.com/me/stories?tab=posts-published
+sec-ch-ua
+"Chromium";v="140", "Not=A?Brand";v="24", "Google Chrome";v="140"
+sec-ch-ua-mobile
+?0
+sec-ch-ua-platform
+"macOS"
+sec-fetch-dest
+empty
+sec-fetch-mode
+cors
+sec-fetch-site
+same-origin
+user-agent
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+
+
+payload
+
+[{"operationName":"WriterPostsTablePublishedQuery","variables":{"type":"POST_TYPE_PUBLIC","includeResponses":false,"includeSuspended":true,"includeDeleted":false,"pagingOptions":{"to":"","limit":25,"order":"DESC"}},"query":"query WriterPostsTablePublishedQuery($type: PostType, $includeResponses: Boolean, $includeSuspended: Boolean, $includeDeleted: Boolean, $pagingOptions: PagingOptions) {\n  viewer {\n    id\n    latestPostsConnection(\n      type: $type\n      includeResponses: $includeResponses\n      includeSuspended: $includeSuspended\n      includeDeleted: $includeDeleted\n      paging: $pagingOptions\n    ) {\n      pagingInfo {\n        next {\n          limit\n          to\n          __typename\n        }\n        __typename\n      }\n      postPreviews {\n        postId\n        post {\n          ...WriterPostsTableRow_post\n          __typename\n        }\n        __typename\n      }\n      __typename\n    }\n    __typename\n  }\n}\n\nfragment PublicationAvatar_publication on Publication {\n  id\n  name\n  avatar {\n    id\n    __typename\n  }\n  domain\n  slug\n  __typename\n}\n\nfragment WriterPostsTablePublicationCell_publication on Publication {\n  id\n  slug\n  ...PublicationAvatar_publication\n  __typename\n}\n\nfragment WriterPostsTableStatusCell_submission on PublicationSubmission {\n  id\n  status\n  createdAt\n  updatedAt\n  publication {\n    id\n    name\n    avatar {\n      id\n      __typename\n    }\n    domain\n    slug\n    __typename\n  }\n  __typename\n}\n\nfragment WithdrawOrRemoveActionsFragment_submission on PublicationSubmission {\n  id\n  status\n  publication {\n    id\n    name\n    __typename\n  }\n  __typename\n}\n\nfragment WithdrawOrRemoveSubmissionFragment_submission on PublicationSubmission {\n  id\n  ...WithdrawOrRemoveActionsFragment_submission\n  __typename\n}\n\nfragment PostSubmitToPublicationMenuItem_submission on PublicationSubmission {\n  id\n  status\n  ...WithdrawOrRemoveSubmissionFragment_submission\n  __typename\n}\n\nfragment PostActionsPopover_submission on PublicationSubmission {\n  id\n  ...PostSubmitToPublicationMenuItem_submission\n  __typename\n}\n\nfragment WriterPostsTableRow_submission on PublicationSubmission {\n  id\n  publication {\n    ...WriterPostsTablePublicationCell_publication\n    compatLegacy {\n      id\n      __typename\n    }\n    __typename\n    id\n  }\n  ...WriterPostsTableStatusCell_submission\n  ...PostActionsPopover_submission\n  __typename\n}\n\nfragment WriterPostsTablePostPreviewDefaultMetadata_post on Post {\n  id\n  firstPublishedAt\n  isPublished\n  readingTime\n  wordCount\n  visibility\n  publishSchedule {\n    publishAt\n    __typename\n  }\n  __typename\n}\n\nfragment WriterPostMetadata_post on Post {\n  id\n  isPublished\n  visibility\n  firstPublishedAt\n  readingTime\n  wordCount\n  updatedAt\n  publishSchedule {\n    publishAt\n    __typename\n  }\n  ...WriterPostsTablePostPreviewDefaultMetadata_post\n  __typename\n}\n\nfragment userUrl_user on User {\n  __typename\n  id\n  customDomainState {\n    live {\n      domain\n      __typename\n    }\n    __typename\n  }\n  hasSubdomain\n  username\n}\n\nfragment usePostUrl_post on Post {\n  id\n  creator {\n    ...userUrl_user\n    __typename\n    id\n  }\n  collection {\n    id\n    domain\n    slug\n    __typename\n  }\n  isSeries\n  mediumUrl\n  sequence {\n    slug\n    __typename\n  }\n  uniqueSlug\n  __typename\n}\n\nfragment NewsletterV3EmailToSubscribersMenuItem_post on Post {\n  id\n  creator {\n    id\n    newsletterV3 {\n      id\n      subscribersCount\n      __typename\n    }\n    __typename\n  }\n  isNewsletter\n  isAuthorNewsletter\n  __typename\n}\n\nfragment SusiModal_post on Post {\n  id\n  creator {\n    id\n    __typename\n  }\n  __typename\n}\n\nfragment SusiClickable_post on Post {\n  id\n  mediumUrl\n  ...SusiModal_post\n  __typename\n}\n\nfragment useCopyFriendLink_post on Post {\n  ...usePostUrl_post\n  __typename\n  id\n}\n\nfragment UpsellClickable_post on Post {\n  id\n  collection {\n    id\n    __typename\n  }\n  sequence {\n    sequenceId\n    __typename\n  }\n  creator {\n    id\n    __typename\n  }\n  __typename\n}\n\nfragment FriendLink_post on Post {\n  id\n  ...SusiClickable_post\n  ...useCopyFriendLink_post\n  ...UpsellClickable_post\n  __typename\n}\n\nfragment PostShareModal_post on Post {\n  id\n  isPublished\n  isLocked\n  ...usePostUrl_post\n  ...FriendLink_post\n  __typename\n}\n\nfragment UpdatePostPaywall_post on Post {\n  __typename\n  id\n  isLocked\n}\n\nfragment PostActionsPopover_post on Post {\n  id\n  isLocked\n  isPublished\n  visibility\n  inResponseToEntityType\n  publishSchedule {\n    publishAt\n    __typename\n  }\n  ...usePostUrl_post\n  ...NewsletterV3EmailToSubscribersMenuItem_post\n  ...PostShareModal_post\n  ...UpdatePostPaywall_post\n  __typename\n}\n\nfragment StreamPostPreviewImage_imageMetadata on ImageMetadata {\n  id\n  focusPercentX\n  focusPercentY\n  alt\n  __typename\n}\n\nfragment StreamPostPreviewImage_post on Post {\n  title\n  previewImage {\n    ...StreamPostPreviewImage_imageMetadata\n    __typename\n    id\n  }\n  __typename\n  id\n}\n\nfragment Star_post on Post {\n  id\n  creator {\n    id\n    __typename\n  }\n  isLocked\n  __typename\n}\n\nfragment WriterPostsTablePostPreview_post on Post {\n  id\n  title\n  isLocked\n  isPublished\n  updatedAt\n  clapCount\n  postResponses {\n    count\n    __typename\n  }\n  ...StreamPostPreviewImage_post\n  ...usePostUrl_post\n  ...Star_post\n  ...NewsletterV3EmailToSubscribersMenuItem_post\n  ...PostActionsPopover_post\n  ...WriterPostsTablePostPreviewDefaultMetadata_post\n  __typename\n}\n\nfragment WriterPostsTableRow_post on Post {\n  id\n  viewerEdge {\n    id\n    latestSubmission: submissionsConnection(\n      first: 1\n      after: \"\"\n      opts: {statuses: [], orderBy: \"updatedAt desc\"}\n    ) {\n      edges {\n        node {\n          ...WriterPostsTableRow_submission\n          __typename\n        }\n        __typename\n      }\n      __typename\n    }\n    __typename\n  }\n  ...WriterPostMetadata_post\n  ...PostActionsPopover_post\n  ...WriterPostsTablePostPreview_post\n  __typename\n}\n"}]
+
+response
+
+[
+    {
+        "data": {
+            "viewer": {
+                "id": "4a5238264eac",
+                "latestPostsConnection": {
+                    "pagingInfo": {
+                        "next": {
+                            "limit": 25,
+                            "to": "1729691727628",
+                            "__typename": "PageParams"
+                        },
+                        "__typename": "Paging"
+                    },
+                    "postPreviews": [
+                        {
+                            "postId": "d3bef6f0d34a",
+                            "post": {
+                                "id": "d3bef6f0d34a",
+                                "viewerEdge": {
+                                    "id": "postId:d3bef6f0d34a-viewerId:4a5238264eac",
+                                    "latestSubmission": {
+                                        "edges": [],
+                                        "__typename": "PostSubmissionsConnection"
+                                    },
+                                    "__typename": "PostViewerEdge"
+                                },
+                                "isPublished": true,
+                                "visibility": "LOCKED",
+                                "firstPublishedAt": 1753775706997,
+                                "readingTime": 5.179245283018868,
+                                "wordCount": 1187,
+                                "updatedAt": 1753777735590,
+                                "publishSchedule": null,
+                                "__typename": "Post",
+                                "isLocked": true,
+                                "inResponseToEntityType": null,
+                                "creator": {
+                                    "__typename": "User",
+                                    "id": "4a5238264eac",
+                                    "customDomainState": {
+                                        "live": {
+                                            "domain": "ismatsamadov.medium.com",
+                                            "__typename": "CustomDomain"
+                                        },
+                                        "__typename": "CustomDomainState"
+                                    },
+                                    "hasSubdomain": true,
+                                    "username": "ismatsamadov",
+                                    "newsletterV3": {
+                                        "id": "a6a451ef83e4",
+                                        "subscribersCount": 24,
+                                        "__typename": "NewsletterV3"
+                                    }
+                                },
+                                "collection": null,
+                                "isSeries": false,
+                                "mediumUrl": "https://ismatsamadov.medium.com/from-frustration-to-innovation-my-journey-building-birjob-azerbaijans-premier-job-matching-ios-d3bef6f0d34a",
+                                "sequence": null,
+                                "uniqueSlug": "from-frustration-to-innovation-my-journey-building-birjob-azerbaijans-premier-job-matching-ios-d3bef6f0d34a",
+                                "isNewsletter": false,
+                                "isAuthorNewsletter": true,
+                                "title": "From Frustration to Innovation: My Journey Building BirJob, Azerbaijan’s Premier Job-Matching iOS…",
+                                "clapCount": 11,
+                                "postResponses": {
+                                    "count": 0,
+                                    "__typename": "PostResponses"
+                                },
+                                "previewImage": {
+                                    "id": "1*kpjyHR-we0wMCTkYkQKAZw.png",
+                                    "focusPercentX": null,
+                                    "focusPercentY": null,
+                                    "alt": "xcode screenshot",
+                                    "__typename": "ImageMetadata"
+                                }
+                            },
+                            "__typename": "PostPreview"
+                        },
+                        {
+                            "postId": "582f4646716f",
+                            "post": {
+                                "id": "582f4646716f",
+                                "viewerEdge": {
+                                    "id": "postId:582f4646716f-viewerId:4a5238264eac",
+                                    "latestSubmission": {
+                                        "edges": [],
+                                        "__typename": "PostSubmissionsConnection"
+                                    },
+                                    "__typename": "PostViewerEdge"
+                                },
+                                "isPublished": true,
+                                "visibility": "LOCKED",
+                                "firstPublishedAt": 1749824956955,
+                                "readingTime": 3.188679245283019,
+                                "wordCount": 792,
+                                "updatedAt": 1749828549766,
+                                "publishSchedule": null,
+                                "__typename": "Post",
+                                "isLocked": true,
+                                "inResponseToEntityType": null,
+                                "creator": {
+                                    "__typename": "User",
+                                    "id": "4a5238264eac",
+                                    "customDomainState": {
+                                        "live": {
+                                            "domain": "ismatsamadov.medium.com",
+                                            "__typename": "CustomDomain"
+                                        },
+                                        "__typename": "CustomDomainState"
+                                    },
+                                    "hasSubdomain": true,
+                                    "username": "ismatsamadov",
+                                    "newsletterV3": {
+                                        "id": "a6a451ef83e4",
+                                        "subscribersCount": 24,
+                                        "__typename": "NewsletterV3"
+                                    }
+                                },
+                                "collection": null,
+                                "isSeries": false,
+                                "mediumUrl": "https://ismatsamadov.medium.com/logging-out-582f4646716f",
+                                "sequence": null,
+                                "uniqueSlug": "logging-out-582f4646716f",
+                                "isNewsletter": false,
+                                "isAuthorNewsletter": false,
+                                "title": "Logging Out",
+                                "clapCount": 44,
+                                "postResponses": {
+                                    "count": 1,
+                                    "__typename": "PostResponses"
+                                },
+                                "previewImage": {
+                                    "id": "0*lAh_x9Ts-z0CCHl5",
+                                    "focusPercentX": null,
+                                    "focusPercentY": null,
+                                    "alt": null,
+                                    "__typename": "ImageMetadata"
+                                }
+                            },
+                            "__typename": "PostPreview"
+                        },
+                        {
+                            "postId": "2b24e4378c45",
+                            "post": {
+                                "id": "2b24e4378c45",
+                                "viewerEdge": {
+                                    "id": "postId:2b24e4378c45-viewerId:4a5238264eac",
+                                    "latestSubmission": {
+                                        "edges": [],
+                                        "__typename": "PostSubmissionsConnection"
+                                    },
+                                    "__typename": "PostViewerEdge"
+                                },
+                                "isPublished": true,
+                                "visibility": "LOCKED",
+                                "firstPublishedAt": 1749824331809,
+                                "readingTime": 3.181132075471698,
+                                "wordCount": 790,
+                                "updatedAt": 1749828556146,
+                                "publishSchedule": null,
+                                "__typename": "Post",
+                                "isLocked": true,
+                                "inResponseToEntityType": null,
+                                "creator": {
+                                    "__typename": "User",
+                                    "id": "4a5238264eac",
+                                    "customDomainState": {
+                                        "live": {
+                                            "domain": "ismatsamadov.medium.com",
+                                            "__typename": "CustomDomain"
+                                        },
+                                        "__typename": "CustomDomainState"
+                                    },
+                                    "hasSubdomain": true,
+                                    "username": "ismatsamadov",
+                                    "newsletterV3": {
+                                        "id": "a6a451ef83e4",
+                                        "subscribersCount": 24,
+                                        "__typename": "NewsletterV3"
+                                    }
+                                },
+                                "collection": null,
+                                "isSeries": false,
+                                "mediumUrl": "https://ismatsamadov.medium.com/bridging-physics-and-machine-learning-2b24e4378c45",
+                                "sequence": null,
+                                "uniqueSlug": "bridging-physics-and-machine-learning-2b24e4378c45",
+                                "isNewsletter": false,
+                                "isAuthorNewsletter": false,
+                                "title": "Bridging Physics and Machine Learning",
+                                "clapCount": 0,
+                                "postResponses": {
+                                    "count": 0,
+                                    "__typename": "PostResponses"
+                                },
+                                "previewImage": {
+                                    "id": "0*KGbNitidIUh4fcUl",
+                                    "focusPercentX": null,
+                                    "focusPercentY": null,
+                                    "alt": null,
+                                    "__typename": "ImageMetadata"
+                                }
+                            },
+                            "__typename": "PostPreview"
+                        },
+                        {
+                            "postId": "d901b254538b",
+                            "post": {
+                                "id": "d901b254538b",
+                                "viewerEdge": {
+                                    "id": "postId:d901b254538b-viewerId:4a5238264eac",
+                                    "latestSubmission": {
+                                        "edges": [],
+                                        "__typename": "PostSubmissionsConnection"
+                                    },
+                                    "__typename": "PostViewerEdge"
+                                },
+                                "isPublished": true,
+                                "visibility": "LOCKED",
+                                "firstPublishedAt": 1749817309667,
+                                "readingTime": 3.5320754716981133,
+                                "wordCount": 883,
+                                "updatedAt": 1749821370230,
+                                "publishSchedule": null,
+                                "__typename": "Post",
+                                "isLocked": true,
+                                "inResponseToEntityType": null,
+                                "creator": {
+                                    "__typename": "User",
+                                    "id": "4a5238264eac",
+                                    "customDomainState": {
+                                        "live": {
+                                            "domain": "ismatsamadov.medium.com",
+                                            "__typename": "CustomDomain"
+                                        },
+                                        "__typename": "CustomDomainState"
+                                    },
+                                    "hasSubdomain": true,
+                                    "username": "ismatsamadov",
+                                    "newsletterV3": {
+                                        "id": "a6a451ef83e4",
+                                        "subscribersCount": 24,
+                                        "__typename": "NewsletterV3"
+                                    }
+                                },
+                                "collection": null,
+                                "isSeries": false,
+                                "mediumUrl": "https://ismatsamadov.medium.com/can-one-person-really-build-a-digital-business-with-generative-ai-d901b254538b",
+                                "sequence": null,
+                                "uniqueSlug": "can-one-person-really-build-a-digital-business-with-generative-ai-d901b254538b",
+                                "isNewsletter": false,
+                                "isAuthorNewsletter": false,
+                                "title": "Can One Person Really Build a Digital Business with Generative AI?",
+                                "clapCount": 0,
+                                "postResponses": {
+                                    "count": 0,
+                                    "__typename": "PostResponses"
+                                },
+                                "previewImage": {
+                                    "id": "0*wY7iWmqVZxWNsrCP",
+                                    "focusPercentX": null,
+                                    "focusPercentY": null,
+                                    "alt": null,
+                                    "__typename": "ImageMetadata"
+                                }
+                            },
+                            "__typename": "PostPreview"
+                        },
+                        {
+                            "postId": "8d23e397b571",
+                            "post": {
+                                "id": "8d23e397b571",
+                                "viewerEdge": {
+                                    "id": "postId:8d23e397b571-viewerId:4a5238264eac",
+                                    "latestSubmission": {
+                                        "edges": [],
+                                        "__typename": "PostSubmissionsConnection"
+                                    },
+                                    "__typename": "PostViewerEdge"
+                                },
+                                "isPublished": true,
+                                "visibility": "LOCKED",
+                                "firstPublishedAt": 1749816534854,
+                                "readingTime": 4.173584905660377,
+                                "wordCount": 1053,
+                                "updatedAt": 1749821380501,
+                                "publishSchedule": null,
+                                "__typename": "Post",
+                                "isLocked": true,
+                                "inResponseToEntityType": null,
+                                "creator": {
+                                    "__typename": "User",
+                                    "id": "4a5238264eac",
+                                    "customDomainState": {
+                                        "live": {
+                                            "domain": "ismatsamadov.medium.com",
+                                            "__typename": "CustomDomain"
+                                        },
+                                        "__typename": "CustomDomainState"
+                                    },
+                                    "hasSubdomain": true,
+                                    "username": "ismatsamadov",
+                                    "newsletterV3": {
+                                        "id": "a6a451ef83e4",
+                                        "subscribersCount": 24,
+                                        "__typename": "NewsletterV3"
+                                    }
+                                },
+                                "collection": null,
+                                "isSeries": false,
+                                "mediumUrl": "https://ismatsamadov.medium.com/confidence-intervals-8d23e397b571",
+                                "sequence": null,
+                                "uniqueSlug": "confidence-intervals-8d23e397b571",
+                                "isNewsletter": false,
+                                "isAuthorNewsletter": false,
+                                "title": "Confidence Intervals",
+                                "clapCount": 0,
+                                "postResponses": {
+                                    "count": 0,
+                                    "__typename": "PostResponses"
+                                },
+                                "previewImage": {
+                                    "id": "0*E48Lcn42cfZN-4Pz",
+                                    "focusPercentX": null,
+                                    "focusPercentY": null,
+                                    "alt": null,
+                                    "__typename": "ImageMetadata"
+                                }
+                            },
+                            "__typename": "PostPreview"
+                        },
+                        {
+                            "postId": "907e767c3964",
+                            "post": {
+                                "id": "907e767c3964",
+                                "viewerEdge": {
+                                    "id": "postId:907e767c3964-viewerId:4a5238264eac",
+                                    "latestSubmission": {
+                                        "edges": [],
+                                        "__typename": "PostSubmissionsConnection"
+                                    },
+                                    "__typename": "PostViewerEdge"
+                                },
+                                "isPublished": true,
+                                "visibility": "LOCKED",
+                                "firstPublishedAt": 1749755159609,
+                                "readingTime": 2.9509433962264153,
+                                "wordCount": 729,
+                                "updatedAt": 1749760126770,
+                                "publishSchedule": null,
+                                "__typename": "Post",
+                                "isLocked": true,
+                                "inResponseToEntityType": null,
+                                "creator": {
+                                    "__typename": "User",
+                                    "id": "4a5238264eac",
+                                    "customDomainState": {
+                                        "live": {
+                                            "domain": "ismatsamadov.medium.com",
+                                            "__typename": "CustomDomain"
+                                        },
+                                        "__typename": "CustomDomainState"
+                                    },
+                                    "hasSubdomain": true,
+                                    "username": "ismatsamadov",
+                                    "newsletterV3": {
+                                        "id": "a6a451ef83e4",
+                                        "subscribersCount": 24,
+                                        "__typename": "NewsletterV3"
+                                    }
+                                },
+                                "collection": null,
+                                "isSeries": false,
+                                "mediumUrl": "https://ismatsamadov.medium.com/prompt-engineering-907e767c3964",
+                                "sequence": null,
+                                "uniqueSlug": "prompt-engineering-907e767c3964",
+                                "isNewsletter": false,
+                                "isAuthorNewsletter": false,
+                                "title": "Prompt Engineering",
+                                "clapCount": 0,
+                                "postResponses": {
+                                    "count": 0,
+                                    "__typename": "PostResponses"
+                                },
+                                "previewImage": {
+                                    "id": "0*lwqMfCS9Vxwe6Osa",
+                                    "focusPercentX": null,
+                                    "focusPercentY": null,
+                                    "alt": null,
+                                    "__typename": "ImageMetadata"
+                                }
+                            },
+                            "__typename": "PostPreview"
+                        },
+                        {
+                            "postId": "498ac917fec8",
+                            "post": {
+                                "id": "498ac917fec8",
+                                "viewerEdge": {
+                                    "id": "postId:498ac917fec8-viewerId:4a5238264eac",
+                                    "latestSubmission": {
+                                        "edges": [],
+                                        "__typename": "PostSubmissionsConnection"
+                                    },
+                                    "__typename": "PostViewerEdge"
+                                },
+                                "isPublished": true,
+                                "visibility": "LOCKED",
+                                "firstPublishedAt": 1749541892263,
+                                "readingTime": 5.841509433962265,
+                                "wordCount": 1495,
+                                "updatedAt": 1749554908907,
+                                "publishSchedule": null,
+                                "__typename": "Post",
+                                "isLocked": true,
+                                "inResponseToEntityType": null,
+                                "creator": {
+                                    "__typename": "User",
+                                    "id": "4a5238264eac",
+                                    "customDomainState": {
+                                        "live": {
+                                            "domain": "ismatsamadov.medium.com",
+                                            "__typename": "CustomDomain"
+                                        },
+                                        "__typename": "CustomDomainState"
+                                    },
+                                    "hasSubdomain": true,
+                                    "username": "ismatsamadov",
+                                    "newsletterV3": {
+                                        "id": "a6a451ef83e4",
+                                        "subscribersCount": 24,
+                                        "__typename": "NewsletterV3"
+                                    }
+                                },
+                                "collection": null,
+                                "isSeries": false,
+                                "mediumUrl": "https://ismatsamadov.medium.com/lost-generation-2-0-498ac917fec8",
+                                "sequence": null,
+                                "uniqueSlug": "lost-generation-2-0-498ac917fec8",
+                                "isNewsletter": false,
+                                "isAuthorNewsletter": true,
+                                "title": "Lost Generation 2.0",
+                                "clapCount": 0,
+                                "postResponses": {
+                                    "count": 0,
+                                    "__typename": "PostResponses"
+                                },
+                                "previewImage": {
+                                    "id": "0*qK_ky4_r6q-NVnzG",
+                                    "focusPercentX": null,
+                                    "focusPercentY": null,
+                                    "alt": null,
+                                    "__typename": "ImageMetadata"
+                                }
+                            },
+                            "__typename": "PostPreview"
+                        },
+                        {
+                            "postId": "fd049d0f3457",
+                            "post": {
+                                "id": "fd049d0f3457",
+                                "viewerEdge": {
+                                    "id": "postId:fd049d0f3457-viewerId:4a5238264eac",
+                                    "latestSubmission": {
+                                        "edges": [],
+                                        "__typename": "PostSubmissionsConnection"
+                                    },
+                                    "__typename": "PostViewerEdge"
+                                },
+                                "isPublished": true,
+                                "visibility": "LOCKED",
+                                "firstPublishedAt": 1741159837217,
+                                "readingTime": 11.739622641509433,
+                                "wordCount": 3058,
+                                "updatedAt": 1741163559798,
+                                "publishSchedule": null,
+                                "__typename": "Post",
+                                "isLocked": true,
+                                "inResponseToEntityType": null,
+                                "creator": {
+                                    "__typename": "User",
+                                    "id": "4a5238264eac",
+                                    "customDomainState": {
+                                        "live": {
+                                            "domain": "ismatsamadov.medium.com",
+                                            "__typename": "CustomDomain"
+                                        },
+                                        "__typename": "CustomDomainState"
+                                    },
+                                    "hasSubdomain": true,
+                                    "username": "ismatsamadov",
+                                    "newsletterV3": {
+                                        "id": "a6a451ef83e4",
+                                        "subscribersCount": 24,
+                                        "__typename": "NewsletterV3"
+                                    }
+                                },
+                                "collection": null,
+                                "isSeries": false,
+                                "mediumUrl": "https://ismatsamadov.medium.com/advanced-concepts-in-data-science-fd049d0f3457",
+                                "sequence": null,
+                                "uniqueSlug": "advanced-concepts-in-data-science-fd049d0f3457",
+                                "isNewsletter": false,
+                                "isAuthorNewsletter": false,
+                                "title": "Advanced Concepts in Data Science",
+                                "clapCount": 0,
+                                "postResponses": {
+                                    "count": 0,
+                                    "__typename": "PostResponses"
+                                },
+                                "previewImage": {
+                                    "id": "0*ze819aDwVExL4Xce",
+                                    "focusPercentX": null,
+                                    "focusPercentY": null,
+                                    "alt": null,
+                                    "__typename": "ImageMetadata"
+                                }
+                            },
+                            "__typename": "PostPreview"
+                        },
+                        {
+                            "postId": "a5e1e54608c7",
+                            "post": {
+                                "id": "a5e1e54608c7",
+                                "viewerEdge": {
+                                    "id": "postId:a5e1e54608c7-viewerId:4a5238264eac",
+                                    "latestSubmission": {
+                                        "edges": [],
+                                        "__typename": "PostSubmissionsConnection"
+                                    },
+                                    "__typename": "PostViewerEdge"
+                                },
+                                "isPublished": true,
+                                "visibility": "LOCKED",
+                                "firstPublishedAt": 1740716849926,
+                                "readingTime": 14.143396226415094,
+                                "wordCount": 3695,
+                                "updatedAt": 1740731209657,
+                                "publishSchedule": null,
+                                "__typename": "Post",
+                                "isLocked": true,
+                                "inResponseToEntityType": null,
+                                "creator": {
+                                    "__typename": "User",
+                                    "id": "4a5238264eac",
+                                    "customDomainState": {
+                                        "live": {
+                                            "domain": "ismatsamadov.medium.com",
+                                            "__typename": "CustomDomain"
+                                        },
+                                        "__typename": "CustomDomainState"
+                                    },
+                                    "hasSubdomain": true,
+                                    "username": "ismatsamadov",
+                                    "newsletterV3": {
+                                        "id": "a6a451ef83e4",
+                                        "subscribersCount": 24,
+                                        "__typename": "NewsletterV3"
+                                    }
+                                },
+                                "collection": null,
+                                "isSeries": false,
+                                "mediumUrl": "https://ismatsamadov.medium.com/why-becoming-a-software-developer-still-matters-a5e1e54608c7",
+                                "sequence": null,
+                                "uniqueSlug": "why-becoming-a-software-developer-still-matters-a5e1e54608c7",
+                                "isNewsletter": false,
+                                "isAuthorNewsletter": true,
+                                "title": "Why Becoming a Software Developer Still Matters",
+                                "clapCount": 50,
+                                "postResponses": {
+                                    "count": 0,
+                                    "__typename": "PostResponses"
+                                },
+                                "previewImage": {
+                                    "id": "0*-PVOCi2g5wh_YbZq",
+                                    "focusPercentX": null,
+                                    "focusPercentY": null,
+                                    "alt": null,
+                                    "__typename": "ImageMetadata"
+                                }
+                            },
+                            "__typename": "PostPreview"
+                        },
+                        {
+                            "postId": "8e1cb7c9a7bf",
+                            "post": {
+                                "id": "8e1cb7c9a7bf",
+                                "viewerEdge": {
+                                    "id": "postId:8e1cb7c9a7bf-viewerId:4a5238264eac",
+                                    "latestSubmission": {
+                                        "edges": [],
+                                        "__typename": "PostSubmissionsConnection"
+                                    },
+                                    "__typename": "PostViewerEdge"
+                                },
+                                "isPublished": true,
+                                "visibility": "LOCKED",
+                                "firstPublishedAt": 1740680613952,
+                                "readingTime": 32.76603773584906,
+                                "wordCount": 8630,
+                                "updatedAt": 1740684312730,
+                                "publishSchedule": null,
+                                "__typename": "Post",
+                                "isLocked": true,
+                                "inResponseToEntityType": null,
+                                "creator": {
+                                    "__typename": "User",
+                                    "id": "4a5238264eac",
+                                    "customDomainState": {
+                                        "live": {
+                                            "domain": "ismatsamadov.medium.com",
+                                            "__typename": "CustomDomain"
+                                        },
+                                        "__typename": "CustomDomainState"
+                                    },
+                                    "hasSubdomain": true,
+                                    "username": "ismatsamadov",
+                                    "newsletterV3": {
+                                        "id": "a6a451ef83e4",
+                                        "subscribersCount": 24,
+                                        "__typename": "NewsletterV3"
+                                    }
+                                },
+                                "collection": null,
+                                "isSeries": false,
+                                "mediumUrl": "https://ismatsamadov.medium.com/forensic-analysis-of-registered-users-8e1cb7c9a7bf",
+                                "sequence": null,
+                                "uniqueSlug": "forensic-analysis-of-registered-users-8e1cb7c9a7bf",
+                                "isNewsletter": false,
+                                "isAuthorNewsletter": false,
+                                "title": "Forensic Analysis of Registered Users",
+                                "clapCount": 50,
+                                "postResponses": {
+                                    "count": 0,
+                                    "__typename": "PostResponses"
+                                },
+                                "previewImage": {
+                                    "id": "0*lm0U7I5arRJAZvAX",
+                                    "focusPercentX": null,
+                                    "focusPercentY": null,
+                                    "alt": null,
+                                    "__typename": "ImageMetadata"
+                                }
+                            },
+                            "__typename": "PostPreview"
+                        },
+                        {
+                            "postId": "ff894b63a0fb",
+                            "post": {
+                                "id": "ff894b63a0fb",
+                                "viewerEdge": {
+                                    "id": "postId:ff894b63a0fb-viewerId:4a5238264eac",
+                                    "latestSubmission": {
+                                        "edges": [],
+                                        "__typename": "PostSubmissionsConnection"
+                                    },
+                                    "__typename": "PostViewerEdge"
+                                },
+                                "isPublished": true,
+                                "visibility": "LOCKED",
+                                "firstPublishedAt": 1729878638550,
+                                "readingTime": 5.483018867924528,
+                                "wordCount": 1400,
+                                "updatedAt": 1731605062797,
+                                "publishSchedule": null,
+                                "__typename": "Post",
+                                "isLocked": true,
+                                "inResponseToEntityType": null,
+                                "creator": {
+                                    "__typename": "User",
+                                    "id": "4a5238264eac",
+                                    "customDomainState": {
+                                        "live": {
+                                            "domain": "ismatsamadov.medium.com",
+                                            "__typename": "CustomDomain"
+                                        },
+                                        "__typename": "CustomDomainState"
+                                    },
+                                    "hasSubdomain": true,
+                                    "username": "ismatsamadov",
+                                    "newsletterV3": {
+                                        "id": "a6a451ef83e4",
+                                        "subscribersCount": 24,
+                                        "__typename": "NewsletterV3"
+                                    }
+                                },
+                                "collection": null,
+                                "isSeries": false,
+                                "mediumUrl": "https://ismatsamadov.medium.com/reasoning-and-pattern-recognition-in-data-science-understanding-how-machines-make-sense-of-data-ff894b63a0fb",
+                                "sequence": null,
+                                "uniqueSlug": "reasoning-and-pattern-recognition-in-data-science-understanding-how-machines-make-sense-of-data-ff894b63a0fb",
+                                "isNewsletter": false,
+                                "isAuthorNewsletter": false,
+                                "title": "Reasoning and Pattern Recognition in Data Science: Understanding How Machines Make Sense of Data",
+                                "clapCount": 155,
+                                "postResponses": {
+                                    "count": 1,
+                                    "__typename": "PostResponses"
+                                },
+                                "previewImage": {
+                                    "id": "0*qRdcnBolfBoVNCqo",
+                                    "focusPercentX": null,
+                                    "focusPercentY": null,
+                                    "alt": null,
+                                    "__typename": "ImageMetadata"
+                                }
+                            },
+                            "__typename": "PostPreview"
+                        },
+                        {
+                            "postId": "bc37f85c4e04",
+                            "post": {
+                                "id": "bc37f85c4e04",
+                                "viewerEdge": {
+                                    "id": "postId:bc37f85c4e04-viewerId:4a5238264eac",
+                                    "latestSubmission": {
+                                        "edges": [],
+                                        "__typename": "PostSubmissionsConnection"
+                                    },
+                                    "__typename": "PostViewerEdge"
+                                },
+                                "isPublished": true,
+                                "visibility": "LOCKED",
+                                "firstPublishedAt": 1729877470490,
+                                "readingTime": 3.5509433962264154,
+                                "wordCount": 888,
+                                "updatedAt": 1731605060452,
+                                "publishSchedule": null,
+                                "__typename": "Post",
+                                "isLocked": true,
+                                "inResponseToEntityType": null,
+                                "creator": {
+                                    "__typename": "User",
+                                    "id": "4a5238264eac",
+                                    "customDomainState": {
+                                        "live": {
+                                            "domain": "ismatsamadov.medium.com",
+                                            "__typename": "CustomDomain"
+                                        },
+                                        "__typename": "CustomDomainState"
+                                    },
+                                    "hasSubdomain": true,
+                                    "username": "ismatsamadov",
+                                    "newsletterV3": {
+                                        "id": "a6a451ef83e4",
+                                        "subscribersCount": 24,
+                                        "__typename": "NewsletterV3"
+                                    }
+                                },
+                                "collection": null,
+                                "isSeries": false,
+                                "mediumUrl": "https://ismatsamadov.medium.com/the-mersenne-twister-algorithm-a-deep-dive-into-a-pseudo-random-number-generator-bc37f85c4e04",
+                                "sequence": null,
+                                "uniqueSlug": "the-mersenne-twister-algorithm-a-deep-dive-into-a-pseudo-random-number-generator-bc37f85c4e04",
+                                "isNewsletter": false,
+                                "isAuthorNewsletter": false,
+                                "title": "The Mersenne Twister Algorithm. A Deep Dive into a Pseudo-Random Number Generator",
+                                "clapCount": 50,
+                                "postResponses": {
+                                    "count": 0,
+                                    "__typename": "PostResponses"
+                                },
+                                "previewImage": {
+                                    "id": "0*pcfj4Pn2n3nmHM5I",
+                                    "focusPercentX": null,
+                                    "focusPercentY": null,
+                                    "alt": null,
+                                    "__typename": "ImageMetadata"
+                                }
+                            },
+                            "__typename": "PostPreview"
+                        },
+                        {
+                            "postId": "dddadaf5f21e",
+                            "post": {
+                                "id": "dddadaf5f21e",
+                                "viewerEdge": {
+                                    "id": "postId:dddadaf5f21e-viewerId:4a5238264eac",
+                                    "latestSubmission": {
+                                        "edges": [],
+                                        "__typename": "PostSubmissionsConnection"
+                                    },
+                                    "__typename": "PostViewerEdge"
+                                },
+                                "isPublished": true,
+                                "visibility": "LOCKED",
+                                "firstPublishedAt": 1729876433118,
+                                "readingTime": 4.928301886792453,
+                                "wordCount": 1253,
+                                "updatedAt": 1731605063623,
+                                "publishSchedule": null,
+                                "__typename": "Post",
+                                "isLocked": true,
+                                "inResponseToEntityType": null,
+                                "creator": {
+                                    "__typename": "User",
+                                    "id": "4a5238264eac",
+                                    "customDomainState": {
+                                        "live": {
+                                            "domain": "ismatsamadov.medium.com",
+                                            "__typename": "CustomDomain"
+                                        },
+                                        "__typename": "CustomDomainState"
+                                    },
+                                    "hasSubdomain": true,
+                                    "username": "ismatsamadov",
+                                    "newsletterV3": {
+                                        "id": "a6a451ef83e4",
+                                        "subscribersCount": 24,
+                                        "__typename": "NewsletterV3"
+                                    }
+                                },
+                                "collection": null,
+                                "isSeries": false,
+                                "mediumUrl": "https://ismatsamadov.medium.com/understanding-randomness-entropy-and-random-number-generators-from-pseudo-rngs-to-true-rngs-dddadaf5f21e",
+                                "sequence": null,
+                                "uniqueSlug": "understanding-randomness-entropy-and-random-number-generators-from-pseudo-rngs-to-true-rngs-dddadaf5f21e",
+                                "isNewsletter": false,
+                                "isAuthorNewsletter": false,
+                                "title": "Understanding Randomness, Entropy, and Random Number Generators: From Pseudo-RNGs to True RNGs",
+                                "clapCount": 50,
+                                "postResponses": {
+                                    "count": 0,
+                                    "__typename": "PostResponses"
+                                },
+                                "previewImage": {
+                                    "id": "0*A3HGezFopzkl3PYZ",
+                                    "focusPercentX": null,
+                                    "focusPercentY": null,
+                                    "alt": null,
+                                    "__typename": "ImageMetadata"
+                                }
+                            },
+                            "__typename": "PostPreview"
+                        },
+                        {
+                            "postId": "378d2ed8fce0",
+                            "post": {
+                                "id": "378d2ed8fce0",
+                                "viewerEdge": {
+                                    "id": "postId:378d2ed8fce0-viewerId:4a5238264eac",
+                                    "latestSubmission": {
+                                        "edges": [],
+                                        "__typename": "PostSubmissionsConnection"
+                                    },
+                                    "__typename": "PostViewerEdge"
+                                },
+                                "isPublished": true,
+                                "visibility": "LOCKED",
+                                "firstPublishedAt": 1729875261256,
+                                "readingTime": 4.886792452830189,
+                                "wordCount": 1242,
+                                "updatedAt": 1731605054680,
+                                "publishSchedule": null,
+                                "__typename": "Post",
+                                "isLocked": true,
+                                "inResponseToEntityType": null,
+                                "creator": {
+                                    "__typename": "User",
+                                    "id": "4a5238264eac",
+                                    "customDomainState": {
+                                        "live": {
+                                            "domain": "ismatsamadov.medium.com",
+                                            "__typename": "CustomDomain"
+                                        },
+                                        "__typename": "CustomDomainState"
+                                    },
+                                    "hasSubdomain": true,
+                                    "username": "ismatsamadov",
+                                    "newsletterV3": {
+                                        "id": "a6a451ef83e4",
+                                        "subscribersCount": 24,
+                                        "__typename": "NewsletterV3"
+                                    }
+                                },
+                                "collection": null,
+                                "isSeries": false,
+                                "mediumUrl": "https://ismatsamadov.medium.com/embedded-operating-systems-the-backbone-of-advanced-systems-like-the-f-35-378d2ed8fce0",
+                                "sequence": null,
+                                "uniqueSlug": "embedded-operating-systems-the-backbone-of-advanced-systems-like-the-f-35-378d2ed8fce0",
+                                "isNewsletter": false,
+                                "isAuthorNewsletter": false,
+                                "title": "Embedded Operating Systems: The Backbone of Advanced Systems like the F-35",
+                                "clapCount": 50,
+                                "postResponses": {
+                                    "count": 0,
+                                    "__typename": "PostResponses"
+                                },
+                                "previewImage": {
+                                    "id": "0*sEvNqe9Is_FWQzmP",
+                                    "focusPercentX": null,
+                                    "focusPercentY": null,
+                                    "alt": null,
+                                    "__typename": "ImageMetadata"
+                                }
+                            },
+                            "__typename": "PostPreview"
+                        },
+                        {
+                            "postId": "01f63ca752c2",
+                            "post": {
+                                "id": "01f63ca752c2",
+                                "viewerEdge": {
+                                    "id": "postId:01f63ca752c2-viewerId:4a5238264eac",
+                                    "latestSubmission": {
+                                        "edges": [],
+                                        "__typename": "PostSubmissionsConnection"
+                                    },
+                                    "__typename": "PostViewerEdge"
+                                },
+                                "isPublished": true,
+                                "visibility": "LOCKED",
+                                "firstPublishedAt": 1729874617307,
+                                "readingTime": 5.064150943396227,
+                                "wordCount": 1289,
+                                "updatedAt": 1731605060664,
+                                "publishSchedule": null,
+                                "__typename": "Post",
+                                "isLocked": true,
+                                "inResponseToEntityType": null,
+                                "creator": {
+                                    "__typename": "User",
+                                    "id": "4a5238264eac",
+                                    "customDomainState": {
+                                        "live": {
+                                            "domain": "ismatsamadov.medium.com",
+                                            "__typename": "CustomDomain"
+                                        },
+                                        "__typename": "CustomDomainState"
+                                    },
+                                    "hasSubdomain": true,
+                                    "username": "ismatsamadov",
+                                    "newsletterV3": {
+                                        "id": "a6a451ef83e4",
+                                        "subscribersCount": 24,
+                                        "__typename": "NewsletterV3"
+                                    }
+                                },
+                                "collection": null,
+                                "isSeries": false,
+                                "mediumUrl": "https://ismatsamadov.medium.com/why-tree-and-graph-based-machine-learning-models-work-well-with-fraud-detection-01f63ca752c2",
+                                "sequence": null,
+                                "uniqueSlug": "why-tree-and-graph-based-machine-learning-models-work-well-with-fraud-detection-01f63ca752c2",
+                                "isNewsletter": false,
+                                "isAuthorNewsletter": false,
+                                "title": "Why Tree and Graph-Based Machine Learning Models Work Well with Fraud Detection",
+                                "clapCount": 51,
+                                "postResponses": {
+                                    "count": 0,
+                                    "__typename": "PostResponses"
+                                },
+                                "previewImage": {
+                                    "id": "0*LIw3DiymOn7NYTZE",
+                                    "focusPercentX": null,
+                                    "focusPercentY": null,
+                                    "alt": null,
+                                    "__typename": "ImageMetadata"
+                                }
+                            },
+                            "__typename": "PostPreview"
+                        },
+                        {
+                            "postId": "3297c32e435f",
+                            "post": {
+                                "id": "3297c32e435f",
+                                "viewerEdge": {
+                                    "id": "postId:3297c32e435f-viewerId:4a5238264eac",
+                                    "latestSubmission": {
+                                        "edges": [],
+                                        "__typename": "PostSubmissionsConnection"
+                                    },
+                                    "__typename": "PostViewerEdge"
+                                },
+                                "isPublished": true,
+                                "visibility": "LOCKED",
+                                "firstPublishedAt": 1729873750427,
+                                "readingTime": 5.283018867924529,
+                                "wordCount": 1347,
+                                "updatedAt": 1731605060210,
+                                "publishSchedule": null,
+                                "__typename": "Post",
+                                "isLocked": true,
+                                "inResponseToEntityType": null,
+                                "creator": {
+                                    "__typename": "User",
+                                    "id": "4a5238264eac",
+                                    "customDomainState": {
+                                        "live": {
+                                            "domain": "ismatsamadov.medium.com",
+                                            "__typename": "CustomDomain"
+                                        },
+                                        "__typename": "CustomDomainState"
+                                    },
+                                    "hasSubdomain": true,
+                                    "username": "ismatsamadov",
+                                    "newsletterV3": {
+                                        "id": "a6a451ef83e4",
+                                        "subscribersCount": 24,
+                                        "__typename": "NewsletterV3"
+                                    }
+                                },
+                                "collection": null,
+                                "isSeries": false,
+                                "mediumUrl": "https://ismatsamadov.medium.com/time-series-forecasting-different-models-with-examples-3297c32e435f",
+                                "sequence": null,
+                                "uniqueSlug": "time-series-forecasting-different-models-with-examples-3297c32e435f",
+                                "isNewsletter": false,
+                                "isAuthorNewsletter": false,
+                                "title": "Time Series Forecasting . Different Models with Examples",
+                                "clapCount": 50,
+                                "postResponses": {
+                                    "count": 0,
+                                    "__typename": "PostResponses"
+                                },
+                                "previewImage": {
+                                    "id": "0*GjbbRYCRAtmGYoZZ",
+                                    "focusPercentX": null,
+                                    "focusPercentY": null,
+                                    "alt": null,
+                                    "__typename": "ImageMetadata"
+                                }
+                            },
+                            "__typename": "PostPreview"
+                        },
+                        {
+                            "postId": "98b7fe5db8ea",
+                            "post": {
+                                "id": "98b7fe5db8ea",
+                                "viewerEdge": {
+                                    "id": "postId:98b7fe5db8ea-viewerId:4a5238264eac",
+                                    "latestSubmission": {
+                                        "edges": [],
+                                        "__typename": "PostSubmissionsConnection"
+                                    },
+                                    "__typename": "PostViewerEdge"
+                                },
+                                "isPublished": true,
+                                "visibility": "LOCKED",
+                                "firstPublishedAt": 1729870403604,
+                                "readingTime": 5.071698113207547,
+                                "wordCount": 1291,
+                                "updatedAt": 1731605061601,
+                                "publishSchedule": null,
+                                "__typename": "Post",
+                                "isLocked": true,
+                                "inResponseToEntityType": null,
+                                "creator": {
+                                    "__typename": "User",
+                                    "id": "4a5238264eac",
+                                    "customDomainState": {
+                                        "live": {
+                                            "domain": "ismatsamadov.medium.com",
+                                            "__typename": "CustomDomain"
+                                        },
+                                        "__typename": "CustomDomainState"
+                                    },
+                                    "hasSubdomain": true,
+                                    "username": "ismatsamadov",
+                                    "newsletterV3": {
+                                        "id": "a6a451ef83e4",
+                                        "subscribersCount": 24,
+                                        "__typename": "NewsletterV3"
+                                    }
+                                },
+                                "collection": null,
+                                "isSeries": false,
+                                "mediumUrl": "https://ismatsamadov.medium.com/understanding-evaluation-metrics-for-machine-learning-models-98b7fe5db8ea",
+                                "sequence": null,
+                                "uniqueSlug": "understanding-evaluation-metrics-for-machine-learning-models-98b7fe5db8ea",
+                                "isNewsletter": false,
+                                "isAuthorNewsletter": false,
+                                "title": "Understanding Evaluation Metrics for Machine Learning Models",
+                                "clapCount": 0,
+                                "postResponses": {
+                                    "count": 0,
+                                    "__typename": "PostResponses"
+                                },
+                                "previewImage": {
+                                    "id": "0*6hf9kLb-J1DQKVoU",
+                                    "focusPercentX": null,
+                                    "focusPercentY": null,
+                                    "alt": null,
+                                    "__typename": "ImageMetadata"
+                                }
+                            },
+                            "__typename": "PostPreview"
+                        },
+                        {
+                            "postId": "be5b09399030",
+                            "post": {
+                                "id": "be5b09399030",
+                                "viewerEdge": {
+                                    "id": "postId:be5b09399030-viewerId:4a5238264eac",
+                                    "latestSubmission": {
+                                        "edges": [],
+                                        "__typename": "PostSubmissionsConnection"
+                                    },
+                                    "__typename": "PostViewerEdge"
+                                },
+                                "isPublished": true,
+                                "visibility": "LOCKED",
+                                "firstPublishedAt": 1729868286351,
+                                "readingTime": 4.935849056603773,
+                                "wordCount": 1255,
+                                "updatedAt": 1731605060810,
+                                "publishSchedule": null,
+                                "__typename": "Post",
+                                "isLocked": true,
+                                "inResponseToEntityType": null,
+                                "creator": {
+                                    "__typename": "User",
+                                    "id": "4a5238264eac",
+                                    "customDomainState": {
+                                        "live": {
+                                            "domain": "ismatsamadov.medium.com",
+                                            "__typename": "CustomDomain"
+                                        },
+                                        "__typename": "CustomDomainState"
+                                    },
+                                    "hasSubdomain": true,
+                                    "username": "ismatsamadov",
+                                    "newsletterV3": {
+                                        "id": "a6a451ef83e4",
+                                        "subscribersCount": 24,
+                                        "__typename": "NewsletterV3"
+                                    }
+                                },
+                                "collection": null,
+                                "isSeries": false,
+                                "mediumUrl": "https://ismatsamadov.medium.com/outlier-detection-in-machine-learning-be5b09399030",
+                                "sequence": null,
+                                "uniqueSlug": "outlier-detection-in-machine-learning-be5b09399030",
+                                "isNewsletter": false,
+                                "isAuthorNewsletter": false,
+                                "title": "Outlier Detection in Machine Learning.",
+                                "clapCount": 0,
+                                "postResponses": {
+                                    "count": 0,
+                                    "__typename": "PostResponses"
+                                },
+                                "previewImage": {
+                                    "id": "0*mWXj4jVx6g4edx1I",
+                                    "focusPercentX": null,
+                                    "focusPercentY": null,
+                                    "alt": null,
+                                    "__typename": "ImageMetadata"
+                                }
+                            },
+                            "__typename": "PostPreview"
+                        },
+                        {
+                            "postId": "f7444df33997",
+                            "post": {
+                                "id": "f7444df33997",
+                                "viewerEdge": {
+                                    "id": "postId:f7444df33997-viewerId:4a5238264eac",
+                                    "latestSubmission": {
+                                        "edges": [],
+                                        "__typename": "PostSubmissionsConnection"
+                                    },
+                                    "__typename": "PostViewerEdge"
+                                },
+                                "isPublished": true,
+                                "visibility": "LOCKED",
+                                "firstPublishedAt": 1729866908224,
+                                "readingTime": 4.943396226415095,
+                                "wordCount": 1257,
+                                "updatedAt": 1731605044634,
+                                "publishSchedule": null,
+                                "__typename": "Post",
+                                "isLocked": true,
+                                "inResponseToEntityType": null,
+                                "creator": {
+                                    "__typename": "User",
+                                    "id": "4a5238264eac",
+                                    "customDomainState": {
+                                        "live": {
+                                            "domain": "ismatsamadov.medium.com",
+                                            "__typename": "CustomDomain"
+                                        },
+                                        "__typename": "CustomDomainState"
+                                    },
+                                    "hasSubdomain": true,
+                                    "username": "ismatsamadov",
+                                    "newsletterV3": {
+                                        "id": "a6a451ef83e4",
+                                        "subscribersCount": 24,
+                                        "__typename": "NewsletterV3"
+                                    }
+                                },
+                                "collection": null,
+                                "isSeries": false,
+                                "mediumUrl": "https://ismatsamadov.medium.com/humanization-in-the-age-of-ai-f7444df33997",
+                                "sequence": null,
+                                "uniqueSlug": "humanization-in-the-age-of-ai-f7444df33997",
+                                "isNewsletter": false,
+                                "isAuthorNewsletter": false,
+                                "title": "Humanization in the Age of AI.",
+                                "clapCount": 0,
+                                "postResponses": {
+                                    "count": 0,
+                                    "__typename": "PostResponses"
+                                },
+                                "previewImage": {
+                                    "id": "0*15iapohkPFpU0Om7",
+                                    "focusPercentX": null,
+                                    "focusPercentY": null,
+                                    "alt": null,
+                                    "__typename": "ImageMetadata"
+                                }
+                            },
+                            "__typename": "PostPreview"
+                        },
+                        {
+                            "postId": "775864f84940",
+                            "post": {
+                                "id": "775864f84940",
+                                "viewerEdge": {
+                                    "id": "postId:775864f84940-viewerId:4a5238264eac",
+                                    "latestSubmission": {
+                                        "edges": [],
+                                        "__typename": "PostSubmissionsConnection"
+                                    },
+                                    "__typename": "PostViewerEdge"
+                                },
+                                "isPublished": true,
+                                "visibility": "LOCKED",
+                                "firstPublishedAt": 1729864866996,
+                                "readingTime": 5.067924528301887,
+                                "wordCount": 1290,
+                                "updatedAt": 1731605060806,
+                                "publishSchedule": null,
+                                "__typename": "Post",
+                                "isLocked": true,
+                                "inResponseToEntityType": null,
+                                "creator": {
+                                    "__typename": "User",
+                                    "id": "4a5238264eac",
+                                    "customDomainState": {
+                                        "live": {
+                                            "domain": "ismatsamadov.medium.com",
+                                            "__typename": "CustomDomain"
+                                        },
+                                        "__typename": "CustomDomainState"
+                                    },
+                                    "hasSubdomain": true,
+                                    "username": "ismatsamadov",
+                                    "newsletterV3": {
+                                        "id": "a6a451ef83e4",
+                                        "subscribersCount": 24,
+                                        "__typename": "NewsletterV3"
+                                    }
+                                },
+                                "collection": null,
+                                "isSeries": false,
+                                "mediumUrl": "https://ismatsamadov.medium.com/fake-news-detection-challenges-and-machine-learning-models-to-combat-disinformation-775864f84940",
+                                "sequence": null,
+                                "uniqueSlug": "fake-news-detection-challenges-and-machine-learning-models-to-combat-disinformation-775864f84940",
+                                "isNewsletter": false,
+                                "isAuthorNewsletter": false,
+                                "title": "Fake News Detection. Challenges and Machine Learning Models to Combat Disinformation",
+                                "clapCount": 0,
+                                "postResponses": {
+                                    "count": 0,
+                                    "__typename": "PostResponses"
+                                },
+                                "previewImage": {
+                                    "id": "0*n-0l7UNHXh7vp-dg",
+                                    "focusPercentX": null,
+                                    "focusPercentY": null,
+                                    "alt": null,
+                                    "__typename": "ImageMetadata"
+                                }
+                            },
+                            "__typename": "PostPreview"
+                        },
+                        {
+                            "postId": "bacff16dc135",
+                            "post": {
+                                "id": "bacff16dc135",
+                                "viewerEdge": {
+                                    "id": "postId:bacff16dc135-viewerId:4a5238264eac",
+                                    "latestSubmission": {
+                                        "edges": [],
+                                        "__typename": "PostSubmissionsConnection"
+                                    },
+                                    "__typename": "PostViewerEdge"
+                                },
+                                "isPublished": true,
+                                "visibility": "LOCKED",
+                                "firstPublishedAt": 1729863985954,
+                                "readingTime": 4.558490566037736,
+                                "wordCount": 1155,
+                                "updatedAt": 1731605045934,
+                                "publishSchedule": null,
+                                "__typename": "Post",
+                                "isLocked": true,
+                                "inResponseToEntityType": null,
+                                "creator": {
+                                    "__typename": "User",
+                                    "id": "4a5238264eac",
+                                    "customDomainState": {
+                                        "live": {
+                                            "domain": "ismatsamadov.medium.com",
+                                            "__typename": "CustomDomain"
+                                        },
+                                        "__typename": "CustomDomainState"
+                                    },
+                                    "hasSubdomain": true,
+                                    "username": "ismatsamadov",
+                                    "newsletterV3": {
+                                        "id": "a6a451ef83e4",
+                                        "subscribersCount": 24,
+                                        "__typename": "NewsletterV3"
+                                    }
+                                },
+                                "collection": null,
+                                "isSeries": false,
+                                "mediumUrl": "https://ismatsamadov.medium.com/node-js-deno-and-bun-bacff16dc135",
+                                "sequence": null,
+                                "uniqueSlug": "node-js-deno-and-bun-bacff16dc135",
+                                "isNewsletter": false,
+                                "isAuthorNewsletter": false,
+                                "title": "Node.js, Deno, and Bun",
+                                "clapCount": 1,
+                                "postResponses": {
+                                    "count": 0,
+                                    "__typename": "PostResponses"
+                                },
+                                "previewImage": {
+                                    "id": "0*-IVxg0OFJ7E0g8JJ",
+                                    "focusPercentX": null,
+                                    "focusPercentY": null,
+                                    "alt": null,
+                                    "__typename": "ImageMetadata"
+                                }
+                            },
+                            "__typename": "PostPreview"
+                        },
+                        {
+                            "postId": "b11d286bef5a",
+                            "post": {
+                                "id": "b11d286bef5a",
+                                "viewerEdge": {
+                                    "id": "postId:b11d286bef5a-viewerId:4a5238264eac",
+                                    "latestSubmission": {
+                                        "edges": [],
+                                        "__typename": "PostSubmissionsConnection"
+                                    },
+                                    "__typename": "PostViewerEdge"
+                                },
+                                "isPublished": true,
+                                "visibility": "LOCKED",
+                                "firstPublishedAt": 1729699788445,
+                                "readingTime": 5.59622641509434,
+                                "wordCount": 1430,
+                                "updatedAt": 1731613243274,
+                                "publishSchedule": null,
+                                "__typename": "Post",
+                                "isLocked": true,
+                                "inResponseToEntityType": null,
+                                "creator": {
+                                    "__typename": "User",
+                                    "id": "4a5238264eac",
+                                    "customDomainState": {
+                                        "live": {
+                                            "domain": "ismatsamadov.medium.com",
+                                            "__typename": "CustomDomain"
+                                        },
+                                        "__typename": "CustomDomainState"
+                                    },
+                                    "hasSubdomain": true,
+                                    "username": "ismatsamadov",
+                                    "newsletterV3": {
+                                        "id": "a6a451ef83e4",
+                                        "subscribersCount": 24,
+                                        "__typename": "NewsletterV3"
+                                    }
+                                },
+                                "collection": null,
+                                "isSeries": false,
+                                "mediumUrl": "https://ismatsamadov.medium.com/agile-prioritization-techniques-you-must-know-b11d286bef5a",
+                                "sequence": null,
+                                "uniqueSlug": "agile-prioritization-techniques-you-must-know-b11d286bef5a",
+                                "isNewsletter": false,
+                                "isAuthorNewsletter": false,
+                                "title": "Agile Prioritization Techniques You Must Know",
+                                "clapCount": 26,
+                                "postResponses": {
+                                    "count": 0,
+                                    "__typename": "PostResponses"
+                                },
+                                "previewImage": {
+                                    "id": "0*yEpk71zszw8zg4db",
+                                    "focusPercentX": null,
+                                    "focusPercentY": null,
+                                    "alt": null,
+                                    "__typename": "ImageMetadata"
+                                }
+                            },
+                            "__typename": "PostPreview"
+                        },
+                        {
+                            "postId": "f317c4157e1e",
+                            "post": {
+                                "id": "f317c4157e1e",
+                                "viewerEdge": {
+                                    "id": "postId:f317c4157e1e-viewerId:4a5238264eac",
+                                    "latestSubmission": {
+                                        "edges": [],
+                                        "__typename": "PostSubmissionsConnection"
+                                    },
+                                    "__typename": "PostViewerEdge"
+                                },
+                                "isPublished": true,
+                                "visibility": "LOCKED",
+                                "firstPublishedAt": 1729695791289,
+                                "readingTime": 4.626415094339623,
+                                "wordCount": 1173,
+                                "updatedAt": 1731613238232,
+                                "publishSchedule": null,
+                                "__typename": "Post",
+                                "isLocked": true,
+                                "inResponseToEntityType": null,
+                                "creator": {
+                                    "__typename": "User",
+                                    "id": "4a5238264eac",
+                                    "customDomainState": {
+                                        "live": {
+                                            "domain": "ismatsamadov.medium.com",
+                                            "__typename": "CustomDomain"
+                                        },
+                                        "__typename": "CustomDomainState"
+                                    },
+                                    "hasSubdomain": true,
+                                    "username": "ismatsamadov",
+                                    "newsletterV3": {
+                                        "id": "a6a451ef83e4",
+                                        "subscribersCount": 24,
+                                        "__typename": "NewsletterV3"
+                                    }
+                                },
+                                "collection": null,
+                                "isSeries": false,
+                                "mediumUrl": "https://ismatsamadov.medium.com/agile-requirements-gathering-methodologies-f317c4157e1e",
+                                "sequence": null,
+                                "uniqueSlug": "agile-requirements-gathering-methodologies-f317c4157e1e",
+                                "isNewsletter": false,
+                                "isAuthorNewsletter": false,
+                                "title": "Agile Requirements Gathering Methodologies",
+                                "clapCount": 0,
+                                "postResponses": {
+                                    "count": 0,
+                                    "__typename": "PostResponses"
+                                },
+                                "previewImage": {
+                                    "id": "0*VrbAXcMyKxDPUJet",
+                                    "focusPercentX": null,
+                                    "focusPercentY": null,
+                                    "alt": null,
+                                    "__typename": "ImageMetadata"
+                                }
+                            },
+                            "__typename": "PostPreview"
+                        },
+                        {
+                            "postId": "0fd95d46970d",
+                            "post": {
+                                "id": "0fd95d46970d",
+                                "viewerEdge": {
+                                    "id": "postId:0fd95d46970d-viewerId:4a5238264eac",
+                                    "latestSubmission": {
+                                        "edges": [],
+                                        "__typename": "PostSubmissionsConnection"
+                                    },
+                                    "__typename": "PostViewerEdge"
+                                },
+                                "isPublished": true,
+                                "visibility": "LOCKED",
+                                "firstPublishedAt": 1729692783641,
+                                "readingTime": 4.9547169811320755,
+                                "wordCount": 1260,
+                                "updatedAt": 1731613244055,
+                                "publishSchedule": null,
+                                "__typename": "Post",
+                                "isLocked": true,
+                                "inResponseToEntityType": null,
+                                "creator": {
+                                    "__typename": "User",
+                                    "id": "4a5238264eac",
+                                    "customDomainState": {
+                                        "live": {
+                                            "domain": "ismatsamadov.medium.com",
+                                            "__typename": "CustomDomain"
+                                        },
+                                        "__typename": "CustomDomainState"
+                                    },
+                                    "hasSubdomain": true,
+                                    "username": "ismatsamadov",
+                                    "newsletterV3": {
+                                        "id": "a6a451ef83e4",
+                                        "subscribersCount": 24,
+                                        "__typename": "NewsletterV3"
+                                    }
+                                },
+                                "collection": null,
+                                "isSeries": false,
+                                "mediumUrl": "https://ismatsamadov.medium.com/what-is-a-user-story-in-agile-explained-with-examples-0fd95d46970d",
+                                "sequence": null,
+                                "uniqueSlug": "what-is-a-user-story-in-agile-explained-with-examples-0fd95d46970d",
+                                "isNewsletter": false,
+                                "isAuthorNewsletter": false,
+                                "title": "What is a User Story in Agile? Explained with Examples",
+                                "clapCount": 16,
+                                "postResponses": {
+                                    "count": 0,
+                                    "__typename": "PostResponses"
+                                },
+                                "previewImage": {
+                                    "id": "0*w55zqY5cIjkkWWTv",
+                                    "focusPercentX": null,
+                                    "focusPercentY": null,
+                                    "alt": null,
+                                    "__typename": "ImageMetadata"
+                                }
+                            },
+                            "__typename": "PostPreview"
+                        },
+                        {
+                            "postId": "db0070948d3a",
+                            "post": {
+                                "id": "db0070948d3a",
+                                "viewerEdge": {
+                                    "id": "postId:db0070948d3a-viewerId:4a5238264eac",
+                                    "latestSubmission": {
+                                        "edges": [],
+                                        "__typename": "PostSubmissionsConnection"
+                                    },
+                                    "__typename": "PostViewerEdge"
+                                },
+                                "isPublished": true,
+                                "visibility": "LOCKED",
+                                "firstPublishedAt": 1729691727628,
+                                "readingTime": 7.845283018867924,
+                                "wordCount": 2026,
+                                "updatedAt": 1731613235061,
+                                "publishSchedule": null,
+                                "__typename": "Post",
+                                "isLocked": true,
+                                "inResponseToEntityType": null,
+                                "creator": {
+                                    "__typename": "User",
+                                    "id": "4a5238264eac",
+                                    "customDomainState": {
+                                        "live": {
+                                            "domain": "ismatsamadov.medium.com",
+                                            "__typename": "CustomDomain"
+                                        },
+                                        "__typename": "CustomDomainState"
+                                    },
+                                    "hasSubdomain": true,
+                                    "username": "ismatsamadov",
+                                    "newsletterV3": {
+                                        "id": "a6a451ef83e4",
+                                        "subscribersCount": 24,
+                                        "__typename": "NewsletterV3"
+                                    }
+                                },
+                                "collection": null,
+                                "isSeries": false,
+                                "mediumUrl": "https://ismatsamadov.medium.com/ai-frameworks-what-you-need-to-know-db0070948d3a",
+                                "sequence": null,
+                                "uniqueSlug": "ai-frameworks-what-you-need-to-know-db0070948d3a",
+                                "isNewsletter": false,
+                                "isAuthorNewsletter": false,
+                                "title": "AI Frameworks: What You Need to Know",
+                                "clapCount": 0,
+                                "postResponses": {
+                                    "count": 0,
+                                    "__typename": "PostResponses"
+                                },
+                                "previewImage": {
+                                    "id": "0*TWKRjGQ8Mzfuqe8m",
+                                    "focusPercentX": null,
+                                    "focusPercentY": null,
+                                    "alt": null,
+                                    "__typename": "ImageMetadata"
+                                }
+                            },
+                            "__typename": "PostPreview"
+                        }
+                    ],
+                    "__typename": "PostPreviewConnection"
+                },
+                "__typename": "User"
+            }
+        }
+    }
+]

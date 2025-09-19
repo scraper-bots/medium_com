@@ -1,0 +1,936 @@
+{
+  "scraping_info": {
+    "total_articles": 25,
+    "scraped_at": "2025-09-19T12:13:47.650263",
+    "successful_extractions": 25,
+    "scraper_version": "2.0",
+    "username": "ismatsamadov"
+  },
+  "articles": [
+    {
+      "metadata": {
+        "id": "d3bef6f0d34a",
+        "title": "From Frustration to Innovation: My Journey Building BirJob, Azerbaijan’s Premier Job-Matching iOS…",
+        "url": "https://ismatsamadov.medium.com/from-frustration-to-innovation-my-journey-building-birjob-azerbaijans-premier-job-matching-ios-d3bef6f0d34a",
+        "unique_slug": "from-frustration-to-innovation-my-journey-building-birjob-azerbaijans-premier-job-matching-ios-d3bef6f0d34a",
+        "published_at": "2025-07-29T11:55:06.997000",
+        "updated_at": "2025-07-29T12:28:55.590000",
+        "reading_time": 5.179245283018868,
+        "word_count": 1187,
+        "clap_count": 11,
+        "visibility": "LOCKED",
+        "is_locked": true,
+        "response_count": 0,
+        "creator": {
+          "__typename": "User",
+          "id": "4a5238264eac",
+          "customDomainState": {
+            "live": {
+              "domain": "ismatsamadov.medium.com",
+              "__typename": "CustomDomain"
+            },
+            "__typename": "CustomDomainState"
+          },
+          "hasSubdomain": true,
+          "username": "ismatsamadov",
+          "newsletterV3": {
+            "id": "a6a451ef83e4",
+            "subscribersCount": 24,
+            "__typename": "NewsletterV3"
+          }
+        }
+      },
+      "full_content": "Member-only story\n\n# From Frustration to Innovation: My Journey Building BirJob, Azerbaijan’s Premier Job-Matching iOS App\n\n## Tired of hopping between a dozen job sites every day, I built BirJob to deliver the perfect Azerbaijani job matches straight to your phone with a single tap.\n\nIsmat Samadov\n\n6 min read\n·Jul 29, 2025\n\n--\n\nShare\n\nPress enter or click to view image in full size\n\nscreenshot of my app\n## Turning Daily Drudgery into a Mission\n\nIn early 2024, I found myself drowning in browser tabs.\n\nEvery morning, I’d open Glorri, Djinni, Vakansiya.biz, Boss.az — each promising the perfect opportunity, yet each delivering more noise than clarity.\n\nScrolling, filtering, copying and pasting resumes… it felt like I was stuck on a hamster wheel.\n\nI wasn’t alone; job seekers across Azerbaijan were suffering the same fate.\n\nThat’s when I realized: if technology exists to connect us with distant friends or stream high-definition video, why can’t it bring the right jobs to our fingertips?\n\nThus began my obsession to build BirJob, an iOS app that would automate the hunt for employment, aggregating thousands of listings and sending only the ones that mattered directly to users’ phones.",
+      "content_length": 1196,
+      "extraction_successful": true
+    },
+    {
+      "metadata": {
+        "id": "582f4646716f",
+        "title": "Logging Out",
+        "url": "https://ismatsamadov.medium.com/logging-out-582f4646716f",
+        "unique_slug": "logging-out-582f4646716f",
+        "published_at": "2025-06-13T18:29:16.955000",
+        "updated_at": "2025-06-13T19:29:09.766000",
+        "reading_time": 3.188679245283019,
+        "word_count": 792,
+        "clap_count": 44,
+        "visibility": "LOCKED",
+        "is_locked": true,
+        "response_count": 1,
+        "creator": {
+          "__typename": "User",
+          "id": "4a5238264eac",
+          "customDomainState": {
+            "live": {
+              "domain": "ismatsamadov.medium.com",
+              "__typename": "CustomDomain"
+            },
+            "__typename": "CustomDomainState"
+          },
+          "hasSubdomain": true,
+          "username": "ismatsamadov",
+          "newsletterV3": {
+            "id": "a6a451ef83e4",
+            "subscribersCount": 24,
+            "__typename": "NewsletterV3"
+          }
+        }
+      },
+      "full_content": "Member-only story\n\n# Logging Out\n\n## A Thoughtful Escape from the Digital Self\n\nIsmat Samadov\n\n4 min read\n·Jun 13, 2025\n\n--\n\n1\n\nShare\n\nHave you ever felt the urge to vanish from the digital world — to delete every account, shut off every device, and walk away into the quiet of the woods?\n\nThis reflection explores what it really means to destroy your digital existence, not from a place of tech-hating rebellion, but from a desire to breathe, reset, and rethink what we’ve built our lives around.\n\nPress enter or click to view image in full size\n\nPhoto by Sébastien Goldberg on Unsplash\nFor non-members\n\nIt’s not a guide or a manifesto — just a conversation over coffee, wondering aloud: what are we holding onto, and what might we gain by letting go?\n\nThat’s a heavy one — but one I think about more often than I expected to.\n\nThe question that keeps nagging me is:\n\nWhat would it really mean to destroy your digital existence?\n\nLike, not just logging off for a weekend or turning off notifications, but actually disappearing from the digital map — no email, no social media, no phone, no GPS, no browsing history.\n\nWould it feel like freedom?\n\nOr isolation?\n\nWould it be a reset — or an erasure?\n\nSo far, I’ve learned that it’s surprisingly hard to fully vanish.",
+      "content_length": 1265,
+      "extraction_successful": true
+    },
+    {
+      "metadata": {
+        "id": "2b24e4378c45",
+        "title": "Bridging Physics and Machine Learning",
+        "url": "https://ismatsamadov.medium.com/bridging-physics-and-machine-learning-2b24e4378c45",
+        "unique_slug": "bridging-physics-and-machine-learning-2b24e4378c45",
+        "published_at": "2025-06-13T18:18:51.809000",
+        "updated_at": "2025-06-13T19:29:16.146000",
+        "reading_time": 3.181132075471698,
+        "word_count": 790,
+        "clap_count": 0,
+        "visibility": "LOCKED",
+        "is_locked": true,
+        "response_count": 0,
+        "creator": {
+          "__typename": "User",
+          "id": "4a5238264eac",
+          "customDomainState": {
+            "live": {
+              "domain": "ismatsamadov.medium.com",
+              "__typename": "CustomDomain"
+            },
+            "__typename": "CustomDomainState"
+          },
+          "hasSubdomain": true,
+          "username": "ismatsamadov",
+          "newsletterV3": {
+            "id": "a6a451ef83e4",
+            "subscribersCount": 24,
+            "__typename": "NewsletterV3"
+          }
+        }
+      },
+      "full_content": "Member-only story\n\n# Bridging Physics and Machine Learning\n\n## Have you ever wondered what happens when you try to teach a computer not just to learn from data, but also to obey the laws of physics?\n\nIsmat Samadov\n\n4 min read\n·Jun 13, 2025\n\n--\n\nShare\n\nPhysics-Informed Machine Learning (PIML) is an emerging approach that blends the predictive power of machine learning with the guiding structure of physical laws.\n\nInstead of learning purely from data, PIML models are trained to respect known equations — like those governing heat, motion, or fluid flow — making them especially powerful in scenarios with limited or noisy data.\n\nThis hybrid method offers a path toward more accurate, efficient, and trustworthy models in fields ranging from climate science to engineering and medicine.\n\nPress enter or click to view image in full size\n\nPhoto by Dan Cristian Pădureț on Unsplash\nFor non-members\n\nHave you ever wondered what happens when you try to teach a computer not just to learn from data, but also to obey the laws of physics?\n\nThat’s the question that first got me curious about Physics-Informed Machine Learning (PIML).\n\nWe often talk about how machine learning can predict things from massive datasets — weather patterns, traffic congestion, stock prices — but a lot of those models don’t really “know” anything about the physical laws that govern the systems…",
+      "content_length": 1370,
+      "extraction_successful": true
+    },
+    {
+      "metadata": {
+        "id": "d901b254538b",
+        "title": "Can One Person Really Build a Digital Business with Generative AI?",
+        "url": "https://ismatsamadov.medium.com/can-one-person-really-build-a-digital-business-with-generative-ai-d901b254538b",
+        "unique_slug": "can-one-person-really-build-a-digital-business-with-generative-ai-d901b254538b",
+        "published_at": "2025-06-13T16:21:49.667000",
+        "updated_at": "2025-06-13T17:29:30.230000",
+        "reading_time": 3.5320754716981133,
+        "word_count": 883,
+        "clap_count": 0,
+        "visibility": "LOCKED",
+        "is_locked": true,
+        "response_count": 0,
+        "creator": {
+          "__typename": "User",
+          "id": "4a5238264eac",
+          "customDomainState": {
+            "live": {
+              "domain": "ismatsamadov.medium.com",
+              "__typename": "CustomDomain"
+            },
+            "__typename": "CustomDomainState"
+          },
+          "hasSubdomain": true,
+          "username": "ismatsamadov",
+          "newsletterV3": {
+            "id": "a6a451ef83e4",
+            "subscribersCount": 24,
+            "__typename": "NewsletterV3"
+          }
+        }
+      },
+      "full_content": "Member-only story\n\n# Can One Person Really Build a Digital Business with Generative AI?\n\n## A Coffee Table Conversation\n\nIsmat Samadov\n\n4 min read\n·Jun 13, 2025\n\n--\n\nShare\n\nCan one person really pull off a digital business on their own now — with just AI and a laptop?\n\nPress enter or click to view image in full size\n\nPhoto by Bench Accounting on Unsplash\nFor non-members\n\nThat’s the question that’s been circling in my head lately.\n\nI keep seeing these YouTube thumbnails: “I made $500/month with ChatGPT!” or “Solo entrepreneur uses AI to build 5 income streams!”\n\nIt’s tempting, right?\n\nLike, imagine running an actual business — without a team, without investors, maybe not even a product at first — just you and some clever prompts.\n\nBut is this just hype, or is there actually something to it?\n\nSo I’ve been digging into it — not just the stories but the tools, the workflows, and the parts no one brags about.\n\nAnd here’s what I’ve figured out so far, and what’s still murky.\n\n## What’s Actually Possible Today?\n\nLet’s be honest.\n\nFor most of human history, starting a business meant risk, capital, people, and time.\n\nNow? You can build a landing page in an hour with AI-generated copy.",
+      "content_length": 1194,
+      "extraction_successful": true
+    },
+    {
+      "metadata": {
+        "id": "8d23e397b571",
+        "title": "Confidence Intervals",
+        "url": "https://ismatsamadov.medium.com/confidence-intervals-8d23e397b571",
+        "unique_slug": "confidence-intervals-8d23e397b571",
+        "published_at": "2025-06-13T16:08:54.854000",
+        "updated_at": "2025-06-13T17:29:40.501000",
+        "reading_time": 4.173584905660377,
+        "word_count": 1053,
+        "clap_count": 0,
+        "visibility": "LOCKED",
+        "is_locked": true,
+        "response_count": 0,
+        "creator": {
+          "__typename": "User",
+          "id": "4a5238264eac",
+          "customDomainState": {
+            "live": {
+              "domain": "ismatsamadov.medium.com",
+              "__typename": "CustomDomain"
+            },
+            "__typename": "CustomDomainState"
+          },
+          "hasSubdomain": true,
+          "username": "ismatsamadov",
+          "newsletterV3": {
+            "id": "a6a451ef83e4",
+            "subscribersCount": 24,
+            "__typename": "NewsletterV3"
+          }
+        }
+      },
+      "full_content": "Member-only story\n\n# Confidence Intervals\n\n## How confident should we really be?\n\nIsmat Samadov\n\n5 min read\n·Jun 13, 2025\n\n--\n\nShare\n\nThat’s what I kept asking myself when I first heard the term confidence interval.\n\nIt sounds like something deep and statistical, but also kind of reassuring — like it’s telling you, “Hey, we’ve got this range, and we’re pretty sure the truth lives somewhere in here.”\n\nFor non-members\n\nBut what does pretty sure mean, exactly? Is it 95% sure?\n\nAnd does that mean the truth is inside the interval 95% of the time, or… something else?\n\nThe more I read, the more I realized confidence intervals are all about estimating an unknown number — say, the average height of a population, or the true effect of a new medication — based on a sample of data.\n\nAnd instead of giving you just one best guess, it gives you a range of values where the true answer is likely to be.\n\nIt’s like saying, “We’re not certain, but here’s the zone we’d bet on, based on the evidence we have.”\n\nBut it turns out, that comforting “95% confidence” has a very specific meaning — and it’s not quite what I originally thought.\n\nIt doesn’t mean there’s a 95% chance the true number is in your interval.\n\nIt means that if you repeated the study over and over, 95% of those intervals would contain the true value.\n\nIt’s subtle — but kind of mind-blowing.",
+      "content_length": 1355,
+      "extraction_successful": true
+    },
+    {
+      "metadata": {
+        "id": "907e767c3964",
+        "title": "Prompt Engineering",
+        "url": "https://ismatsamadov.medium.com/prompt-engineering-907e767c3964",
+        "unique_slug": "prompt-engineering-907e767c3964",
+        "published_at": "2025-06-12T23:05:59.609000",
+        "updated_at": "2025-06-13T00:28:46.770000",
+        "reading_time": 2.9509433962264153,
+        "word_count": 729,
+        "clap_count": 0,
+        "visibility": "LOCKED",
+        "is_locked": true,
+        "response_count": 0,
+        "creator": {
+          "__typename": "User",
+          "id": "4a5238264eac",
+          "customDomainState": {
+            "live": {
+              "domain": "ismatsamadov.medium.com",
+              "__typename": "CustomDomain"
+            },
+            "__typename": "CustomDomainState"
+          },
+          "hasSubdomain": true,
+          "username": "ismatsamadov",
+          "newsletterV3": {
+            "id": "a6a451ef83e4",
+            "subscribersCount": 24,
+            "__typename": "NewsletterV3"
+          }
+        }
+      },
+      "full_content": "Member-only story\n\n# Prompt Engineering\n\n## A Conversation Worth Having Over Coffee\n\nIsmat Samadov\n\n3 min read\n·Jun 12, 2025\n\n--\n\nShare\n\nPrompt engineering is the systematic art of formulating inputs to large language models in order to elicit precise, contextually appropriate, and high-quality responses.\n\nFor non-members\n\nPress enter or click to view image in full size\n\nPhoto by Wade Austin Ellis on Unsplash\nBy deliberately specifying tone, audience, and constraints within your prompt — rather than relying on generic instructions — you effectively “program” the model’s behavior without altering its underlying architecture.\n\nThis practice draws on both linguistic insight and domain knowledge, transforming casual queries into targeted, reliable outputs.\n\nAs AI systems become ever more integral to fields from research to customer service, mastering prompt engineering is essential for ensuring accuracy, mitigating ambiguity, and unlocking the full potential of these tools.\n\nYou know what’s been on my mind lately?\n\nWhy is prompt engineering suddenly such a big deal?\n\nI mean, we’re just typing stuff into a box to get an AI to respond, right?\n\nSo why are people treating it like some kind of secret art form?\n\nI started digging into this because I noticed something odd: two people can use the same AI model, but get wildly different results.",
+      "content_length": 1354,
+      "extraction_successful": true
+    },
+    {
+      "metadata": {
+        "id": "498ac917fec8",
+        "title": "Lost Generation 2.0",
+        "url": "https://ismatsamadov.medium.com/lost-generation-2-0-498ac917fec8",
+        "unique_slug": "lost-generation-2-0-498ac917fec8",
+        "published_at": "2025-06-10T11:51:32.263000",
+        "updated_at": "2025-06-10T15:28:28.907000",
+        "reading_time": 5.841509433962265,
+        "word_count": 1495,
+        "clap_count": 0,
+        "visibility": "LOCKED",
+        "is_locked": true,
+        "response_count": 0,
+        "creator": {
+          "__typename": "User",
+          "id": "4a5238264eac",
+          "customDomainState": {
+            "live": {
+              "domain": "ismatsamadov.medium.com",
+              "__typename": "CustomDomain"
+            },
+            "__typename": "CustomDomainState"
+          },
+          "hasSubdomain": true,
+          "username": "ismatsamadov",
+          "newsletterV3": {
+            "id": "a6a451ef83e4",
+            "subscribersCount": 24,
+            "__typename": "NewsletterV3"
+          }
+        }
+      },
+      "full_content": "Member-only story\n\n# Lost Generation 2.0\n\n## Born Too Early for AI, Too Late for the Industrial World\n\nIsmat Samadov\n\n6 min read\n·Jun 10, 2025\n\n--\n\nShare\n\nIn Japan, the term “Lost Generation” doesn’t refer to some distant, poetic idea — it names an entire group of people whose lives were shaped, and in many cases frozen, by forces far beyond their control.\n\nPress enter or click to view image in full size\n\nPhoto by Alex Kotliarskyi on Unsplash\nFor non member readers\n\n### What was happened in Japan?\n\nThese are the men and women who came of age during the 1990s and early 2000s, in the shadow of Japan’s economic bubble collapse.\n\nTheir youth coincided with a time of national uncertainty, where jobs disappeared, stability dissolved, and the future stopped offering promises.\n\nWhen Japan’s asset price bubble burst in the early 1990s, what followed was more than just an economic downturn — it was a slow, almost silent unraveling of what had once been considered a guaranteed path: finish school, join a company for life, work hard, and retire with dignity.\n\nFor the graduates of the mid-90s and early 2000s, that conveyor belt was broken. Companies stopped hiring.\n\nInstead of being welcomed into a stable career, many young people were left stranded — forced into low-paying, insecure jobs as freeters (part-time workers), or worse, never able to enter the workforce at all.",
+      "content_length": 1381,
+      "extraction_successful": true
+    },
+    {
+      "metadata": {
+        "id": "fd049d0f3457",
+        "title": "Advanced Concepts in Data Science",
+        "url": "https://ismatsamadov.medium.com/advanced-concepts-in-data-science-fd049d0f3457",
+        "unique_slug": "advanced-concepts-in-data-science-fd049d0f3457",
+        "published_at": "2025-03-05T11:30:37.217000",
+        "updated_at": "2025-03-05T12:32:39.798000",
+        "reading_time": 11.739622641509433,
+        "word_count": 3058,
+        "clap_count": 0,
+        "visibility": "LOCKED",
+        "is_locked": true,
+        "response_count": 0,
+        "creator": {
+          "__typename": "User",
+          "id": "4a5238264eac",
+          "customDomainState": {
+            "live": {
+              "domain": "ismatsamadov.medium.com",
+              "__typename": "CustomDomain"
+            },
+            "__typename": "CustomDomainState"
+          },
+          "hasSubdomain": true,
+          "username": "ismatsamadov",
+          "newsletterV3": {
+            "id": "a6a451ef83e4",
+            "subscribersCount": 24,
+            "__typename": "NewsletterV3"
+          }
+        }
+      },
+      "full_content": "Member-only story\n\n# Advanced Concepts in Data Science\n\n## Beyond the Fundamentals\n\nIsmat Samadov\n\n12 min read\n·Mar 5, 2025\n\n--\n\nShare\n\nPress enter or click to view image in full size\n\nPhoto by Adam Stefanca on Unsplash\nSurface-level understanding of data science and AI is insufficient for practitioners who aim to develop innovative solutions and stay at the cutting edge of the field. Our purpose explore beyond the basics, exploring advanced concepts, theoretical underpinnings, and emerging techniques that separate novices from experts in the multidisciplinary domains of data science and artificial intelligence.\n\n## Advanced Mathematical Frameworks\n\n## Statistical Learning Theory\n\nMoving beyond basic statistics, statistical learning theory provides the theoretical foundation for understanding how learning algorithms generalize from finite training data to unseen examples.\nVapnik-Chervonenkis (VC) Dimension: A measure of the capacity of a hypothesis class in statistical learning theory, crucial for understanding the generalization capabilities of learning algorithmsProbably Approximately Correct (PAC) Learning: Theoretical framework for analyzing learning algorithms and their sample complexityEmpirical Risk Minimization (ERM): The principle of minimizing the average loss on the training set, and its relationship to true riskStructural Risk Minimization…",
+      "content_length": 1374,
+      "extraction_successful": true
+    },
+    {
+      "metadata": {
+        "id": "a5e1e54608c7",
+        "title": "Why Becoming a Software Developer Still Matters",
+        "url": "https://ismatsamadov.medium.com/why-becoming-a-software-developer-still-matters-a5e1e54608c7",
+        "unique_slug": "why-becoming-a-software-developer-still-matters-a5e1e54608c7",
+        "published_at": "2025-02-28T08:27:29.926000",
+        "updated_at": "2025-02-28T12:26:49.657000",
+        "reading_time": 14.143396226415094,
+        "word_count": 3695,
+        "clap_count": 50,
+        "visibility": "LOCKED",
+        "is_locked": true,
+        "response_count": 0,
+        "creator": {
+          "__typename": "User",
+          "id": "4a5238264eac",
+          "customDomainState": {
+            "live": {
+              "domain": "ismatsamadov.medium.com",
+              "__typename": "CustomDomain"
+            },
+            "__typename": "CustomDomainState"
+          },
+          "hasSubdomain": true,
+          "username": "ismatsamadov",
+          "newsletterV3": {
+            "id": "a6a451ef83e4",
+            "subscribersCount": 24,
+            "__typename": "NewsletterV3"
+          }
+        }
+      },
+      "full_content": "Member-only story\n\n# Why Becoming a Software Developer Still Matters\n\n## Even AI is going to replace you\n\nIsmat Samadov\n\n15 min read\n·Feb 28, 2025\n\n--\n\nShare\n\nPress enter or click to view image in full size\n\nPhoto by LinkedIn Sales Solutions on Unsplash\nWe live in an era of breathtaking advances in artificial intelligence (AI). From code-generating tools to smart chatbots, it sometimes feels like the machines are coming for every job — especially jobs in tech.\n\nIt’s no wonder many aspiring programmers and computer science students worry: “Will AI make my developer skills obsolete?”\n\nThis fear of being replaced by AI is real (around a fifth of U.S. workers share it​), but it’s also largely overblown.\n\nIn reality, becoming a software developer (or pursuing that CS degree) is still one of the smartest moves you can make.\n\nIn this article, we’ll explore why human developers are here to stay, how a CS education gives you supercharged problem-solving abilities, and why being tech-savvy remains a long-term asset — even as AI becomes a bigger part of the picture.\n\nAlong the way, we’ll talk about adapting to change, embracing AI rather than fearing it, and how to future-proof your tech career.\n\nBy the end, you should feel confident (and excited) about pursuing a path in software development in the age of AI.\n\nLet’s dive in!\n\n## The Overblown Fear of “AI Replacing…",
+      "content_length": 1377,
+      "extraction_successful": true
+    },
+    {
+      "metadata": {
+        "id": "8e1cb7c9a7bf",
+        "title": "Forensic Analysis of Registered Users",
+        "url": "https://ismatsamadov.medium.com/forensic-analysis-of-registered-users-8e1cb7c9a7bf",
+        "unique_slug": "forensic-analysis-of-registered-users-8e1cb7c9a7bf",
+        "published_at": "2025-02-27T22:23:33.952000",
+        "updated_at": "2025-02-27T23:25:12.730000",
+        "reading_time": 32.76603773584906,
+        "word_count": 8630,
+        "clap_count": 50,
+        "visibility": "LOCKED",
+        "is_locked": true,
+        "response_count": 0,
+        "creator": {
+          "__typename": "User",
+          "id": "4a5238264eac",
+          "customDomainState": {
+            "live": {
+              "domain": "ismatsamadov.medium.com",
+              "__typename": "CustomDomain"
+            },
+            "__typename": "CustomDomainState"
+          },
+          "hasSubdomain": true,
+          "username": "ismatsamadov",
+          "newsletterV3": {
+            "id": "a6a451ef83e4",
+            "subscribersCount": 24,
+            "__typename": "NewsletterV3"
+          }
+        }
+      },
+      "full_content": "Member-only story\n\n# Forensic Analysis of Registered Users\n\n## Device IDs, Behavioral Patterns & Fraud Detection\n\nIsmat Samadov\n\n33 min read\n·Feb 27, 2025\n\n--\n\nShare\n\nPress enter or click to view image in full size\n\nPhoto by Bruno Martins on Unsplash\nIn modern banking applications, each user’s device leaves a unique digital footprint that can be leveraged for security and fraud detection. This article presents a comprehensive forensic analysis of the registered users table in a banking app, focusing on how device identifiers are assigned and used, patterns in user behavior, and methodologies to detect fraud.\n\nWe diving into how device IDs are generated and maintained, ways attackers might spoof or manipulate these identifiers, and how to trace users even when thousands of accounts share the same device ID. We also analyze user behavior — from transaction activity and account balances to IP address clustering and multi-device usage — to uncover suspicious patterns. Finally, we outline fraud detection techniques (including anomaly indicators and collusion detection) and discuss industry best practices and regulatory considerations surrounding user tracking, fraud prevention, and privacy.\n\n## Device ID Assignment and Integrity\n\nMechanism of Device ID Generation: Banking apps typically generate a unique Device ID for each installation or device. Depending on the implementation, this ID may be derived from device fingerprinting data, hardware identifiers…",
+      "content_length": 1474,
+      "extraction_successful": true
+    },
+    {
+      "metadata": {
+        "id": "ff894b63a0fb",
+        "title": "Reasoning and Pattern Recognition in Data Science: Understanding How Machines Make Sense of Data",
+        "url": "https://ismatsamadov.medium.com/reasoning-and-pattern-recognition-in-data-science-understanding-how-machines-make-sense-of-data-ff894b63a0fb",
+        "unique_slug": "reasoning-and-pattern-recognition-in-data-science-understanding-how-machines-make-sense-of-data-ff894b63a0fb",
+        "published_at": "2024-10-25T21:50:38.550000",
+        "updated_at": "2024-11-14T21:24:22.797000",
+        "reading_time": 5.483018867924528,
+        "word_count": 1400,
+        "clap_count": 155,
+        "visibility": "LOCKED",
+        "is_locked": true,
+        "response_count": 1,
+        "creator": {
+          "__typename": "User",
+          "id": "4a5238264eac",
+          "customDomainState": {
+            "live": {
+              "domain": "ismatsamadov.medium.com",
+              "__typename": "CustomDomain"
+            },
+            "__typename": "CustomDomainState"
+          },
+          "hasSubdomain": true,
+          "username": "ismatsamadov",
+          "newsletterV3": {
+            "id": "a6a451ef83e4",
+            "subscribersCount": 24,
+            "__typename": "NewsletterV3"
+          }
+        }
+      },
+      "full_content": "Member-only story\n\n# Reasoning and Pattern Recognition in Data Science: Understanding How Machines Make Sense of Data\n\nIsmat Samadov\n\n6 min read\n·Oct 25, 2024\n\n--\n\n1\n\nShare\n\nIn the rapidly growing field of data science, two core concepts that drive the ability of machines to extract meaningful insights from data are reasoning and pattern recognition.\n\nPress enter or click to view image in full size\n\nPhoto by Victor on Unsplash\nThese are essential for interpreting complex datasets and building models that can predict, classify, or recommend based on that data.\n\nWhether in machine learning, artificial intelligence (AI), or statistics, these concepts serve as the foundation for how systems make decisions and learn from experience.\n\nIn this article, we will explore the roles of reasoning and pattern recognition in data science, how they contribute to data-driven insights, and their applications in real-world scenarios.\n\n## What is Reasoning in Data Science?\n\nReasoning refers to the ability of machines (and humans) to make logical inferences or draw conclusions from given data or information. In data science, reasoning is critical because it allows models and algorithms to interpret data, infer relationships, and make predictions.\n\nThere are two primary types of reasoning used in the data realm:",
+      "content_length": 1311,
+      "extraction_successful": true
+    },
+    {
+      "metadata": {
+        "id": "bc37f85c4e04",
+        "title": "The Mersenne Twister Algorithm. A Deep Dive into a Pseudo-Random Number Generator",
+        "url": "https://ismatsamadov.medium.com/the-mersenne-twister-algorithm-a-deep-dive-into-a-pseudo-random-number-generator-bc37f85c4e04",
+        "unique_slug": "the-mersenne-twister-algorithm-a-deep-dive-into-a-pseudo-random-number-generator-bc37f85c4e04",
+        "published_at": "2024-10-25T21:31:10.490000",
+        "updated_at": "2024-11-14T21:24:20.452000",
+        "reading_time": 3.5509433962264154,
+        "word_count": 888,
+        "clap_count": 50,
+        "visibility": "LOCKED",
+        "is_locked": true,
+        "response_count": 0,
+        "creator": {
+          "__typename": "User",
+          "id": "4a5238264eac",
+          "customDomainState": {
+            "live": {
+              "domain": "ismatsamadov.medium.com",
+              "__typename": "CustomDomain"
+            },
+            "__typename": "CustomDomainState"
+          },
+          "hasSubdomain": true,
+          "username": "ismatsamadov",
+          "newsletterV3": {
+            "id": "a6a451ef83e4",
+            "subscribersCount": 24,
+            "__typename": "NewsletterV3"
+          }
+        }
+      },
+      "full_content": "Member-only story\n\n# The Mersenne Twister Algorithm. A Deep Dive into a Pseudo-Random Number Generator\n\nIsmat Samadov\n\n4 min read\n·Oct 25, 2024\n\n--\n\nShare\n\nThe Mersenne Twister is one of the most widely used pseudo-random number generators (PRNGs) in the world.\n\nPress enter or click to view image in full size\n\nPhoto by Carson Arias on Unsplash\nKnown for its long period, high speed, and ability to generate high-quality random numbers, it has become the standard PRNG in various applications, from scientific simulations to gaming.\n\nThis article provides an in-depth exploration of the Mersenne Twister algorithm, its mechanics, advantages, limitations, and applications.\n\n## What is the Mersenne Twister?\n\nDeveloped in 1997 by Makoto Matsumoto and Takuji Nishimura, the Mersenne Twister is a PRNG that produces sequences of numbers that appear random but are generated deterministically from a specific seed value.\n\nThe algorithm gets its name from a Mersenne prime, specifically 2¹⁹⁹³⁷ — 1, which defines the generator’s period.\n\nThis large period ensures that the sequence takes an incredibly long time to repeat, making the Mersenne Twister ideal for applications requiring a vast number of pseudo-random values.\n\n## Key Properties of the Mersenne Twister\nPeriod: The Mersenne Twister has a period of 219937−12^{19937} — 1219937−1, one of the…",
+      "content_length": 1349,
+      "extraction_successful": true
+    },
+    {
+      "metadata": {
+        "id": "dddadaf5f21e",
+        "title": "Understanding Randomness, Entropy, and Random Number Generators: From Pseudo-RNGs to True RNGs",
+        "url": "https://ismatsamadov.medium.com/understanding-randomness-entropy-and-random-number-generators-from-pseudo-rngs-to-true-rngs-dddadaf5f21e",
+        "unique_slug": "understanding-randomness-entropy-and-random-number-generators-from-pseudo-rngs-to-true-rngs-dddadaf5f21e",
+        "published_at": "2024-10-25T21:13:53.118000",
+        "updated_at": "2024-11-14T21:24:23.623000",
+        "reading_time": 4.928301886792453,
+        "word_count": 1253,
+        "clap_count": 50,
+        "visibility": "LOCKED",
+        "is_locked": true,
+        "response_count": 0,
+        "creator": {
+          "__typename": "User",
+          "id": "4a5238264eac",
+          "customDomainState": {
+            "live": {
+              "domain": "ismatsamadov.medium.com",
+              "__typename": "CustomDomain"
+            },
+            "__typename": "CustomDomainState"
+          },
+          "hasSubdomain": true,
+          "username": "ismatsamadov",
+          "newsletterV3": {
+            "id": "a6a451ef83e4",
+            "subscribersCount": 24,
+            "__typename": "NewsletterV3"
+          }
+        }
+      },
+      "full_content": "Member-only story\n\n# Understanding Randomness, Entropy, and Random Number Generators: From Pseudo-RNGs to True RNGs\n\nIsmat Samadov\n\n5 min read\n·Oct 25, 2024\n\n--\n\nShare\n\nRandomness plays a crucial role in many fields, from cryptography and simulation to machine learning.\n\nPress enter or click to view image in full size\n\nPhoto by ian dooley on Unsplash\nIt enables unbiased decisions, unpredictable sequences, and secure encryption. However, generating random numbers is a complex task, and understanding the distinction between pseudo-random and true random number generation is essential. This article explores the concepts of randomness, entropy, and different types of random number generators (RNGs), covering pseudo-random number generators (PRNGs) and true random number generators (TRNGs).\n\n## What is Randomness?\n\nRandomness refers to the lack of any predictable pattern or order in a sequence of events or outcomes. True randomness is difficult to achieve, especially in deterministic systems like computers, which are designed to follow specific instructions. In mathematics and computing, randomness is necessary for unbiased sampling, cryptographic security, and ensuring the unpredictability of processes like simulations and randomized algorithms.\n\nRandomness can be:\nDeterministic: Generated by a known process (like an algorithm) but appears random.Non-deterministic: Generated by an unpredictable process…",
+      "content_length": 1422,
+      "extraction_successful": true
+    },
+    {
+      "metadata": {
+        "id": "378d2ed8fce0",
+        "title": "Embedded Operating Systems: The Backbone of Advanced Systems like the F-35",
+        "url": "https://ismatsamadov.medium.com/embedded-operating-systems-the-backbone-of-advanced-systems-like-the-f-35-378d2ed8fce0",
+        "unique_slug": "embedded-operating-systems-the-backbone-of-advanced-systems-like-the-f-35-378d2ed8fce0",
+        "published_at": "2024-10-25T20:54:21.256000",
+        "updated_at": "2024-11-14T21:24:14.680000",
+        "reading_time": 4.886792452830189,
+        "word_count": 1242,
+        "clap_count": 50,
+        "visibility": "LOCKED",
+        "is_locked": true,
+        "response_count": 0,
+        "creator": {
+          "__typename": "User",
+          "id": "4a5238264eac",
+          "customDomainState": {
+            "live": {
+              "domain": "ismatsamadov.medium.com",
+              "__typename": "CustomDomain"
+            },
+            "__typename": "CustomDomainState"
+          },
+          "hasSubdomain": true,
+          "username": "ismatsamadov",
+          "newsletterV3": {
+            "id": "a6a451ef83e4",
+            "subscribersCount": 24,
+            "__typename": "NewsletterV3"
+          }
+        }
+      },
+      "full_content": "Member-only story\n\n# Embedded Operating Systems: The Backbone of Advanced Systems like the F-35\n\nIsmat Samadov\n\n5 min read\n·Oct 25, 2024\n\n--\n\nShare\n\nEmbedded operating systems (EOS) play a crucial role in modern technology, enabling advanced platforms to operate reliably, efficiently, and with real-time precision.\n\nPress enter or click to view image in full size\n\nPhoto by Y S on Unsplash\nFrom automotive systems to sophisticated military hardware, embedded operating systems are often the unsung heroes that ensure these platforms perform their intended functions without failure.\n\nA prime example of a system that heavily relies on an embedded operating system is the F-35 Lightning II, the fifth-generation multirole combat aircraft developed by Lockheed Martin.\n\nIn this article, we will explore what embedded operating systems are, how they work, and why they are vital for advanced systems like the F-35.\n\n## What is an Embedded Operating System?\n\nAn embedded operating system (EOS) is a specialized software that manages the hardware resources and software applications of an embedded system. Unlike general-purpose operating systems such as Windows or Linux, embedded operating systems are designed to perform specific tasks, often in real-time and with strict constraints on size, power consumption, and computational resources.",
+      "content_length": 1339,
+      "extraction_successful": true
+    },
+    {
+      "metadata": {
+        "id": "01f63ca752c2",
+        "title": "Why Tree and Graph-Based Machine Learning Models Work Well with Fraud Detection",
+        "url": "https://ismatsamadov.medium.com/why-tree-and-graph-based-machine-learning-models-work-well-with-fraud-detection-01f63ca752c2",
+        "unique_slug": "why-tree-and-graph-based-machine-learning-models-work-well-with-fraud-detection-01f63ca752c2",
+        "published_at": "2024-10-25T20:43:37.307000",
+        "updated_at": "2024-11-14T21:24:20.664000",
+        "reading_time": 5.064150943396227,
+        "word_count": 1289,
+        "clap_count": 51,
+        "visibility": "LOCKED",
+        "is_locked": true,
+        "response_count": 0,
+        "creator": {
+          "__typename": "User",
+          "id": "4a5238264eac",
+          "customDomainState": {
+            "live": {
+              "domain": "ismatsamadov.medium.com",
+              "__typename": "CustomDomain"
+            },
+            "__typename": "CustomDomainState"
+          },
+          "hasSubdomain": true,
+          "username": "ismatsamadov",
+          "newsletterV3": {
+            "id": "a6a451ef83e4",
+            "subscribersCount": 24,
+            "__typename": "NewsletterV3"
+          }
+        }
+      },
+      "full_content": "Member-only story\n\n# Why Tree and Graph-Based Machine Learning Models Work Well with Fraud Detection\n\nIsmat Samadov\n\n6 min read\n·Oct 25, 2024\n\n--\n\nShare\n\nFraud detection has become a critical challenge for businesses and financial institutions as digital transactions and online interactions increase exponentially.\n\nPress enter or click to view image in full size\n\nPhoto by Jon Tyson on Unsplash\nDetecting fraudulent behavior often involves sifting through massive amounts of data to spot hidden patterns and anomalies.\n\nIn this task, tree-based models (like decision trees and random forests) and graph-based models have proven to be highly effective. But why do these models work so well in the context of fraud detection?\n\nIn this article, we’ll explore the strengths of tree-based and graph-based machine learning models and explain why they are particularly well-suited for identifying fraudulent activities.\n\n## Tree-Based Models and Fraud Detection\n\nTree-based models, such as decision trees, random forests, and gradient boosting machines (GBMs), are widely used in fraud detection for several reasons:\n\n### 1. Handling Non-Linear and Complex Relationships\n\nFraudulent patterns often do not follow simple linear relationships. Fraudsters may behave differently depending on various factors, and these behaviors can vary across different contexts. Tree-based…",
+      "content_length": 1367,
+      "extraction_successful": true
+    },
+    {
+      "metadata": {
+        "id": "3297c32e435f",
+        "title": "Time Series Forecasting . Different Models with Examples",
+        "url": "https://ismatsamadov.medium.com/time-series-forecasting-different-models-with-examples-3297c32e435f",
+        "unique_slug": "time-series-forecasting-different-models-with-examples-3297c32e435f",
+        "published_at": "2024-10-25T20:29:10.427000",
+        "updated_at": "2024-11-14T21:24:20.210000",
+        "reading_time": 5.283018867924529,
+        "word_count": 1347,
+        "clap_count": 50,
+        "visibility": "LOCKED",
+        "is_locked": true,
+        "response_count": 0,
+        "creator": {
+          "__typename": "User",
+          "id": "4a5238264eac",
+          "customDomainState": {
+            "live": {
+              "domain": "ismatsamadov.medium.com",
+              "__typename": "CustomDomain"
+            },
+            "__typename": "CustomDomainState"
+          },
+          "hasSubdomain": true,
+          "username": "ismatsamadov",
+          "newsletterV3": {
+            "id": "a6a451ef83e4",
+            "subscribersCount": 24,
+            "__typename": "NewsletterV3"
+          }
+        }
+      },
+      "full_content": "Member-only story\n\n# Time Series Forecasting . Different Models with Examples\n\nIsmat Samadov\n\n6 min read\n·Oct 25, 2024\n\n--\n\nShare\n\nTime series forecasting is the process of using past data points collected over time to predict future values.\n\nPress enter or click to view image in full size\n\nPhoto by Andrik Langfield on Unsplash\nIt’s used in numerous industries, including finance, weather forecasting, and inventory management.\n\nDepending on the nature of the data, different models are suited for various tasks. In this article, we’ll break down four categories of time series forecasting methods — classical statistical models, machine learning models (ML), deep learning models (DL), and hybrid models — with clear examples for each one.\n\n### 1. Classical Statistical Models\n\nClassical statistical models focus on identifying patterns like trends and seasonality in historical data and leveraging those to predict future values.\n\na) ARIMA (Autoregressive Integrated Moving Average)\n\nARIMA is one of the most popular classical models for time series forecasting. It captures both the linear relationships in data and any potential trend (via “differencing”).\nHow it works: ARIMA uses past values (autoregressive part, AR) and past errors (moving average, MA) to make predictions. The “Integrated” part (I) involves differencing to stabilize a trend over time.Example: Let’s say you’re…",
+      "content_length": 1389,
+      "extraction_successful": true
+    },
+    {
+      "metadata": {
+        "id": "98b7fe5db8ea",
+        "title": "Understanding Evaluation Metrics for Machine Learning Models",
+        "url": "https://ismatsamadov.medium.com/understanding-evaluation-metrics-for-machine-learning-models-98b7fe5db8ea",
+        "unique_slug": "understanding-evaluation-metrics-for-machine-learning-models-98b7fe5db8ea",
+        "published_at": "2024-10-25T19:33:23.604000",
+        "updated_at": "2024-11-14T21:24:21.601000",
+        "reading_time": 5.071698113207547,
+        "word_count": 1291,
+        "clap_count": 0,
+        "visibility": "LOCKED",
+        "is_locked": true,
+        "response_count": 0,
+        "creator": {
+          "__typename": "User",
+          "id": "4a5238264eac",
+          "customDomainState": {
+            "live": {
+              "domain": "ismatsamadov.medium.com",
+              "__typename": "CustomDomain"
+            },
+            "__typename": "CustomDomainState"
+          },
+          "hasSubdomain": true,
+          "username": "ismatsamadov",
+          "newsletterV3": {
+            "id": "a6a451ef83e4",
+            "subscribersCount": 24,
+            "__typename": "NewsletterV3"
+          }
+        }
+      },
+      "full_content": "Member-only story\n\n# Understanding Evaluation Metrics for Machine Learning Models\n\nIsmat Samadov\n\n6 min read\n·Oct 25, 2024\n\n--\n\nShare\n\nIn machine learning, evaluating a model’s performance is crucial to ensure it meets the desired accuracy, efficiency, and reliability.\n\nPress enter or click to view image in full size\n\nPhoto by Anne Nygård on Unsplash\nEvaluation metrics provide quantitative measures that help assess a model’s predictive capabilities, generalizability, and potential areas of improvement.\n\nThis article explains the most common evaluation metrics, their applications, and how they differ across machine learning tasks.\n\n## Why Are Evaluation Metrics Important?\n\nEvaluation metrics offer insights into a model’s performance by providing objective measurements. They help determine whether a model is effective in making predictions, performing classifications, or clustering data. Key reasons for using evaluation metrics include:\nModel Selection: Comparing different models based on performance metrics to choose the best one.Hyperparameter Tuning: Using metrics to adjust parameters for optimal model performance.Error Analysis: Identifying specific errors and areas for improvement.Generalization: Ensuring the model performs well on unseen data, not just on training data.",
+      "content_length": 1294,
+      "extraction_successful": true
+    },
+    {
+      "metadata": {
+        "id": "be5b09399030",
+        "title": "Outlier Detection in Machine Learning.",
+        "url": "https://ismatsamadov.medium.com/outlier-detection-in-machine-learning-be5b09399030",
+        "unique_slug": "outlier-detection-in-machine-learning-be5b09399030",
+        "published_at": "2024-10-25T18:58:06.351000",
+        "updated_at": "2024-11-14T21:24:20.810000",
+        "reading_time": 4.935849056603773,
+        "word_count": 1255,
+        "clap_count": 0,
+        "visibility": "LOCKED",
+        "is_locked": true,
+        "response_count": 0,
+        "creator": {
+          "__typename": "User",
+          "id": "4a5238264eac",
+          "customDomainState": {
+            "live": {
+              "domain": "ismatsamadov.medium.com",
+              "__typename": "CustomDomain"
+            },
+            "__typename": "CustomDomainState"
+          },
+          "hasSubdomain": true,
+          "username": "ismatsamadov",
+          "newsletterV3": {
+            "id": "a6a451ef83e4",
+            "subscribersCount": 24,
+            "__typename": "NewsletterV3"
+          }
+        }
+      },
+      "full_content": "Member-only story\n\n# Outlier Detection in Machine Learning. Techniques, Methods, and How to Handle Overfitting and Underfitting\n\nIsmat Samadov\n\n5 min read\n·Oct 25, 2024\n\n--\n\nShare\n\nOutlier detection plays a crucial role in machine learning, especially in data preprocessing, anomaly detection, and improving model performance.\n\nPress enter or click to view image in full size\n\nPhoto by Will Myers on Unsplash\nOutliers can disrupt the predictive accuracy of models, leading to overfitting or underfitting, and affecting overall reliability.\n\nThis article explores the fundamentals of outlier detection, reviews popular techniques, and addresses methods to manage overfitting and underfitting in machine learning models.\n\n## What Are Outliers?\n\nOutliers are data points that significantly differ from the majority of the dataset. These anomalies can occur due to various factors, such as measurement errors, data entry issues, or genuine but rare occurrences within the data. Outliers can skew the training process and result in models that either fail to generalize well (overfitting) or are too simplistic to capture underlying patterns (underfitting).\n\n### Types of Outliers\nGlobal Outliers: Data points that are far removed from the overall distribution of the dataset.Contextual Outliers: Points that are only considered outliers in a specific context, such as time-series…",
+      "content_length": 1376,
+      "extraction_successful": true
+    },
+    {
+      "metadata": {
+        "id": "f7444df33997",
+        "title": "Humanization in the Age of AI.",
+        "url": "https://ismatsamadov.medium.com/humanization-in-the-age-of-ai-f7444df33997",
+        "unique_slug": "humanization-in-the-age-of-ai-f7444df33997",
+        "published_at": "2024-10-25T18:35:08.224000",
+        "updated_at": "2024-11-14T21:24:04.634000",
+        "reading_time": 4.943396226415095,
+        "word_count": 1257,
+        "clap_count": 0,
+        "visibility": "LOCKED",
+        "is_locked": true,
+        "response_count": 0,
+        "creator": {
+          "__typename": "User",
+          "id": "4a5238264eac",
+          "customDomainState": {
+            "live": {
+              "domain": "ismatsamadov.medium.com",
+              "__typename": "CustomDomain"
+            },
+            "__typename": "CustomDomainState"
+          },
+          "hasSubdomain": true,
+          "username": "ismatsamadov",
+          "newsletterV3": {
+            "id": "a6a451ef83e4",
+            "subscribersCount": 24,
+            "__typename": "NewsletterV3"
+          }
+        }
+      },
+      "full_content": "Member-only story\n\n# Humanization in the Age of AI. What It Means for the Future and How Long We Can Avoid AI-Generated Content\n\nIsmat Samadov\n\n5 min read\n·Oct 25, 2024\n\n--\n\nShare\n\nAs artificial intelligence (AI) technologies evolve, they significantly influence many aspects of human life, from the way we work to the content we consume.\n\nPress enter or click to view image in full size\n\nPhoto by Francesco Dondi on Unsplash\nThe increased adoption of AI-generated content, including news articles, product reviews, artwork, and social media posts, has sparked an essential conversation about humanization in an AI-dominated landscape.\n\nThis article explores the meaning of humanization amid AI advances, examines how we can maintain authenticity in AI-generated content, and considers how long we may realistically avoid widespread AI-driven content.\n\n## Understanding Humanization in the Context of AI\n\nHumanization refers to maintaining aspects of humanity — such as empathy, creativity, and personal experience — within technology-driven processes. In an era where AI can autonomously produce high-quality text, music, visual art, and even human-like conversations, the need for genuine human connection and expression has become more pressing. Humanization aims to preserve elements that resonate with people on an emotional and ethical level, ensuring AI-generated content doesn’t replace but complements human expression.",
+      "content_length": 1428,
+      "extraction_successful": true
+    },
+    {
+      "metadata": {
+        "id": "775864f84940",
+        "title": "Fake News Detection. Challenges and Machine Learning Models to Combat Disinformation",
+        "url": "https://ismatsamadov.medium.com/fake-news-detection-challenges-and-machine-learning-models-to-combat-disinformation-775864f84940",
+        "unique_slug": "fake-news-detection-challenges-and-machine-learning-models-to-combat-disinformation-775864f84940",
+        "published_at": "2024-10-25T18:01:06.996000",
+        "updated_at": "2024-11-14T21:24:20.806000",
+        "reading_time": 5.067924528301887,
+        "word_count": 1290,
+        "clap_count": 0,
+        "visibility": "LOCKED",
+        "is_locked": true,
+        "response_count": 0,
+        "creator": {
+          "__typename": "User",
+          "id": "4a5238264eac",
+          "customDomainState": {
+            "live": {
+              "domain": "ismatsamadov.medium.com",
+              "__typename": "CustomDomain"
+            },
+            "__typename": "CustomDomainState"
+          },
+          "hasSubdomain": true,
+          "username": "ismatsamadov",
+          "newsletterV3": {
+            "id": "a6a451ef83e4",
+            "subscribersCount": 24,
+            "__typename": "NewsletterV3"
+          }
+        }
+      },
+      "full_content": "Member-only story\n\n# Fake News Detection. Challenges and Machine Learning Models to Combat Disinformation\n\nIsmat Samadov\n\n6 min read\n·Oct 25, 2024\n\n--\n\nShare\n\nIn the era of digital media, fake news has become a pervasive issue with serious social, political, and economic implications.\n\nPress enter or click to view image in full size\n\nPhoto by Philippe Oursel on Unsplash\nWith the power to shape public opinion, spread fear, and misinform, fake news is challenging to detect due to its sophistication and rapid dissemination across social media platforms.\n\nThis article delves into the complexities of detecting fake news, explores the main challenges in this field, and examines the machine learning (ML) models and techniques being developed to identify and combat disinformation.\n\n## Understanding Fake News and Its Impact\n\nFake news is misleading information created to deceive readers, usually for political, economic, or social gain. This misinformation can be in various formats, including misleading headlines, doctored images, or fabricated stories. Fake news can create confusion, harm reputations, influence elections, and lead to social unrest.\n\nTypes of Fake News:\nClickbait — Sensational headlines designed solely to attract clicks, often with misleading or exaggerated claims.Propaganda — Content with a political agenda, designed to manipulate public opinion.",
+      "content_length": 1376,
+      "extraction_successful": true
+    },
+    {
+      "metadata": {
+        "id": "bacff16dc135",
+        "title": "Node.js, Deno, and Bun",
+        "url": "https://ismatsamadov.medium.com/node-js-deno-and-bun-bacff16dc135",
+        "unique_slug": "node-js-deno-and-bun-bacff16dc135",
+        "published_at": "2024-10-25T17:46:25.954000",
+        "updated_at": "2024-11-14T21:24:05.934000",
+        "reading_time": 4.558490566037736,
+        "word_count": 1155,
+        "clap_count": 1,
+        "visibility": "LOCKED",
+        "is_locked": true,
+        "response_count": 0,
+        "creator": {
+          "__typename": "User",
+          "id": "4a5238264eac",
+          "customDomainState": {
+            "live": {
+              "domain": "ismatsamadov.medium.com",
+              "__typename": "CustomDomain"
+            },
+            "__typename": "CustomDomainState"
+          },
+          "hasSubdomain": true,
+          "username": "ismatsamadov",
+          "newsletterV3": {
+            "id": "a6a451ef83e4",
+            "subscribersCount": 24,
+            "__typename": "NewsletterV3"
+          }
+        }
+      },
+      "full_content": "Member-only story\n\n# Node.js, Deno, and Bun\n\nIsmat Samadov\n\n5 min read\n·Oct 25, 2024\n\n--\n\nShare\n\nJavaScript runtimes have evolved rapidly, offering developers a variety of environments to execute their code beyond the browser.\n\nPress enter or click to view image in full size\n\nPhoto by Illiya Vjestica on Unsplash\nWhile Node.js pioneered server-side JavaScript, newer runtimes like Deno and Bun have emerged, each with unique features and use cases.\n\nIn this article, we’ll explore the history and core features of Node.js, Deno, and Bun, comparing their strengths, and providing examples of real-world applications.\n\nWe’ll also examine other relevant JavaScript runtimes such as Web Workers, Electron, GraalVM, and WebAssembly, discussing when each is most effective.\n\n## 1. Node.js: The Trailblazer in Server-Side JavaScript\n\n## History\n\nNode.js, introduced in 2009 by Ryan Dahl, revolutionized JavaScript by enabling it to run outside the browser. Built on Google’s V8 JavaScript engine, Node.js brought non-blocking, event-driven architecture to the server, allowing for high concurrency and efficient handling of I/O operations.\n\n## Core Features\nNon-blocking I/O: Its asynchronous nature makes Node.js ideal for real-time applications and high-traffic web servers.Package Ecosystem (npm): Node.js has the largest ecosystem of open-source libraries through npm…",
+      "content_length": 1366,
+      "extraction_successful": true
+    },
+    {
+      "metadata": {
+        "id": "b11d286bef5a",
+        "title": "Agile Prioritization Techniques You Must Know",
+        "url": "https://ismatsamadov.medium.com/agile-prioritization-techniques-you-must-know-b11d286bef5a",
+        "unique_slug": "agile-prioritization-techniques-you-must-know-b11d286bef5a",
+        "published_at": "2024-10-23T20:09:48.445000",
+        "updated_at": "2024-11-14T23:40:43.274000",
+        "reading_time": 5.59622641509434,
+        "word_count": 1430,
+        "clap_count": 26,
+        "visibility": "LOCKED",
+        "is_locked": true,
+        "response_count": 0,
+        "creator": {
+          "__typename": "User",
+          "id": "4a5238264eac",
+          "customDomainState": {
+            "live": {
+              "domain": "ismatsamadov.medium.com",
+              "__typename": "CustomDomain"
+            },
+            "__typename": "CustomDomainState"
+          },
+          "hasSubdomain": true,
+          "username": "ismatsamadov",
+          "newsletterV3": {
+            "id": "a6a451ef83e4",
+            "subscribersCount": 24,
+            "__typename": "NewsletterV3"
+          }
+        }
+      },
+      "full_content": "Member-only story\n\n# Agile Prioritization Techniques You Must Know\n\nIsmat Samadov\n\n6 min read\n·Oct 23, 2024\n\n--\n\nShare\n\nIn Agile project management, prioritization is key to delivering the most value to the customer in the shortest amount of time. With so many techniques available, choosing the right one can significantly impact the success of your projects.\n\nPress enter or click to view image in full size\n\nPhoto by Surface on Unsplash\nThis article explores essential Agile prioritization techniques you must know, including the Kano Model, Priority Poker, MoSCoW, Weighted Shortest Job First, and more. Each method has its strengths, and the choice depends on the specific needs and constraints of your team and project.\n\n## 1. Kano Model: Understanding Customer Satisfaction\n\n## Overview\n\nThe Kano Model, developed by Noriaki Kano in the 1980s, helps teams categorize features based on customer satisfaction and functionality. It divides features into five categories:\nBasic Needs (Must-Haves): These are essential features. If missing, they result in dissatisfaction, but having them doesn’t necessarily increase satisfaction.Performance Needs: The more these features are present, the more satisfied customers will be. These are directly tied to performance and user satisfaction.Excitement Needs (Delighters): Unexpected features that delight customers but are not expected or necessary. They…",
+      "content_length": 1402,
+      "extraction_successful": true
+    },
+    {
+      "metadata": {
+        "id": "f317c4157e1e",
+        "title": "Agile Requirements Gathering Methodologies",
+        "url": "https://ismatsamadov.medium.com/agile-requirements-gathering-methodologies-f317c4157e1e",
+        "unique_slug": "agile-requirements-gathering-methodologies-f317c4157e1e",
+        "published_at": "2024-10-23T19:03:11.289000",
+        "updated_at": "2024-11-14T23:40:38.232000",
+        "reading_time": 4.626415094339623,
+        "word_count": 1173,
+        "clap_count": 0,
+        "visibility": "LOCKED",
+        "is_locked": true,
+        "response_count": 0,
+        "creator": {
+          "__typename": "User",
+          "id": "4a5238264eac",
+          "customDomainState": {
+            "live": {
+              "domain": "ismatsamadov.medium.com",
+              "__typename": "CustomDomain"
+            },
+            "__typename": "CustomDomainState"
+          },
+          "hasSubdomain": true,
+          "username": "ismatsamadov",
+          "newsletterV3": {
+            "id": "a6a451ef83e4",
+            "subscribersCount": 24,
+            "__typename": "NewsletterV3"
+          }
+        }
+      },
+      "full_content": "Member-only story\n\n# Agile Requirements Gathering Methodologies\n\nIsmat Samadov\n\n5 min read\n·Oct 23, 2024\n\n--\n\nShare\n\nIn Agile project management, requirements gathering is an ongoing, collaborative process that ensures teams deliver what the customer truly needs.\n\nUnlike traditional methodologies where all requirements are defined upfront, Agile embraces flexibility and iterative feedback, allowing teams to adapt requirements as the project evolves.\n\nPress enter or click to view image in full size\n\nPhoto by Marvin Meyer on Unsplash\nThe goal is to produce a minimum viable product (MVP) quickly, gather user feedback, and refine future development efforts based on real user input.\n\nThis article delves into the most widely used Agile requirements gathering methodologies, including User Stories, Use Case Modeling, Story Mapping, Backlog Grooming, and Workshops, highlighting their unique strengths and providing real-world examples.\n\n## 1. User Stories: The Heart of Agile Requirements\n\n## Overview\n\nUser Stories are the cornerstone of Agile requirements gathering. A User Story is a brief, simple description of a feature from the perspective of an end-user. Written in non-technical language, user stories capture what the user needs and why they need it. The typical format is:\n\nAs a [type of user], I want [a goal] so that [a reason].",
+      "content_length": 1345,
+      "extraction_successful": true
+    },
+    {
+      "metadata": {
+        "id": "0fd95d46970d",
+        "title": "What is a User Story in Agile? Explained with Examples",
+        "url": "https://ismatsamadov.medium.com/what-is-a-user-story-in-agile-explained-with-examples-0fd95d46970d",
+        "unique_slug": "what-is-a-user-story-in-agile-explained-with-examples-0fd95d46970d",
+        "published_at": "2024-10-23T18:13:03.641000",
+        "updated_at": "2024-11-14T23:40:44.055000",
+        "reading_time": 4.9547169811320755,
+        "word_count": 1260,
+        "clap_count": 16,
+        "visibility": "LOCKED",
+        "is_locked": true,
+        "response_count": 0,
+        "creator": {
+          "__typename": "User",
+          "id": "4a5238264eac",
+          "customDomainState": {
+            "live": {
+              "domain": "ismatsamadov.medium.com",
+              "__typename": "CustomDomain"
+            },
+            "__typename": "CustomDomainState"
+          },
+          "hasSubdomain": true,
+          "username": "ismatsamadov",
+          "newsletterV3": {
+            "id": "a6a451ef83e4",
+            "subscribersCount": 24,
+            "__typename": "NewsletterV3"
+          }
+        }
+      },
+      "full_content": "Member-only story\n\n# What is a User Story in Agile? Explained with Examples\n\nIsmat Samadov\n\n5 min read\n·Oct 23, 2024\n\n--\n\nShare\n\nPress enter or click to view image in full size\n\nPhoto by Annie Spratt on Unsplash\nIn Agile project management, a User Story is a simple, concise description of a feature or functionality written from the perspective of the end user. It focuses on the value that the feature brings to the user rather than on the technical details. User stories are designed to capture a small unit of work that delivers meaningful value to the user and are a key component of the Agile framework.\n\nUser stories help the development team understand who the user is, what they need, and why they need it. This approach keeps the focus on delivering value and ensures that the team works on tasks that directly contribute to the overall goals of the project.\n\n## 1. Definition of a User Story\n\nA User Story typically follows a simple structure:\n\nAs a [type of user], I want [some goal] so that [some reason].\n\nThis format ensures that the story is user-focused and explains the functionality from the user’s point of view. By centering on the user’s needs, the development team can better prioritize work that delivers real value.\n\n## Key Components of a User Story:\nRole: Who is the end user (e.g., customer, admin, user)?Goal: What does the user want to achieve?",
+      "content_length": 1374,
+      "extraction_successful": true
+    },
+    {
+      "metadata": {
+        "id": "db0070948d3a",
+        "title": "AI Frameworks: What You Need to Know",
+        "url": "https://ismatsamadov.medium.com/ai-frameworks-what-you-need-to-know-db0070948d3a",
+        "unique_slug": "ai-frameworks-what-you-need-to-know-db0070948d3a",
+        "published_at": "2024-10-23T17:55:27.628000",
+        "updated_at": "2024-11-14T23:40:35.061000",
+        "reading_time": 7.845283018867924,
+        "word_count": 2026,
+        "clap_count": 0,
+        "visibility": "LOCKED",
+        "is_locked": true,
+        "response_count": 0,
+        "creator": {
+          "__typename": "User",
+          "id": "4a5238264eac",
+          "customDomainState": {
+            "live": {
+              "domain": "ismatsamadov.medium.com",
+              "__typename": "CustomDomain"
+            },
+            "__typename": "CustomDomainState"
+          },
+          "hasSubdomain": true,
+          "username": "ismatsamadov",
+          "newsletterV3": {
+            "id": "a6a451ef83e4",
+            "subscribersCount": 24,
+            "__typename": "NewsletterV3"
+          }
+        }
+      },
+      "full_content": "Member-only story\n\n# AI Frameworks: What You Need to Know\n\nIsmat Samadov\n\n8 min read\n·Oct 23, 2024\n\n--\n\nShare\n\nAI frameworks are essential tools that simplify the development, deployment, and scaling of artificial intelligence models.\n\nThey provide pre-built components for building machine learning models, managing data, and optimizing performance.\n\nPopular AI frameworks like TensorFlow, PyTorch, and Keras offer tools for tasks ranging from deep learning to natural language processing.\n\nUnderstanding these frameworks allows developers to streamline model development, leverage powerful algorithms, and implement AI solutions faster and more efficiently.\n\nThis guide outlines key AI frameworks, their features, and their best use cases to help you choose the right tool for your AI projects.\n\nPress enter or click to view image in full size\n\nPhoto by Jason Leung on Unsplash\nArtificial Intelligence (AI) has become a driving force behind modern technologies, enabling breakthroughs in fields such as natural language processing, computer vision, robotics, and more. To build and deploy AI models efficiently, developers rely on AI frameworks — tools that simplify the development, training, and deployment of machine learning (ML) and deep learning (DL) models. These frameworks provide pre-built components, algorithms, and utilities, allowing engineers and researchers to focus more on solving problems rather than reinventing the wheel.",
+      "content_length": 1444,
+      "extraction_successful": true
+    }
+  ]
+}
