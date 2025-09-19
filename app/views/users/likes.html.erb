@@ -1,6 +1,0 @@
-<h1 class="mb-3"> <%= @user.username %> Likes </h1>
-<% unless @user.likes.empty? %>
-  <%= render  partial: "tweets/tweet", collection: @user.likes, as: :tweet, locals: {likes_count: @likes_count} %>
-<% else %>
-  <h2>No Likes</h2>
-<% end %>

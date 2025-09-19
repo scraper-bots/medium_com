@@ -1,8 +1,0 @@
-<%= render  partial: "tweet_error", locals: {tweet: tweet} %>
-<%= form_with model: tweet, local: true, method: :patch, html: {"data-controller": "character-count"} do |f|%>
-  <div class="d-flex flex-column align-items-end">
-    <%= f.text_area :content, class: "form-control mb-2", "data-action": "character-count#update", "data-character-count-target": "textarea" %>
-    <div class="text-secondary p-1", data-character-count-target="counter"></div>
-  </div>
-  <%= f.submit "Save", class: "btn btn-primary" %>
-<% end %>
