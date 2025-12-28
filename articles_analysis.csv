@@ -1,0 +1,183 @@
+article_number,title,title_length,url_length,has_content,topic_AI_ML,topic_Data_Science,topic_Programming,topic_Business,topic_Web_Development,topic_Career_Personal,topic_System_Design,topic_Testing_QA
+1,"From Frustration to Innovation: My Journey Building BirJob, Azerbaijan's Premier Job-Matching iOS…",98,140,False,True,False,False,False,False,True,False,False
+2,Logging Out,11,56,False,False,False,False,False,False,False,False,False
+3,Bridging Physics and Machine Learning,37,82,False,True,False,False,False,False,True,False,False
+4,Can One Person Really Build a Digital Business with Generative AI?,66,110,False,True,False,False,True,False,False,False,False
+5,Confidence Intervals,20,65,False,False,False,False,False,False,False,False,False
+6,Prompt Engineering,18,63,False,False,False,False,False,False,False,False,False
+7,Lost Generation 2.0,19,63,False,False,False,False,False,False,False,False,False
+8,Advanced Concepts in Data Science,33,78,False,False,True,False,False,False,False,False,False
+9,Why Becoming a Software Developer Still Matters,47,92,False,False,False,True,False,False,False,False,False
+10,Forensic Analysis of Registered Users,37,82,False,False,True,False,False,False,False,False,False
+11,Reasoning and Pattern Recognition in Data Science: Understanding How Machines Make Sense of Data,96,140,False,False,True,False,False,False,False,False,False
+12,The Mersenne Twister Algorithm. A Deep Dive into a Pseudo-Random Number Generator,81,125,False,False,False,False,False,False,False,False,False
+13,"Understanding Randomness, Entropy, and Random Number Generators: From Pseudo-RNGs to True RNGs",94,136,False,False,False,False,False,False,False,False,False
+14,Embedded Operating Systems: The Backbone of Advanced Systems like the F-35,74,118,False,False,False,False,False,False,False,True,False
+15,Why Tree and Graph-Based Machine Learning Models Work Well with Fraud Detection,79,124,False,True,False,False,False,False,True,False,False
+16,Time Series Forecasting . Different Models with Examples,56,99,False,True,False,False,False,False,False,False,False
+17,Understanding Evaluation Metrics for Machine Learning Models,60,105,False,True,False,False,False,False,True,False,False
+18,Outlier Detection in Machine Learning.,38,82,False,True,False,False,False,False,True,False,False
+19,Humanization in the Age of AI.,30,74,False,True,False,False,False,False,False,False,False
+20,Fake News Detection. Challenges and Machine Learning Models to Combat Disinformation,84,128,False,True,False,False,False,False,True,False,False
+21,"Node.js, Deno, and Bun",22,64,False,False,False,False,False,False,False,False,False
+22,Agile Prioritization Techniques You Must Know,45,90,False,False,False,False,False,False,False,False,False
+23,Agile Requirements Gathering Methodologies,42,87,False,False,False,False,False,False,False,False,False
+24,What is a User Story in Agile? Explained with Examples,54,98,False,True,False,False,False,False,False,False,False
+25,AI Frameworks: What You Need to Know,36,80,False,True,False,False,False,False,False,False,False
+26,Approaches to Reasoning in Artificial Intelligence,50,95,False,True,False,False,False,False,False,False,False
+27,Can Apple Ever Fail?,20,64,False,True,False,False,False,False,False,False,False
+28,We Have No Data Left,20,65,False,False,True,False,False,False,False,False,False
+29,Explainable AI,14,59,False,True,False,False,False,False,False,False,False
+30,Graph Machine Learning Models,29,74,False,True,False,False,False,False,True,False,False
+31,SwiftData vs Core Data,22,67,False,False,True,False,False,False,False,False,False
+32,SwiftUI vs Storyboard,21,66,False,False,False,False,False,False,False,False,False
+33,5 Stages of Startup Success,27,72,False,False,False,False,True,False,False,False,False
+34,7 Funding Rounds Every Startup Should Know,42,87,False,False,False,False,True,False,False,False,False
+35,5 Proven Business Models That Drive Massive Profits for Startups,64,109,False,True,False,False,True,False,False,False,False
+36,The Legal Landscape of Web Scraping: Key Court Decisions You Should Know,72,116,False,False,False,False,False,True,False,False,False
+37,The 5 Pillars of Successful Team Adaptation,43,88,False,False,False,False,False,False,False,False,False
+38,Recruitment Steps,17,62,False,False,False,False,False,False,False,False,False
+39,Return vs Yield,15,60,False,False,False,False,False,False,False,False,False
+40,Location Analytics,18,63,False,False,True,False,False,False,False,False,False
+41,Top 5 Ultrabooks of 2024: The Ultimate Portable Powerhouses for Professionals,77,121,False,False,False,False,False,False,False,False,False
+42,How to Build a Tech Startup with Zero Coding Skills,51,96,False,False,False,False,True,False,True,False,False
+43,Mastering Business Analysis: Key Techniques and Real-World Scenarios,68,112,False,False,True,False,True,False,False,False,False
+44,"The Coffee Shop Business: An Analysis of Trends, Opportunities, and Challenges",78,120,False,False,True,False,True,False,False,False,False
+45,"The Global Recruiting Industry: Trends, Growth, and Future Projections",70,112,False,False,False,False,False,False,False,False,False
+46,Maximizing Efficiency with RPA: Identifying Automation Opportunities and Mastering Data Collection,98,142,False,False,True,False,False,False,False,False,False
+47,Building a Budget Analysis Tool with Machine Learning and Python,64,109,False,True,True,True,False,False,True,False,False
+48,"Root Cause Analysis Explained: Definition, Examples, and Methods",64,106,False,True,True,False,False,False,False,False,False
+49,Functional vs Procedural Programming and Declarative vs Imperative Programming,78,123,False,False,False,True,False,False,False,False,False
+50,An Introduction to Socket Programming in Python,47,92,False,False,False,True,False,False,False,False,False
+51,Vectorized NumPy Functions,26,71,False,False,False,False,False,False,False,False,False
+52,Advanced Graph Fraud Models for Fraud Transaction Detection in Banking Data,75,120,False,True,True,False,False,False,False,False,False
+53,Churn Prediction Models,23,68,False,True,False,False,False,False,False,False,False
+54,Customer Lifetime Value (CLV),29,72,False,False,False,False,False,False,False,False,False
+55,RUST,4,49,False,False,False,False,False,False,False,False,False
+56,ASGI vs WSGI,12,57,False,False,False,False,False,False,False,False,False
+57,Gunicorn vs Uvicorn,19,64,False,False,False,False,False,False,False,False,False
+58,WSGI,4,49,False,False,False,False,False,False,False,False,False
+59,ORM,3,48,False,False,False,False,False,False,False,False,False
+60,MVC,3,48,False,False,False,False,False,False,False,False,False
+61,Birth of Transformers,21,66,False,False,False,False,False,False,False,False,False
+62,Token in authentication,23,68,False,False,False,False,False,False,False,False,False
+63,Hashcode,8,53,False,False,False,True,False,False,False,False,False
+64,Business Case Example,21,66,False,False,False,False,True,False,False,False,False
+65,Recursion,9,54,False,False,False,False,False,False,False,False,False
+66,OOP and Alternatives,20,65,False,False,False,False,False,False,False,False,False
+67,Design Patterns,15,60,False,False,False,False,False,False,False,True,False
+68,Redis,5,50,False,False,False,False,False,False,False,False,False
+69,Surviving From Imposter Syndrome,32,77,False,False,False,False,False,False,False,False,False
+70,Time complexity for newbies,27,72,False,False,False,False,False,False,False,False,False
+71,Visualization : The Art of Seeing Data,38,81,False,False,True,False,False,False,False,False,False
+72,The Data Dream Team: Understanding Roles in the Data Universe,61,105,False,False,True,False,False,False,False,False,False
+73,Roadmap to Data Science,23,68,False,False,True,False,False,False,False,False,False
+74,Business Analyst Roadmap,24,69,False,False,False,False,True,False,False,False,False
+75,Machine Learning and Cryptography,33,78,False,True,False,False,False,False,True,False,False
+76,Kintsugi,8,53,False,False,False,False,False,False,False,False,False
+77,Data Analyst Roadmap,20,65,False,False,True,False,False,False,False,False,False
+78,Backend Development: The Brains Behind the Beauty,49,93,False,True,False,False,False,True,False,False,False
+79,Backend Roadmap (Node.js),25,67,False,False,False,False,False,True,False,False,False
+80,Stable Diffusion,16,61,False,False,False,False,False,False,False,False,False
+81,Pointers in C: A Human-Friendly Guide with Code Examples,56,100,False,False,False,True,False,False,True,False,False
+82,Bitmap vs. B-Tree Indexes in Oracle SQL,39,83,False,False,False,False,False,False,False,False,False
+83,What Is MVP In Software Development?,36,80,False,False,False,True,False,False,False,False,False
+84,Promises in JavaScript,22,67,False,False,False,True,False,False,False,False,False
+85,Correlated vs Non-Correlated Subquery,37,82,False,False,False,False,False,False,False,False,False
+86,"The Web's Security Trifecta: SOP, CORS, and CSRF",48,89,False,False,False,False,False,True,False,False,False
+87,"Agile, Product Owner, and Scrum Master",38,81,False,False,False,False,False,False,False,False,False
+88,REST API,8,53,False,False,False,False,False,True,False,False,False
+89,Learn Coding by Doing: JIT,26,70,False,False,False,False,False,False,False,False,False
+90,Computer Vision,15,60,False,False,False,False,False,False,False,False,False
+91,Business Analyst,16,61,False,False,False,False,True,False,False,False,False
+92,Mistral 8x7B: A Dense Language Model with Sparse Efficiency,59,103,False,True,False,False,False,False,False,False,False
+93,Data Scientist,14,59,False,False,True,False,False,False,False,False,False
+94,"Differences Between: Data Analyst, Business Analyst, IT Business Analyst, and Data Scientist",92,133,False,False,True,False,True,False,False,False,False
+95,Data Analyst,12,57,False,False,True,False,False,False,False,False,False
+96,Backend as a Service: Your One-Stop Shop for Hidden App Magic,61,105,False,False,False,False,False,True,False,False,False
+97,"Web Design Principles: A Symphony of Color, Typography, UI, and UX",66,107,False,False,False,False,False,True,False,True,False
+98,Grook,5,50,False,False,False,False,False,False,False,False,False
+99,Web Development: Color Theory and Typography,44,88,False,False,False,False,False,True,False,False,False
+100,Multimodal Models and Alternatives,34,79,False,True,False,False,False,False,False,False,False
+101,ML Engineer Roadmap,19,64,False,True,False,False,False,False,False,False,False
+102,Roadmap to Web Development,26,71,False,False,False,False,False,True,False,False,False
+103,Future Proof,12,57,False,False,False,False,False,False,False,False,False
+104,The Creation of Google's AI Model: Gemini,41,84,False,True,False,False,False,False,False,False,False
+105,DevOps & DataOps,16,63,False,False,True,False,False,False,False,False,False
+106,Google Gemini: A New Era of AI,30,74,False,True,False,False,False,False,False,False,False
+107,iPhone vs Android,17,62,False,False,False,False,False,False,False,False,False
+108,Best 5 notebooks for AI development,35,80,False,True,False,False,False,False,False,False,False
+109,MacOS vs. Windows vs. Linux,27,70,False,False,False,False,False,False,False,False,False
+110,Home Price Prediction E2E Web App,33,78,False,False,False,False,False,True,False,False,False
+111,Automating Tasks with Windows Task Scheduler and Python,55,100,False,False,False,True,False,False,False,False,False
+112,Web Scraping Methods and Techniques,35,80,False,False,False,False,False,True,False,False,False
+113,Rethinking the Role of Universities in the 21st Century: Are They Becoming Obsolete?,84,127,False,False,False,False,False,False,False,False,False
+114,Lua,3,48,False,False,False,False,False,False,False,False,False
+115,Unleashing the Power of Web Scraping with Scrapy Splash,55,100,False,False,False,False,False,True,False,False,False
+116,Embracing Ikigai: The Japanese Concept of Purpose and Fulfillment,65,109,False,True,False,False,False,False,False,False,False
+117,Flow Theory,11,56,False,False,False,False,False,False,False,False,False
+118,A Deep Dive into the ACID Principles: Ensuring Reliable Data Transactions,73,117,False,False,True,False,False,False,False,False,False
+119,Scheduled Scraping and Automated Data Storage with Free Cloud Databases,71,116,False,False,True,False,False,True,False,False,False
+120,PostgreSQL: A Comprehensive Guide to Powerful Relational Database Management,76,120,False,False,True,False,False,False,True,False,False
+121,Docker,6,51,False,False,False,False,False,False,False,False,False
+122,Nginx,5,50,False,False,False,False,False,False,False,False,False
+123,Multithreading in Java,22,67,False,False,False,True,False,False,False,False,False
+124,Web Scraping with Scrapy: A Comprehensive Guide with Detailed Code Examples,75,119,False,True,False,True,False,True,True,False,False
+125,The Power and Potential of Web Scraping: Hidden Insights of the Internet,72,116,False,False,False,False,False,True,False,False,False
+126,Functional Programming Paradigm,31,76,False,False,False,True,False,False,False,False,False
+127,The Power of the Stream API: Simplifying Data Processing,56,100,False,False,True,False,False,True,False,False,False
+128,Kotlin: A Modern Language for Java Developers,45,89,False,False,False,True,False,False,False,False,False
+129,Amazon Leadership Principles,28,73,False,False,False,False,False,False,False,False,False
+130,Unleashing the Power of the Collections API in Java,51,96,False,False,False,True,False,True,False,False,False
+131,Analyzing Complexity in Java: Unveiling the Inner Workings,58,102,False,False,False,True,False,False,False,False,False
+132,Comparators in Java,19,64,False,False,False,True,False,False,False,False,False
+133,Java Collections: Data Structures and Algorithms,48,92,False,False,True,True,False,False,False,False,False
+134,Generics in Java,16,61,False,False,False,True,False,False,False,False,False
+135,Java APIs,9,54,False,False,False,True,False,True,False,False,False
+136,Exception Handling in Java: Ensuring Robustness and Reliability,63,107,False,False,False,True,False,False,False,False,False
+137,Interfaces in Java,18,63,False,False,False,True,False,False,False,False,False
+138,The String Class in Java,24,69,False,False,False,True,False,False,False,False,False
+139,Enums in Java: Type Safety and Readability,42,86,False,False,False,True,False,False,False,False,False
+140,Immutables in Java,18,63,False,False,False,True,False,False,False,False,False
+141,Java Syllabus,13,58,False,False,False,True,False,False,False,False,False
+142,"Big O Notation, Omega Notation, and Theta Notation: Asymptotic Analysis of Algorithms",85,127,False,False,True,False,False,False,False,False,False
+143,Data Structures for Efficient Programming,41,86,False,False,True,True,False,False,False,False,False
+144,Mastering Essential Algorithms,30,75,False,False,False,False,False,False,False,False,False
+145,The Importance of Arrays in Java,32,77,False,False,False,True,False,False,False,False,False
+146,Understanding Java Garbage Collection,37,82,False,False,False,True,False,False,False,False,False
+147,Understanding Computer Memory Management,40,85,False,False,False,False,False,False,False,False,False
+148,Heap and Stack Memory in Java,29,74,False,False,False,True,False,False,False,False,False
+149,hashCode() method in java,25,68,False,False,False,True,False,False,False,False,False
+150,Java key concepts,17,62,False,False,False,True,False,False,False,False,False
+151,Multithreading Principles to Optimize Our Lives,47,92,False,False,False,False,False,False,False,False,False
+152,Fraud Analyst Salary,20,65,False,False,False,False,False,False,False,False,False
+153,Telecom Fraud,13,58,False,False,False,False,False,False,False,False,False
+154,10 Strategies For Continue To Learning While Working,52,97,False,False,False,False,False,False,True,False,False
+155,Kaizen as Personal Development Tool,35,80,False,True,False,False,False,False,False,False,False
+156,How We Can Write Book With ChatGPT,34,79,False,False,False,False,False,False,False,False,False
+157,How We Can Make Money With AI,29,74,False,True,False,False,False,False,False,False,False
+158,How We Can Increase Our Income Sources,38,83,False,False,False,False,False,False,False,False,False
+159,How We Can Reduce Belly Fat Effectivly,38,83,False,False,False,False,False,False,False,False,False
+160,How we can easily learn Java Backend Development from zero,58,103,False,False,False,True,False,True,False,False,False
+161,How we can make passive income our Data Analyst and Data Scientist skills,73,118,False,False,True,False,False,False,False,False,False
+162,How we can learn Java Backend Development effectivly,52,97,False,False,False,True,False,True,False,False,False
+163,What is best method for learning Scrapy Framework ?,51,95,False,False,False,False,False,False,True,False,False
+164,What is freelance Data Analyst daily routine?,45,89,False,True,True,False,False,False,False,False,False
+165,Create KPIs for yourself,24,69,False,False,False,False,False,False,False,False,False
+166,ChatBots in Hacking,19,64,False,False,False,False,False,False,False,False,False
+167,How We Can Use Machine Learning in Hacking,42,87,False,True,False,False,False,False,True,False,False
+168,Machine Learning in Cryptography,32,77,False,True,False,False,False,False,True,False,False
+169,Multi-Armed Bandits in Fraud Prevention and Detection,53,98,False,False,False,False,False,False,False,False,False
+170,Multi-Armed Bandit Problem,26,71,False,False,False,False,False,False,False,False,False
+171,Exploring Recommendation Systems,32,77,False,False,False,False,False,False,False,True,False
+172,Anomaly Detection in Time Series Data,37,82,False,False,True,False,False,False,False,False,False
+173,Recommendation System for Online Learning Platforms,51,96,False,False,False,False,False,False,True,True,False
+174,Comparative Analysis of Recommendation System Algorithms,56,101,False,False,True,False,False,False,False,True,False
+175,Cross-Validation Techniques,27,72,False,False,False,False,False,False,False,False,False
+176,K-Means Clustering with Python,30,75,False,False,False,True,False,False,False,False,False
+177,Understanding Bias and Variance in Machine Learning,51,96,False,True,False,False,False,False,True,False,False
+178,Deep Learning with TensorFlow,29,74,False,True,False,False,False,False,True,False,False
+179,Intro to Neural Networks,24,69,False,True,False,False,False,False,False,False,False
+180,My Writing Journey on Medium,28,73,False,False,False,False,False,False,True,False,False
+181,My Writing,10,55,False,False,False,False,False,False,False,False,False
+182,CRISPE prompt,13,58,False,False,False,False,False,False,False,False,False
